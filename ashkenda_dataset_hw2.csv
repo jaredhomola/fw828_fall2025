@@ -1,2501 +1,5001 @@
 population,individual,allele
-Michigan,1,T
-Michigan,2,T
-Michigan,3,C
-Michigan,4,C
-Michigan,5,A
-Michigan,6,T
-Michigan,7,T
-Michigan,8,T
-Michigan,9,T
-Michigan,10,T
-Michigan,11,T
-Michigan,12,G
-Michigan,13,A
-Michigan,14,T
-Michigan,15,T
-Michigan,16,C
-Michigan,17,C
-Michigan,18,C
-Michigan,19,T
-Michigan,20,T
-Michigan,21,T
-Michigan,22,G
-Michigan,23,A
-Michigan,24,T
-Michigan,25,G
-Michigan,26,C
-Michigan,27,C
-Michigan,28,T
-Michigan,29,C
-Michigan,30,T
-Michigan,31,C
-Michigan,32,A
-Michigan,33,T
-Michigan,34,T
-Michigan,35,A
-Michigan,36,G
-Michigan,37,T
-Michigan,38,T
-Michigan,39,C
-Michigan,40,T
-Michigan,41,T
-Michigan,42,T
-Michigan,43,C
-Michigan,44,T
-Michigan,45,C
-Michigan,46,T
-Michigan,47,C
-Michigan,48,T
-Michigan,49,T
-Michigan,50,T
-Michigan,51,G
-Michigan,52,T
-Michigan,53,C
-Michigan,54,G
-Michigan,55,T
-Michigan,56,T
-Michigan,57,A
-Michigan,58,G
-Michigan,59,C
-Michigan,60,T
-Michigan,61,G
-Michigan,62,C
-Michigan,63,G
-Michigan,64,T
-Michigan,65,T
-Michigan,66,A
-Michigan,67,T
-Michigan,68,T
-Michigan,69,G
-Michigan,70,T
-Michigan,71,T
-Michigan,72,T
-Michigan,73,T
-Michigan,74,T
-Michigan,75,A
-Michigan,76,T
-Michigan,77,C
-Michigan,78,T
-Michigan,79,T
-Michigan,80,T
-Michigan,81,A
-Michigan,82,T
-Michigan,83,T
-Michigan,84,G
-Michigan,85,G
-Michigan,86,T
-Michigan,87,T
-Michigan,88,T
-Michigan,89,A
-Michigan,90,T
-Michigan,91,T
-Michigan,92,C
-Michigan,93,T
-Michigan,94,T
-Michigan,95,A
-Michigan,96,G
-Michigan,97,G
-Michigan,98,T
-Michigan,99,T
-Michigan,100,G
-Michigan,101,T
-Michigan,102,C
-Michigan,103,T
-Michigan,104,T
-Michigan,105,C
-Michigan,106,C
-Michigan,107,T
-Michigan,108,T
-Michigan,109,A
-Michigan,110,T
-Michigan,111,T
-Michigan,112,C
-Michigan,113,T
-Michigan,114,T
-Michigan,115,T
-Michigan,116,G
-Michigan,117,C
-Michigan,118,T
-Michigan,119,T
-Michigan,120,T
-Michigan,121,C
-Michigan,122,T
-Michigan,123,C
-Michigan,124,C
-Michigan,125,G
-Michigan,126,T
-Michigan,127,T
-Michigan,128,C
-Michigan,129,T
-Michigan,130,A
-Michigan,131,A
-Michigan,132,T
-Michigan,133,C
-Michigan,134,C
-Michigan,135,T
-Michigan,136,T
-Michigan,137,C
-Michigan,138,T
-Michigan,139,T
-Michigan,140,T
-Michigan,141,T
-Michigan,142,T
-Michigan,143,T
-Michigan,144,T
-Michigan,145,C
-Michigan,146,T
-Michigan,147,C
-Michigan,148,C
-Michigan,149,T
-Michigan,150,T
-Michigan,151,C
-Michigan,152,T
-Michigan,153,C
-Michigan,154,T
-Michigan,155,A
-Michigan,156,G
-Michigan,157,A
-Michigan,158,T
-Michigan,159,T
-Michigan,160,T
-Michigan,161,T
-Michigan,162,T
-Michigan,163,T
-Michigan,164,T
-Michigan,165,T
-Michigan,166,T
-Michigan,167,C
-Michigan,168,C
-Michigan,169,G
-Michigan,170,T
-Michigan,171,T
-Michigan,172,T
-Michigan,173,T
-Michigan,174,T
-Michigan,175,G
-Michigan,176,T
-Michigan,177,T
-Michigan,178,T
-Michigan,179,C
-Michigan,180,T
-Michigan,181,A
-Michigan,182,T
-Michigan,183,T
-Michigan,184,T
-Michigan,185,T
-Michigan,186,T
-Michigan,187,T
-Michigan,188,T
-Michigan,189,T
-Michigan,190,T
-Michigan,191,T
-Michigan,192,G
-Michigan,193,T
-Michigan,194,T
-Michigan,195,T
-Michigan,196,G
-Michigan,197,T
-Michigan,198,T
-Michigan,199,T
-Michigan,200,A
-Michigan,201,T
-Michigan,202,T
-Michigan,203,C
-Michigan,204,A
-Michigan,205,T
-Michigan,206,A
-Michigan,207,A
-Michigan,208,T
-Michigan,209,T
-Michigan,210,C
-Michigan,211,T
-Michigan,212,A
-Michigan,213,T
-Michigan,214,T
-Michigan,215,T
-Michigan,216,T
-Michigan,217,T
-Michigan,218,T
-Michigan,219,G
-Michigan,220,C
-Michigan,221,C
-Michigan,222,T
-Michigan,223,T
-Michigan,224,T
-Michigan,225,T
-Michigan,226,C
-Michigan,227,G
-Michigan,228,A
-Michigan,229,T
-Michigan,230,A
-Michigan,231,A
-Michigan,232,T
-Michigan,233,T
-Michigan,234,T
-Michigan,235,T
-Michigan,236,T
-Michigan,237,T
-Michigan,238,T
-Michigan,239,T
-Michigan,240,T
-Michigan,241,A
-Michigan,242,G
-Michigan,243,A
-Michigan,244,T
-Michigan,245,T
-Michigan,246,T
-Michigan,247,A
-Michigan,248,T
-Michigan,249,T
-Michigan,250,A
-Michigan,251,T
-Michigan,252,G
-Michigan,253,T
-Michigan,254,G
-Michigan,255,T
-Michigan,256,A
-Michigan,257,T
-Michigan,258,T
-Michigan,259,T
-Michigan,260,C
-Michigan,261,T
-Michigan,262,C
-Michigan,263,T
-Michigan,264,T
-Michigan,265,T
-Michigan,266,T
-Michigan,267,T
-Michigan,268,T
-Michigan,269,T
-Michigan,270,T
-Michigan,271,A
-Michigan,272,C
-Michigan,273,T
-Michigan,274,T
-Michigan,275,T
-Michigan,276,A
-Michigan,277,T
-Michigan,278,T
-Michigan,279,G
-Michigan,280,T
-Michigan,281,T
-Michigan,282,T
-Michigan,283,G
-Michigan,284,T
-Michigan,285,T
-Michigan,286,T
-Michigan,287,G
-Michigan,288,A
-Michigan,289,T
-Michigan,290,T
-Michigan,291,T
-Michigan,292,T
-Michigan,293,C
-Michigan,294,C
-Michigan,295,T
-Michigan,296,T
-Michigan,297,G
-Michigan,298,C
-Michigan,299,C
-Michigan,300,C
-Michigan,301,T
-Michigan,302,T
-Michigan,303,T
-Michigan,304,T
-Michigan,305,T
-Michigan,306,T
-Michigan,307,T
-Michigan,308,C
-Michigan,309,T
-Michigan,310,T
-Michigan,311,G
-Michigan,312,T
-Michigan,313,T
-Michigan,314,T
-Michigan,315,C
-Michigan,316,T
-Michigan,317,C
-Michigan,318,A
-Michigan,319,A
-Michigan,320,T
-Michigan,321,T
-Michigan,322,A
-Michigan,323,T
-Michigan,324,A
-Michigan,325,T
-Michigan,326,T
-Michigan,327,T
-Michigan,328,A
-Michigan,329,T
-Michigan,330,A
-Michigan,331,T
-Michigan,332,T
-Michigan,333,T
-Michigan,334,C
-Michigan,335,C
-Michigan,336,C
-Michigan,337,T
-Michigan,338,T
-Michigan,339,C
-Michigan,340,T
-Michigan,341,T
-Michigan,342,T
-Michigan,343,T
-Michigan,344,T
-Michigan,345,A
-Michigan,346,C
-Michigan,347,T
-Michigan,348,T
-Michigan,349,T
-Michigan,350,G
-Michigan,351,T
-Michigan,352,T
-Michigan,353,T
-Michigan,354,C
-Michigan,355,A
-Michigan,356,C
-Michigan,357,T
-Michigan,358,C
-Michigan,359,T
-Michigan,360,C
-Michigan,361,T
-Michigan,362,A
-Michigan,363,C
-Michigan,364,T
-Michigan,365,T
-Michigan,366,T
-Michigan,367,C
-Michigan,368,A
-Michigan,369,T
-Michigan,370,G
-Michigan,371,C
-Michigan,372,T
-Michigan,373,T
-Michigan,374,T
-Michigan,375,G
-Michigan,376,T
-Michigan,377,T
-Michigan,378,T
-Michigan,379,T
-Michigan,380,A
-Michigan,381,T
-Michigan,382,C
-Michigan,383,A
-Michigan,384,T
-Michigan,385,T
-Michigan,386,T
-Michigan,387,C
-Michigan,388,T
-Michigan,389,C
-Michigan,390,T
-Michigan,391,C
-Michigan,392,T
-Michigan,393,C
-Michigan,394,T
-Michigan,395,T
-Michigan,396,A
-Michigan,397,A
-Michigan,398,T
-Michigan,399,T
-Michigan,400,T
-Michigan,401,A
-Michigan,402,A
-Michigan,403,C
-Michigan,404,C
-Michigan,405,T
-Michigan,406,C
-Michigan,407,T
-Michigan,408,T
-Michigan,409,T
-Michigan,410,A
-Michigan,411,T
-Michigan,412,G
-Michigan,413,T
-Michigan,414,C
-Michigan,415,A
-Michigan,416,T
-Michigan,417,T
-Michigan,418,C
-Michigan,419,T
-Michigan,420,T
-Michigan,421,C
-Michigan,422,T
-Michigan,423,T
-Michigan,424,T
-Michigan,425,G
-Michigan,426,T
-Michigan,427,T
-Michigan,428,C
-Michigan,429,T
-Michigan,430,T
-Michigan,431,G
-Michigan,432,C
-Michigan,433,T
-Michigan,434,C
-Michigan,435,T
-Michigan,436,C
-Michigan,437,T
-Michigan,438,C
-Michigan,439,C
-Michigan,440,T
-Michigan,441,A
-Michigan,442,C
-Michigan,443,T
-Michigan,444,C
-Michigan,445,T
-Michigan,446,C
-Michigan,447,T
-Michigan,448,T
-Michigan,449,T
-Michigan,450,T
-Michigan,451,T
-Michigan,452,T
-Michigan,453,T
-Michigan,454,A
-Michigan,455,C
-Michigan,456,C
-Michigan,457,C
-Michigan,458,T
-Michigan,459,C
-Michigan,460,T
-Michigan,461,T
-Michigan,462,T
-Michigan,463,G
-Michigan,464,T
-Michigan,465,T
-Michigan,466,A
-Michigan,467,T
-Michigan,468,C
-Michigan,469,C
-Michigan,470,T
-Michigan,471,C
-Michigan,472,C
-Michigan,473,T
-Michigan,474,T
-Michigan,475,C
-Michigan,476,T
-Michigan,477,T
-Michigan,478,C
-Michigan,479,C
-Michigan,480,T
-Michigan,481,C
-Michigan,482,T
-Michigan,483,C
-Michigan,484,A
-Michigan,485,T
-Michigan,486,T
-Michigan,487,T
-Michigan,488,C
-Michigan,489,T
-Michigan,490,T
-Michigan,491,T
-Michigan,492,T
-Michigan,493,T
-Michigan,494,T
-Michigan,495,A
-Michigan,496,A
-Michigan,497,G
-Michigan,498,T
-Michigan,499,T
-Michigan,500,C
-Burt,1,G
-Burt,2,G
-Burt,3,G
-Burt,4,T
-Burt,5,T
-Burt,6,A
-Burt,7,C
-Burt,8,C
-Burt,9,A
-Burt,10,A
-Burt,11,T
-Burt,12,A
-Burt,13,T
-Burt,14,G
-Burt,15,C
-Burt,16,A
-Burt,17,G
-Burt,18,G
-Burt,19,T
-Burt,20,A
-Burt,21,T
-Burt,22,G
-Burt,23,C
-Burt,24,A
-Burt,25,C
-Burt,26,T
-Burt,27,T
-Burt,28,A
-Burt,29,A
-Burt,30,C
-Burt,31,G
-Burt,32,A
-Burt,33,G
-Burt,34,C
-Burt,35,T
-Burt,36,A
-Burt,37,T
-Burt,38,A
-Burt,39,T
-Burt,40,T
-Burt,41,T
-Burt,42,T
-Burt,43,A
-Burt,44,G
-Burt,45,G
-Burt,46,T
-Burt,47,T
-Burt,48,T
-Burt,49,T
-Burt,50,G
-Burt,51,T
-Burt,52,G
-Burt,53,C
-Burt,54,C
-Burt,55,A
-Burt,56,T
-Burt,57,A
-Burt,58,G
-Burt,59,C
-Burt,60,A
-Burt,61,A
-Burt,62,A
-Burt,63,A
-Burt,64,T
-Burt,65,T
-Burt,66,T
-Burt,67,G
-Burt,68,A
-Burt,69,A
-Burt,70,C
-Burt,71,G
-Burt,72,A
-Burt,73,G
-Burt,74,T
-Burt,75,C
-Burt,76,A
-Burt,77,C
-Burt,78,G
-Burt,79,T
-Burt,80,A
-Burt,81,C
-Burt,82,T
-Burt,83,T
-Burt,84,G
-Burt,85,A
-Burt,86,C
-Burt,87,C
-Burt,88,G
-Burt,89,C
-Burt,90,G
-Burt,91,T
-Burt,92,G
-Burt,93,G
-Burt,94,G
-Burt,95,T
-Burt,96,G
-Burt,97,G
-Burt,98,G
-Burt,99,T
-Burt,100,C
-Burt,101,G
-Burt,102,C
-Burt,103,G
-Burt,104,G
-Burt,105,C
-Burt,106,A
-Burt,107,A
-Burt,108,T
-Burt,109,A
-Burt,110,A
-Burt,111,C
-Burt,112,G
-Burt,113,C
-Burt,114,A
-Burt,115,C
-Burt,116,T
-Burt,117,T
-Burt,118,A
-Burt,119,A
-Burt,120,T
-Burt,121,T
-Burt,122,C
-Burt,123,C
-Burt,124,T
-Burt,125,C
-Burt,126,G
-Burt,127,C
-Burt,128,T
-Burt,129,G
-Burt,130,G
-Burt,131,T
-Burt,132,G
-Burt,133,T
-Burt,134,G
-Burt,135,T
-Burt,136,C
-Burt,137,T
-Burt,138,G
-Burt,139,G
-Burt,140,A
-Burt,141,A
-Burt,142,T
-Burt,143,A
-Burt,144,C
-Burt,145,G
-Burt,146,C
-Burt,147,T
-Burt,148,C
-Burt,149,C
-Burt,150,G
-Burt,151,G
-Burt,152,A
-Burt,153,G
-Burt,154,T
-Burt,155,C
-Burt,156,G
-Burt,157,A
-Burt,158,C
-Burt,159,A
-Burt,160,C
-Burt,161,G
-Burt,162,C
-Burt,163,C
-Burt,164,A
-Burt,165,C
-Burt,166,G
-Burt,167,A
-Burt,168,G
-Burt,169,A
-Burt,170,G
-Burt,171,T
-Burt,172,C
-Burt,173,T
-Burt,174,C
-Burt,175,A
-Burt,176,G
-Burt,177,C
-Burt,178,A
-Burt,179,G
-Burt,180,T
-Burt,181,A
-Burt,182,T
-Burt,183,T
-Burt,184,A
-Burt,185,A
-Burt,186,C
-Burt,187,A
-Burt,188,C
-Burt,189,T
-Burt,190,A
-Burt,191,T
-Burt,192,T
-Burt,193,A
-Burt,194,A
-Burt,195,C
-Burt,196,G
-Burt,197,C
-Burt,198,C
-Burt,199,G
-Burt,200,A
-Burt,201,C
-Burt,202,T
-Burt,203,C
-Burt,204,C
-Burt,205,T
-Burt,206,C
-Burt,207,G
-Burt,208,A
-Burt,209,A
-Burt,210,C
-Burt,211,C
-Burt,212,A
-Burt,213,T
-Burt,214,T
-Burt,215,T
-Burt,216,T
-Burt,217,G
-Burt,218,A
-Burt,219,C
-Burt,220,C
-Burt,221,G
-Burt,222,G
-Burt,223,A
-Burt,224,T
-Burt,225,T
-Burt,226,A
-Burt,227,T
-Burt,228,G
-Burt,229,A
-Burt,230,T
-Burt,231,A
-Burt,232,G
-Burt,233,G
-Burt,234,C
-Burt,235,G
-Burt,236,C
-Burt,237,C
-Burt,238,T
-Burt,239,C
-Burt,240,C
-Burt,241,C
-Burt,242,G
-Burt,243,T
-Burt,244,T
-Burt,245,T
-Burt,246,C
-Burt,247,A
-Burt,248,C
-Burt,249,G
-Burt,250,C
-Burt,251,G
-Burt,252,G
-Burt,253,T
-Burt,254,G
-Burt,255,G
-Burt,256,T
-Burt,257,A
-Burt,258,G
-Burt,259,G
-Burt,260,T
-Burt,261,T
-Burt,262,G
-Burt,263,G
-Burt,264,C
-Burt,265,A
-Burt,266,T
-Burt,267,C
-Burt,268,C
-Burt,269,A
-Burt,270,G
-Burt,271,G
-Burt,272,G
-Burt,273,C
-Burt,274,T
-Burt,275,A
-Burt,276,A
-Burt,277,C
-Burt,278,C
-Burt,279,A
-Burt,280,G
-Burt,281,C
-Burt,282,T
-Burt,283,G
-Burt,284,G
-Burt,285,G
-Burt,286,G
-Burt,287,G
-Burt,288,C
-Burt,289,G
-Burt,290,G
-Burt,291,T
-Burt,292,G
-Burt,293,A
-Burt,294,G
-Burt,295,T
-Burt,296,C
-Burt,297,T
-Burt,298,C
-Burt,299,T
-Burt,300,G
-Burt,301,T
-Burt,302,T
-Burt,303,G
-Burt,304,C
-Burt,305,T
-Burt,306,G
-Burt,307,C
-Burt,308,C
-Burt,309,A
-Burt,310,C
-Burt,311,A
-Burt,312,G
-Burt,313,A
-Burt,314,G
-Burt,315,C
-Burt,316,A
-Burt,317,G
-Burt,318,T
-Burt,319,C
-Burt,320,G
-Burt,321,T
-Burt,322,T
-Burt,323,G
-Burt,324,G
-Burt,325,T
-Burt,326,C
-Burt,327,C
-Burt,328,G
-Burt,329,A
-Burt,330,A
-Burt,331,G
-Burt,332,T
-Burt,333,T
-Burt,334,A
-Burt,335,T
-Burt,336,C
-Burt,337,C
-Burt,338,G
-Burt,339,A
-Burt,340,A
-Burt,341,C
-Burt,342,T
-Burt,343,C
-Burt,344,G
-Burt,345,C
-Burt,346,C
-Burt,347,T
-Burt,348,A
-Burt,349,C
-Burt,350,T
-Burt,351,G
-Burt,352,C
-Burt,353,A
-Burt,354,G
-Burt,355,T
-Burt,356,C
-Burt,357,G
-Burt,358,A
-Burt,359,A
-Burt,360,C
-Burt,361,G
-Burt,362,T
-Burt,363,A
-Burt,364,G
-Burt,365,A
-Burt,366,T
-Burt,367,T
-Burt,368,G
-Burt,369,G
-Burt,370,A
-Burt,371,A
-Burt,372,C
-Burt,373,G
-Burt,374,C
-Burt,375,T
-Burt,376,G
-Burt,377,G
-Burt,378,A
-Burt,379,C
-Burt,380,T
-Burt,381,T
-Burt,382,T
-Burt,383,T
-Burt,384,T
-Burt,385,T
-Burt,386,T
-Burt,387,C
-Burt,388,A
-Burt,389,A
-Burt,390,G
-Burt,391,G
-Burt,392,T
-Burt,393,A
-Burt,394,G
-Burt,395,C
-Burt,396,G
-Burt,397,T
-Burt,398,C
-Burt,399,G
-Burt,400,C
-Burt,401,A
-Burt,402,T
-Burt,403,C
-Burt,404,T
-Burt,405,G
-Burt,406,C
-Burt,407,G
-Burt,408,C
-Burt,409,C
-Burt,410,A
-Burt,411,T
-Burt,412,G
-Burt,413,A
-Burt,414,G
-Burt,415,T
-Burt,416,T
-Burt,417,T
-Burt,418,G
-Burt,419,A
-Burt,420,G
-Burt,421,G
-Burt,422,C
-Burt,423,G
-Burt,424,G
-Burt,425,A
-Burt,426,T
-Burt,427,C
-Burt,428,G
-Burt,429,T
-Burt,430,G
-Burt,431,A
-Burt,432,C
-Burt,433,G
-Burt,434,A
-Burt,435,C
-Burt,436,G
-Burt,437,G
-Burt,438,G
-Burt,439,G
-Burt,440,A
-Burt,441,C
-Burt,442,T
-Burt,443,G
-Burt,444,C
-Burt,445,T
-Burt,446,G
-Burt,447,T
-Burt,448,A
-Burt,449,C
-Burt,450,T
-Burt,451,G
-Burt,452,G
-Burt,453,A
-Burt,454,A
-Burt,455,G
-Burt,456,A
-Burt,457,C
-Burt,458,G
-Burt,459,G
-Burt,460,A
-Burt,461,T
-Burt,462,G
-Burt,463,A
-Burt,464,G
-Burt,465,T
-Burt,466,A
-Burt,467,T
-Burt,468,A
-Burt,469,A
-Burt,470,G
-Burt,471,G
-Burt,472,G
-Burt,473,T
-Burt,474,T
-Burt,475,A
-Burt,476,C
-Burt,477,T
-Burt,478,G
-Burt,479,A
-Burt,480,T
-Burt,481,G
-Burt,482,A
-Burt,483,G
-Burt,484,G
-Burt,485,A
-Burt,486,T
-Burt,487,G
-Burt,488,T
-Burt,489,T
-Burt,490,C
-Burt,491,G
-Burt,492,A
-Burt,493,C
-Burt,494,A
-Burt,495,T
-Burt,496,G
-Burt,497,A
-Burt,498,T
-Burt,499,G
-Burt,500,G
-Elk,1,A
-Elk,2,A
-Elk,3,A
-Elk,4,A
-Elk,5,C
-Elk,6,T
-Elk,7,C
-Elk,8,C
-Elk,9,T
-Elk,10,T
-Elk,11,C
-Elk,12,G
-Elk,13,C
-Elk,14,T
-Elk,15,T
-Elk,16,A
-Elk,17,C
-Elk,18,A
-Elk,19,A
-Elk,20,A
-Elk,21,T
-Elk,22,G
-Elk,23,A
-Elk,24,T
-Elk,25,T
-Elk,26,G
-Elk,27,C
-Elk,28,T
-Elk,29,G
-Elk,30,C
-Elk,31,A
-Elk,32,C
-Elk,33,A
-Elk,34,T
-Elk,35,G
-Elk,36,G
-Elk,37,T
-Elk,38,T
-Elk,39,C
-Elk,40,A
-Elk,41,G
-Elk,42,T
-Elk,43,G
-Elk,44,G
-Elk,45,T
-Elk,46,C
-Elk,47,G
-Elk,48,A
-Elk,49,C
-Elk,50,C
-Elk,51,A
-Elk,52,C
-Elk,53,T
-Elk,54,G
-Elk,55,C
-Elk,56,G
-Elk,57,C
-Elk,58,T
-Elk,59,G
-Elk,60,A
-Elk,61,G
-Elk,62,T
-Elk,63,A
-Elk,64,C
-Elk,65,A
-Elk,66,G
-Elk,67,C
-Elk,68,A
-Elk,69,A
-Elk,70,A
-Elk,71,G
-Elk,72,C
-Elk,73,A
-Elk,74,A
-Elk,75,G
-Elk,76,C
-Elk,77,C
-Elk,78,G
-Elk,79,T
-Elk,80,C
-Elk,81,A
-Elk,82,A
-Elk,83,T
-Elk,84,G
-Elk,85,T
-Elk,86,T
-Elk,87,T
-Elk,88,A
-Elk,89,A
-Elk,90,C
-Elk,91,T
-Elk,92,T
-Elk,93,A
-Elk,94,C
-Elk,95,G
-Elk,96,G
-Elk,97,A
-Elk,98,C
-Elk,99,T
-Elk,100,A
-Elk,101,G
-Elk,102,T
-Elk,103,G
-Elk,104,A
-Elk,105,G
-Elk,106,G
-Elk,107,A
-Elk,108,C
-Elk,109,T
-Elk,110,G
-Elk,111,C
-Elk,112,G
-Elk,113,T
-Elk,114,G
-Elk,115,T
-Elk,116,T
-Elk,117,C
-Elk,118,T
-Elk,119,A
-Elk,120,C
-Elk,121,C
-Elk,122,G
-Elk,123,A
-Elk,124,C
-Elk,125,T
-Elk,126,C
-Elk,127,C
-Elk,128,T
-Elk,129,C
-Elk,130,G
-Elk,131,G
-Elk,132,T
-Elk,133,A
-Elk,134,G
-Elk,135,T
-Elk,136,C
-Elk,137,C
-Elk,138,T
-Elk,139,C
-Elk,140,C
-Elk,141,A
-Elk,142,G
-Elk,143,C
-Elk,144,A
-Elk,145,C
-Elk,146,A
-Elk,147,C
-Elk,148,C
-Elk,149,A
-Elk,150,T
-Elk,151,C
-Elk,152,A
-Elk,153,C
-Elk,154,G
-Elk,155,T
-Elk,156,C
-Elk,157,A
-Elk,158,A
-Elk,159,A
-Elk,160,C
-Elk,161,C
-Elk,162,T
-Elk,163,G
-Elk,164,T
-Elk,165,G
-Elk,166,G
-Elk,167,C
-Elk,168,G
-Elk,169,G
-Elk,170,A
-Elk,171,T
-Elk,172,G
-Elk,173,A
-Elk,174,C
-Elk,175,C
-Elk,176,T
-Elk,177,G
-Elk,178,T
-Elk,179,C
-Elk,180,C
-Elk,181,G
-Elk,182,C
-Elk,183,T
-Elk,184,G
-Elk,185,T
-Elk,186,G
-Elk,187,G
-Elk,188,C
-Elk,189,T
-Elk,190,G
-Elk,191,C
-Elk,192,C
-Elk,193,A
-Elk,194,A
-Elk,195,A
-Elk,196,A
-Elk,197,A
-Elk,198,T
-Elk,199,C
-Elk,200,T
-Elk,201,T
-Elk,202,T
-Elk,203,C
-Elk,204,C
-Elk,205,T
-Elk,206,G
-Elk,207,G
-Elk,208,A
-Elk,209,A
-Elk,210,A
-Elk,211,T
-Elk,212,T
-Elk,213,A
-Elk,214,T
-Elk,215,C
-Elk,216,A
-Elk,217,T
-Elk,218,G
-Elk,219,G
-Elk,220,G
-Elk,221,C
-Elk,222,G
-Elk,223,T
-Elk,224,A
-Elk,225,G
-Elk,226,G
-Elk,227,G
-Elk,228,A
-Elk,229,T
-Elk,230,C
-Elk,231,G
-Elk,232,C
-Elk,233,T
-Elk,234,C
-Elk,235,T
-Elk,236,G
-Elk,237,G
-Elk,238,A
-Elk,239,T
-Elk,240,G
-Elk,241,C
-Elk,242,T
-Elk,243,G
-Elk,244,C
-Elk,245,A
-Elk,246,T
-Elk,247,G
-Elk,248,T
-Elk,249,G
-Elk,250,C
-Elk,251,C
-Elk,252,A
-Elk,253,G
-Elk,254,A
-Elk,255,A
-Elk,256,G
-Elk,257,T
-Elk,258,C
-Elk,259,G
-Elk,260,A
-Elk,261,A
-Elk,262,T
-Elk,263,C
-Elk,264,T
-Elk,265,G
-Elk,266,C
-Elk,267,A
-Elk,268,C
-Elk,269,A
-Elk,270,T
-Elk,271,G
-Elk,272,C
-Elk,273,C
-Elk,274,C
-Elk,275,T
-Elk,276,G
-Elk,277,A
-Elk,278,A
-Elk,279,G
-Elk,280,A
-Elk,281,C
-Elk,282,A
-Elk,283,C
-Elk,284,C
-Elk,285,C
-Elk,286,C
-Elk,287,G
-Elk,288,T
-Elk,289,G
-Elk,290,A
-Elk,291,G
-Elk,292,C
-Elk,293,G
-Elk,294,T
-Elk,295,A
-Elk,296,A
-Elk,297,T
-Elk,298,A
-Elk,299,G
-Elk,300,A
-Elk,301,T
-Elk,302,G
-Elk,303,G
-Elk,304,C
-Elk,305,G
-Elk,306,G
-Elk,307,C
-Elk,308,A
-Elk,309,C
-Elk,310,C
-Elk,311,T
-Elk,312,T
-Elk,313,G
-Elk,314,A
-Elk,315,C
-Elk,316,T
-Elk,317,C
-Elk,318,A
-Elk,319,A
-Elk,320,C
-Elk,321,C
-Elk,322,A
-Elk,323,A
-Elk,324,A
-Elk,325,G
-Elk,326,T
-Elk,327,G
-Elk,328,C
-Elk,329,T
-Elk,330,G
-Elk,331,A
-Elk,332,T
-Elk,333,C
-Elk,334,G
-Elk,335,A
-Elk,336,G
-Elk,337,C
-Elk,338,A
-Elk,339,T
-Elk,340,C
-Elk,341,G
-Elk,342,C
-Elk,343,A
-Elk,344,T
-Elk,345,T
-Elk,346,T
-Elk,347,T
-Elk,348,A
-Elk,349,C
-Elk,350,G
-Elk,351,A
-Elk,352,T
-Elk,353,T
-Elk,354,G
-Elk,355,G
-Elk,356,T
-Elk,357,A
-Elk,358,T
-Elk,359,A
-Elk,360,G
-Elk,361,C
-Elk,362,G
-Elk,363,A
-Elk,364,C
-Elk,365,G
-Elk,366,T
-Elk,367,G
-Elk,368,A
-Elk,369,C
-Elk,370,A
-Elk,371,G
-Elk,372,T
-Elk,373,T
-Elk,374,A
-Elk,375,C
-Elk,376,A
-Elk,377,C
-Elk,378,C
-Elk,379,G
-Elk,380,T
-Elk,381,T
-Elk,382,G
-Elk,383,T
-Elk,384,G
-Elk,385,G
-Elk,386,C
-Elk,387,G
-Elk,388,A
-Elk,389,A
-Elk,390,C
-Elk,391,G
-Elk,392,A
-Elk,393,A
-Elk,394,T
-Elk,395,G
-Elk,396,C
-Elk,397,G
-Elk,398,C
-Elk,399,C
-Elk,400,G
-Elk,401,T
-Elk,402,C
-Elk,403,G
-Elk,404,C
-Elk,405,C
-Elk,406,C
-Elk,407,T
-Elk,408,T
-Elk,409,G
-Elk,410,T
-Elk,411,C
-Elk,412,A
-Elk,413,C
-Elk,414,C
-Elk,415,G
-Elk,416,A
-Elk,417,G
-Elk,418,T
-Elk,419,G
-Elk,420,C
-Elk,421,G
-Elk,422,C
-Elk,423,A
-Elk,424,T
-Elk,425,G
-Elk,426,C
-Elk,427,G
-Elk,428,T
-Elk,429,A
-Elk,430,C
-Elk,431,T
-Elk,432,G
-Elk,433,T
-Elk,434,G
-Elk,435,C
-Elk,436,G
-Elk,437,A
-Elk,438,A
-Elk,439,G
-Elk,440,T
-Elk,441,A
-Elk,442,A
-Elk,443,A
-Elk,444,T
-Elk,445,T
-Elk,446,G
-Elk,447,G
-Elk,448,A
-Elk,449,T
-Elk,450,C
-Elk,451,T
-Elk,452,A
-Elk,453,C
-Elk,454,C
-Elk,455,A
-Elk,456,A
-Elk,457,T
-Elk,458,G
-Elk,459,C
-Elk,460,C
-Elk,461,T
-Elk,462,C
-Elk,463,T
-Elk,464,T
-Elk,465,C
-Elk,466,G
-Elk,467,G
-Elk,468,C
-Elk,469,G
-Elk,470,G
-Elk,471,C
-Elk,472,C
-Elk,473,A
-Elk,474,C
-Elk,475,A
-Elk,476,C
-Elk,477,C
-Elk,478,A
-Elk,479,G
-Elk,480,G
-Elk,481,C
-Elk,482,C
-Elk,483,C
-Elk,484,C
-Elk,485,A
-Elk,486,G
-Elk,487,C
-Elk,488,G
-Elk,489,A
-Elk,490,T
-Elk,491,A
-Elk,492,T
-Elk,493,G
-Elk,494,T
-Elk,495,G
-Elk,496,A
-Elk,497,T
-Elk,498,G
-Elk,499,C
-Elk,500,A
-Gull,1,T
-Gull,2,G
-Gull,3,G
-Gull,4,A
-Gull,5,C
-Gull,6,A
-Gull,7,T
-Gull,8,G
-Gull,9,G
-Gull,10,G
-Gull,11,G
-Gull,12,G
-Gull,13,A
-Gull,14,G
-Gull,15,C
-Gull,16,G
-Gull,17,G
-Gull,18,G
-Gull,19,C
-Gull,20,G
-Gull,21,T
-Gull,22,G
-Gull,23,G
-Gull,24,G
-Gull,25,T
-Gull,26,G
-Gull,27,G
-Gull,28,G
-Gull,29,T
-Gull,30,T
-Gull,31,T
-Gull,32,G
-Gull,33,G
-Gull,34,T
-Gull,35,A
-Gull,36,T
-Gull,37,G
-Gull,38,A
-Gull,39,G
-Gull,40,C
-Gull,41,G
-Gull,42,C
-Gull,43,G
-Gull,44,G
-Gull,45,G
-Gull,46,T
-Gull,47,G
-Gull,48,G
-Gull,49,G
-Gull,50,C
-Gull,51,G
-Gull,52,G
-Gull,53,A
-Gull,54,C
-Gull,55,G
-Gull,56,A
-Gull,57,C
-Gull,58,G
-Gull,59,G
-Gull,60,C
-Gull,61,T
-Gull,62,G
-Gull,63,G
-Gull,64,G
-Gull,65,G
-Gull,66,G
-Gull,67,A
-Gull,68,G
-Gull,69,C
-Gull,70,A
-Gull,71,C
-Gull,72,G
-Gull,73,G
-Gull,74,G
-Gull,75,G
-Gull,76,C
-Gull,77,G
-Gull,78,G
-Gull,79,G
-Gull,80,G
-Gull,81,A
-Gull,82,G
-Gull,83,C
-Gull,84,T
-Gull,85,G
-Gull,86,G
-Gull,87,C
-Gull,88,T
-Gull,89,A
-Gull,90,G
-Gull,91,T
-Gull,92,G
-Gull,93,G
-Gull,94,A
-Gull,95,C
-Gull,96,C
-Gull,97,C
-Gull,98,G
-Gull,99,A
-Gull,100,G
-Gull,101,G
-Gull,102,T
-Gull,103,G
-Gull,104,T
-Gull,105,G
-Gull,106,G
-Gull,107,C
-Gull,108,T
-Gull,109,T
-Gull,110,C
-Gull,111,G
-Gull,112,A
-Gull,113,A
-Gull,114,G
-Gull,115,G
-Gull,116,G
-Gull,117,T
-Gull,118,G
-Gull,119,G
-Gull,120,G
-Gull,121,G
-Gull,122,T
-Gull,123,G
-Gull,124,A
-Gull,125,G
-Gull,126,G
-Gull,127,A
-Gull,128,T
-Gull,129,G
-Gull,130,G
-Gull,131,G
-Gull,132,T
-Gull,133,G
-Gull,134,G
-Gull,135,G
-Gull,136,G
-Gull,137,C
-Gull,138,C
-Gull,139,C
-Gull,140,C
-Gull,141,G
-Gull,142,A
-Gull,143,T
-Gull,144,G
-Gull,145,G
-Gull,146,G
-Gull,147,T
-Gull,148,G
-Gull,149,G
-Gull,150,G
-Gull,151,G
-Gull,152,G
-Gull,153,G
-Gull,154,G
-Gull,155,T
-Gull,156,T
-Gull,157,G
-Gull,158,G
-Gull,159,T
-Gull,160,G
-Gull,161,G
-Gull,162,A
-Gull,163,A
-Gull,164,T
-Gull,165,G
-Gull,166,G
-Gull,167,G
-Gull,168,G
-Gull,169,T
-Gull,170,G
-Gull,171,C
-Gull,172,C
-Gull,173,A
-Gull,174,G
-Gull,175,G
-Gull,176,A
-Gull,177,T
-Gull,178,G
-Gull,179,T
-Gull,180,T
-Gull,181,G
-Gull,182,G
-Gull,183,T
-Gull,184,G
-Gull,185,T
-Gull,186,G
-Gull,187,G
-Gull,188,G
-Gull,189,T
-Gull,190,G
-Gull,191,G
-Gull,192,C
-Gull,193,G
-Gull,194,C
-Gull,195,T
-Gull,196,G
-Gull,197,T
-Gull,198,G
-Gull,199,G
-Gull,200,G
-Gull,201,G
-Gull,202,G
-Gull,203,T
-Gull,204,G
-Gull,205,G
-Gull,206,G
-Gull,207,G
-Gull,208,C
-Gull,209,G
-Gull,210,C
-Gull,211,C
-Gull,212,A
-Gull,213,A
-Gull,214,G
-Gull,215,C
-Gull,216,G
-Gull,217,G
-Gull,218,G
-Gull,219,G
-Gull,220,G
-Gull,221,C
-Gull,222,G
-Gull,223,T
-Gull,224,G
-Gull,225,G
-Gull,226,G
-Gull,227,C
-Gull,228,C
-Gull,229,G
-Gull,230,A
-Gull,231,G
-Gull,232,C
-Gull,233,G
-Gull,234,T
-Gull,235,A
-Gull,236,G
-Gull,237,G
-Gull,238,T
-Gull,239,T
-Gull,240,T
-Gull,241,G
-Gull,242,C
-Gull,243,G
-Gull,244,T
-Gull,245,G
-Gull,246,G
-Gull,247,G
-Gull,248,G
-Gull,249,G
-Gull,250,G
-Gull,251,T
-Gull,252,G
-Gull,253,C
-Gull,254,T
-Gull,255,G
-Gull,256,A
-Gull,257,G
-Gull,258,G
-Gull,259,G
-Gull,260,G
-Gull,261,G
-Gull,262,T
-Gull,263,A
-Gull,264,C
-Gull,265,T
-Gull,266,G
-Gull,267,G
-Gull,268,A
-Gull,269,A
-Gull,270,G
-Gull,271,G
-Gull,272,T
-Gull,273,G
-Gull,274,G
-Gull,275,G
-Gull,276,A
-Gull,277,T
-Gull,278,T
-Gull,279,G
-Gull,280,T
-Gull,281,G
-Gull,282,T
-Gull,283,G
-Gull,284,G
-Gull,285,G
-Gull,286,G
-Gull,287,G
-Gull,288,G
-Gull,289,G
-Gull,290,G
-Gull,291,T
-Gull,292,T
-Gull,293,G
-Gull,294,A
-Gull,295,G
-Gull,296,G
-Gull,297,G
-Gull,298,C
-Gull,299,G
-Gull,300,G
-Gull,301,T
-Gull,302,G
-Gull,303,G
-Gull,304,G
-Gull,305,T
-Gull,306,C
-Gull,307,T
-Gull,308,G
-Gull,309,G
-Gull,310,G
-Gull,311,G
-Gull,312,G
-Gull,313,G
-Gull,314,C
-Gull,315,G
-Gull,316,G
-Gull,317,G
-Gull,318,T
-Gull,319,A
-Gull,320,G
-Gull,321,G
-Gull,322,A
-Gull,323,G
-Gull,324,T
-Gull,325,G
-Gull,326,G
-Gull,327,G
-Gull,328,T
-Gull,329,G
-Gull,330,C
-Gull,331,G
-Gull,332,G
-Gull,333,T
-Gull,334,G
-Gull,335,A
-Gull,336,G
-Gull,337,G
-Gull,338,C
-Gull,339,T
-Gull,340,G
-Gull,341,C
-Gull,342,A
-Gull,343,G
-Gull,344,G
-Gull,345,A
-Gull,346,G
-Gull,347,T
-Gull,348,G
-Gull,349,T
-Gull,350,G
-Gull,351,G
-Gull,352,C
-Gull,353,G
-Gull,354,T
-Gull,355,G
-Gull,356,G
-Gull,357,G
-Gull,358,G
-Gull,359,G
-Gull,360,G
-Gull,361,T
-Gull,362,G
-Gull,363,G
-Gull,364,G
-Gull,365,G
-Gull,366,G
-Gull,367,G
-Gull,368,T
-Gull,369,G
-Gull,370,C
-Gull,371,G
-Gull,372,G
-Gull,373,G
-Gull,374,G
-Gull,375,T
-Gull,376,G
-Gull,377,G
-Gull,378,G
-Gull,379,T
-Gull,380,G
-Gull,381,G
-Gull,382,T
-Gull,383,G
-Gull,384,G
-Gull,385,G
-Gull,386,G
-Gull,387,A
-Gull,388,G
-Gull,389,G
-Gull,390,T
-Gull,391,T
-Gull,392,G
-Gull,393,T
-Gull,394,G
-Gull,395,A
-Gull,396,G
-Gull,397,T
-Gull,398,G
-Gull,399,G
-Gull,400,T
-Gull,401,C
-Gull,402,G
-Gull,403,T
-Gull,404,T
-Gull,405,G
-Gull,406,C
-Gull,407,T
-Gull,408,G
-Gull,409,G
-Gull,410,T
-Gull,411,G
-Gull,412,G
-Gull,413,C
-Gull,414,T
-Gull,415,G
-Gull,416,T
-Gull,417,G
-Gull,418,G
-Gull,419,G
-Gull,420,G
-Gull,421,C
-Gull,422,C
-Gull,423,C
-Gull,424,G
-Gull,425,G
-Gull,426,G
-Gull,427,T
-Gull,428,G
-Gull,429,A
-Gull,430,G
-Gull,431,G
-Gull,432,G
-Gull,433,G
-Gull,434,G
-Gull,435,G
-Gull,436,G
-Gull,437,T
-Gull,438,G
-Gull,439,G
-Gull,440,C
-Gull,441,T
-Gull,442,G
-Gull,443,G
-Gull,444,T
-Gull,445,G
-Gull,446,G
-Gull,447,G
-Gull,448,G
-Gull,449,G
-Gull,450,T
-Gull,451,C
-Gull,452,G
-Gull,453,T
-Gull,454,G
-Gull,455,T
-Gull,456,A
-Gull,457,G
-Gull,458,G
-Gull,459,G
-Gull,460,G
-Gull,461,T
-Gull,462,G
-Gull,463,G
-Gull,464,T
-Gull,465,G
-Gull,466,T
-Gull,467,G
-Gull,468,G
-Gull,469,G
-Gull,470,G
-Gull,471,C
-Gull,472,G
-Gull,473,G
-Gull,474,A
-Gull,475,G
-Gull,476,G
-Gull,477,G
-Gull,478,G
-Gull,479,C
-Gull,480,A
-Gull,481,G
-Gull,482,G
-Gull,483,T
-Gull,484,G
-Gull,485,G
-Gull,486,G
-Gull,487,G
-Gull,488,G
-Gull,489,G
-Gull,490,C
-Gull,491,T
-Gull,492,G
-Gull,493,C
-Gull,494,G
-Gull,495,G
-Gull,496,A
-Gull,497,G
-Gull,498,G
-Gull,499,G
-Gull,500,T
+St Clair,1,G
+St Clair,1,C
+St Clair,2,C
+St Clair,2,A
+St Clair,3,A
+St Clair,3,G
+St Clair,4,A
+St Clair,4,T
+St Clair,5,C
+St Clair,5,G
+St Clair,6,T
+St Clair,6,A
+St Clair,7,A
+St Clair,7,A
+St Clair,8,A
+St Clair,8,C
+St Clair,9,C
+St Clair,9,C
+St Clair,10,T
+St Clair,10,G
+St Clair,11,A
+St Clair,11,G
+St Clair,12,G
+St Clair,12,G
+St Clair,13,A
+St Clair,13,A
+St Clair,14,G
+St Clair,14,T
+St Clair,15,G
+St Clair,15,G
+St Clair,16,C
+St Clair,16,C
+St Clair,17,T
+St Clair,17,G
+St Clair,18,G
+St Clair,18,T
+St Clair,19,A
+St Clair,19,G
+St Clair,20,G
+St Clair,20,C
+St Clair,21,A
+St Clair,21,C
+St Clair,22,C
+St Clair,22,C
+St Clair,23,G
+St Clair,23,G
+St Clair,24,T
+St Clair,24,C
+St Clair,25,T
+St Clair,25,A
+St Clair,26,C
+St Clair,26,G
+St Clair,27,G
+St Clair,27,C
+St Clair,28,T
+St Clair,28,A
+St Clair,29,T
+St Clair,29,T
+St Clair,30,T
+St Clair,30,G
+St Clair,31,T
+St Clair,31,A
+St Clair,32,C
+St Clair,32,T
+St Clair,33,C
+St Clair,33,C
+St Clair,34,C
+St Clair,34,G
+St Clair,35,A
+St Clair,35,C
+St Clair,36,T
+St Clair,36,C
+St Clair,37,C
+St Clair,37,C
+St Clair,38,G
+St Clair,38,C
+St Clair,39,G
+St Clair,39,A
+St Clair,40,C
+St Clair,40,T
+St Clair,41,T
+St Clair,41,A
+St Clair,42,T
+St Clair,42,G
+St Clair,43,C
+St Clair,43,G
+St Clair,44,T
+St Clair,44,A
+St Clair,45,T
+St Clair,45,T
+St Clair,46,T
+St Clair,46,G
+St Clair,47,A
+St Clair,47,A
+St Clair,48,T
+St Clair,48,T
+St Clair,49,T
+St Clair,49,G
+St Clair,50,G
+St Clair,50,C
+St Clair,51,T
+St Clair,51,C
+St Clair,52,T
+St Clair,52,T
+St Clair,53,A
+St Clair,53,T
+St Clair,54,A
+St Clair,54,G
+St Clair,55,C
+St Clair,55,T
+St Clair,56,G
+St Clair,56,T
+St Clair,57,C
+St Clair,57,C
+St Clair,58,G
+St Clair,58,C
+St Clair,59,C
+St Clair,59,T
+St Clair,60,A
+St Clair,60,A
+St Clair,61,T
+St Clair,61,C
+St Clair,62,C
+St Clair,62,A
+St Clair,63,C
+St Clair,63,A
+St Clair,64,A
+St Clair,64,A
+St Clair,65,T
+St Clair,65,A
+St Clair,66,G
+St Clair,66,G
+St Clair,67,C
+St Clair,67,C
+St Clair,68,T
+St Clair,68,A
+St Clair,69,G
+St Clair,69,C
+St Clair,70,A
+St Clair,70,T
+St Clair,71,C
+St Clair,71,G
+St Clair,72,C
+St Clair,72,T
+St Clair,73,A
+St Clair,73,T
+St Clair,74,T
+St Clair,74,G
+St Clair,75,T
+St Clair,75,G
+St Clair,76,C
+St Clair,76,T
+St Clair,77,A
+St Clair,77,C
+St Clair,78,G
+St Clair,78,C
+St Clair,79,T
+St Clair,79,G
+St Clair,80,G
+St Clair,80,G
+St Clair,81,G
+St Clair,81,T
+St Clair,82,G
+St Clair,82,T
+St Clair,83,T
+St Clair,83,A
+St Clair,84,C
+St Clair,84,T
+St Clair,85,C
+St Clair,85,G
+St Clair,86,T
+St Clair,86,G
+St Clair,87,C
+St Clair,87,A
+St Clair,88,C
+St Clair,88,C
+St Clair,89,G
+St Clair,89,C
+St Clair,90,G
+St Clair,90,G
+St Clair,91,C
+St Clair,91,T
+St Clair,92,T
+St Clair,92,G
+St Clair,93,A
+St Clair,93,T
+St Clair,94,T
+St Clair,94,G
+St Clair,95,T
+St Clair,95,G
+St Clair,96,C
+St Clair,96,A
+St Clair,97,T
+St Clair,97,G
+St Clair,98,C
+St Clair,98,T
+St Clair,99,A
+St Clair,99,T
+St Clair,100,A
+St Clair,100,A
+St Clair,101,G
+St Clair,101,A
+St Clair,102,G
+St Clair,102,A
+St Clair,103,G
+St Clair,103,T
+St Clair,104,T
+St Clair,104,A
+St Clair,105,G
+St Clair,105,T
+St Clair,106,C
+St Clair,106,C
+St Clair,107,A
+St Clair,107,A
+St Clair,108,G
+St Clair,108,A
+St Clair,109,C
+St Clair,109,T
+St Clair,110,G
+St Clair,110,T
+St Clair,111,C
+St Clair,111,A
+St Clair,112,A
+St Clair,112,G
+St Clair,113,T
+St Clair,113,G
+St Clair,114,G
+St Clair,114,C
+St Clair,115,C
+St Clair,115,A
+St Clair,116,C
+St Clair,116,G
+St Clair,117,G
+St Clair,117,G
+St Clair,118,T
+St Clair,118,T
+St Clair,119,A
+St Clair,119,T
+St Clair,120,G
+St Clair,120,G
+St Clair,121,C
+St Clair,121,A
+St Clair,122,A
+St Clair,122,A
+St Clair,123,G
+St Clair,123,A
+St Clair,124,T
+St Clair,124,C
+St Clair,125,T
+St Clair,125,T
+St Clair,126,A
+St Clair,126,A
+St Clair,127,A
+St Clair,127,C
+St Clair,128,T
+St Clair,128,G
+St Clair,129,G
+St Clair,129,T
+St Clair,130,A
+St Clair,130,A
+St Clair,131,C
+St Clair,131,C
+St Clair,132,A
+St Clair,132,A
+St Clair,133,G
+St Clair,133,T
+St Clair,134,C
+St Clair,134,G
+St Clair,135,A
+St Clair,135,T
+St Clair,136,A
+St Clair,136,G
+St Clair,137,C
+St Clair,137,G
+St Clair,138,A
+St Clair,138,C
+St Clair,139,G
+St Clair,139,A
+St Clair,140,A
+St Clair,140,A
+St Clair,141,T
+St Clair,141,T
+St Clair,142,G
+St Clair,142,C
+St Clair,143,T
+St Clair,143,C
+St Clair,144,A
+St Clair,144,A
+St Clair,145,T
+St Clair,145,A
+St Clair,146,T
+St Clair,146,G
+St Clair,147,T
+St Clair,147,A
+St Clair,148,G
+St Clair,148,C
+St Clair,149,C
+St Clair,149,A
+St Clair,150,T
+St Clair,150,C
+St Clair,151,T
+St Clair,151,C
+St Clair,152,G
+St Clair,152,A
+St Clair,153,A
+St Clair,153,T
+St Clair,154,T
+St Clair,154,T
+St Clair,155,A
+St Clair,155,G
+St Clair,156,C
+St Clair,156,G
+St Clair,157,C
+St Clair,157,T
+St Clair,158,C
+St Clair,158,T
+St Clair,159,T
+St Clair,159,C
+St Clair,160,A
+St Clair,160,G
+St Clair,161,T
+St Clair,161,A
+St Clair,162,A
+St Clair,162,A
+St Clair,163,G
+St Clair,163,A
+St Clair,164,C
+St Clair,164,A
+St Clair,165,G
+St Clair,165,C
+St Clair,166,C
+St Clair,166,C
+St Clair,167,A
+St Clair,167,T
+St Clair,168,C
+St Clair,168,C
+St Clair,169,C
+St Clair,169,A
+St Clair,170,C
+St Clair,170,C
+St Clair,171,C
+St Clair,171,G
+St Clair,172,A
+St Clair,172,C
+St Clair,173,T
+St Clair,173,C
+St Clair,174,T
+St Clair,174,C
+St Clair,175,T
+St Clair,175,C
+St Clair,176,G
+St Clair,176,G
+St Clair,177,T
+St Clair,177,G
+St Clair,178,A
+St Clair,178,A
+St Clair,179,G
+St Clair,179,T
+St Clair,180,G
+St Clair,180,G
+St Clair,181,C
+St Clair,181,A
+St Clair,182,C
+St Clair,182,A
+St Clair,183,C
+St Clair,183,C
+St Clair,184,C
+St Clair,184,G
+St Clair,185,C
+St Clair,185,A
+St Clair,186,C
+St Clair,186,C
+St Clair,187,T
+St Clair,187,A
+St Clair,188,T
+St Clair,188,T
+St Clair,189,C
+St Clair,189,T
+St Clair,190,C
+St Clair,190,T
+St Clair,191,T
+St Clair,191,T
+St Clair,192,C
+St Clair,192,A
+St Clair,193,G
+St Clair,193,C
+St Clair,194,C
+St Clair,194,C
+St Clair,195,G
+St Clair,195,G
+St Clair,196,A
+St Clair,196,T
+St Clair,197,G
+St Clair,197,G
+St Clair,198,G
+St Clair,198,A
+St Clair,199,T
+St Clair,199,C
+St Clair,200,T
+St Clair,200,T
+St Clair,201,T
+St Clair,201,A
+St Clair,202,C
+St Clair,202,G
+St Clair,203,G
+St Clair,203,A
+St Clair,204,G
+St Clair,204,T
+St Clair,205,T
+St Clair,205,G
+St Clair,206,G
+St Clair,206,A
+St Clair,207,C
+St Clair,207,T
+St Clair,208,T
+St Clair,208,G
+St Clair,209,A
+St Clair,209,A
+St Clair,210,C
+St Clair,210,G
+St Clair,211,T
+St Clair,211,C
+St Clair,212,T
+St Clair,212,T
+St Clair,213,A
+St Clair,213,G
+St Clair,214,C
+St Clair,214,T
+St Clair,215,T
+St Clair,215,A
+St Clair,216,A
+St Clair,216,C
+St Clair,217,A
+St Clair,217,C
+St Clair,218,C
+St Clair,218,A
+St Clair,219,A
+St Clair,219,G
+St Clair,220,T
+St Clair,220,C
+St Clair,221,C
+St Clair,221,C
+St Clair,222,G
+St Clair,222,T
+St Clair,223,A
+St Clair,223,C
+St Clair,224,T
+St Clair,224,C
+St Clair,225,T
+St Clair,225,T
+St Clair,226,G
+St Clair,226,T
+St Clair,227,T
+St Clair,227,A
+St Clair,228,C
+St Clair,228,A
+St Clair,229,A
+St Clair,229,A
+St Clair,230,A
+St Clair,230,G
+St Clair,231,A
+St Clair,231,G
+St Clair,232,T
+St Clair,232,G
+St Clair,233,G
+St Clair,233,A
+St Clair,234,T
+St Clair,234,C
+St Clair,235,C
+St Clair,235,A
+St Clair,236,T
+St Clair,236,C
+St Clair,237,C
+St Clair,237,A
+St Clair,238,C
+St Clair,238,G
+St Clair,239,T
+St Clair,239,C
+St Clair,240,A
+St Clair,240,C
+St Clair,241,A
+St Clair,241,T
+St Clair,242,C
+St Clair,242,A
+St Clair,243,T
+St Clair,243,C
+St Clair,244,G
+St Clair,244,T
+St Clair,245,G
+St Clair,245,A
+St Clair,246,A
+St Clair,246,G
+St Clair,247,G
+St Clair,247,T
+St Clair,248,A
+St Clair,248,C
+St Clair,249,T
+St Clair,249,G
+St Clair,250,C
+St Clair,250,C
+St Clair,251,A
+St Clair,251,T
+St Clair,252,T
+St Clair,252,A
+St Clair,253,A
+St Clair,253,A
+St Clair,254,G
+St Clair,254,A
+St Clair,255,A
+St Clair,255,A
+St Clair,256,G
+St Clair,256,A
+St Clair,257,C
+St Clair,257,A
+St Clair,258,T
+St Clair,258,G
+St Clair,259,T
+St Clair,259,A
+St Clair,260,A
+St Clair,260,C
+St Clair,261,C
+St Clair,261,A
+St Clair,262,A
+St Clair,262,G
+St Clair,263,C
+St Clair,263,A
+St Clair,264,G
+St Clair,264,A
+St Clair,265,G
+St Clair,265,T
+St Clair,266,T
+St Clair,266,T
+St Clair,267,G
+St Clair,267,C
+St Clair,268,G
+St Clair,268,T
+St Clair,269,T
+St Clair,269,A
+St Clair,270,A
+St Clair,270,A
+St Clair,271,A
+St Clair,271,G
+St Clair,272,A
+St Clair,272,G
+St Clair,273,G
+St Clair,273,G
+St Clair,274,A
+St Clair,274,A
+St Clair,275,C
+St Clair,275,A
+St Clair,276,A
+St Clair,276,T
+St Clair,277,C
+St Clair,277,A
+St Clair,278,C
+St Clair,278,T
+St Clair,279,A
+St Clair,279,T
+St Clair,280,C
+St Clair,280,G
+St Clair,281,T
+St Clair,281,G
+St Clair,282,T
+St Clair,282,T
+St Clair,283,G
+St Clair,283,A
+St Clair,284,C
+St Clair,284,A
+St Clair,285,C
+St Clair,285,T
+St Clair,286,G
+St Clair,286,C
+St Clair,287,G
+St Clair,287,C
+St Clair,288,G
+St Clair,288,A
+St Clair,289,G
+St Clair,289,C
+St Clair,290,G
+St Clair,290,A
+St Clair,291,C
+St Clair,291,T
+St Clair,292,G
+St Clair,292,G
+St Clair,293,A
+St Clair,293,G
+St Clair,294,C
+St Clair,294,T
+St Clair,295,G
+St Clair,295,T
+St Clair,296,G
+St Clair,296,A
+St Clair,297,A
+St Clair,297,G
+St Clair,298,T
+St Clair,298,C
+St Clair,299,G
+St Clair,299,C
+St Clair,300,A
+St Clair,300,C
+St Clair,301,C
+St Clair,301,C
+St Clair,302,C
+St Clair,302,G
+St Clair,303,A
+St Clair,303,C
+St Clair,304,C
+St Clair,304,G
+St Clair,305,T
+St Clair,305,G
+St Clair,306,G
+St Clair,306,T
+St Clair,307,C
+St Clair,307,C
+St Clair,308,C
+St Clair,308,A
+St Clair,309,T
+St Clair,309,T
+St Clair,310,A
+St Clair,310,G
+St Clair,311,C
+St Clair,311,A
+St Clair,312,C
+St Clair,312,A
+St Clair,313,A
+St Clair,313,T
+St Clair,314,T
+St Clair,314,T
+St Clair,315,A
+St Clair,315,C
+St Clair,316,G
+St Clair,316,C
+St Clair,317,A
+St Clair,317,A
+St Clair,318,A
+St Clair,318,G
+St Clair,319,C
+St Clair,319,C
+St Clair,320,A
+St Clair,320,A
+St Clair,321,T
+St Clair,321,C
+St Clair,322,A
+St Clair,322,A
+St Clair,323,A
+St Clair,323,G
+St Clair,324,A
+St Clair,324,A
+St Clair,325,A
+St Clair,325,T
+St Clair,326,A
+St Clair,326,C
+St Clair,327,G
+St Clair,327,T
+St Clair,328,A
+St Clair,328,C
+St Clair,329,C
+St Clair,329,G
+St Clair,330,A
+St Clair,330,G
+St Clair,331,A
+St Clair,331,G
+St Clair,332,A
+St Clair,332,A
+St Clair,333,G
+St Clair,333,G
+St Clair,334,G
+St Clair,334,C
+St Clair,335,T
+St Clair,335,T
+St Clair,336,T
+St Clair,336,G
+St Clair,337,A
+St Clair,337,T
+St Clair,338,C
+St Clair,338,C
+St Clair,339,T
+St Clair,339,G
+St Clair,340,G
+St Clair,340,A
+St Clair,341,C
+St Clair,341,A
+St Clair,342,T
+St Clair,342,G
+St Clair,343,G
+St Clair,343,T
+St Clair,344,G
+St Clair,344,C
+St Clair,345,A
+St Clair,345,C
+St Clair,346,A
+St Clair,346,T
+St Clair,347,G
+St Clair,347,A
+St Clair,348,T
+St Clair,348,G
+St Clair,349,C
+St Clair,349,G
+St Clair,350,G
+St Clair,350,C
+St Clair,351,T
+St Clair,351,C
+St Clair,352,G
+St Clair,352,G
+St Clair,353,G
+St Clair,353,T
+St Clair,354,G
+St Clair,354,T
+St Clair,355,A
+St Clair,355,C
+St Clair,356,A
+St Clair,356,A
+St Clair,357,C
+St Clair,357,G
+St Clair,358,C
+St Clair,358,T
+St Clair,359,A
+St Clair,359,C
+St Clair,360,C
+St Clair,360,C
+St Clair,361,A
+St Clair,361,T
+St Clair,362,G
+St Clair,362,T
+St Clair,363,G
+St Clair,363,G
+St Clair,364,T
+St Clair,364,T
+St Clair,365,A
+St Clair,365,G
+St Clair,366,C
+St Clair,366,C
+St Clair,367,T
+St Clair,367,C
+St Clair,368,T
+St Clair,368,G
+St Clair,369,T
+St Clair,369,A
+St Clair,370,A
+St Clair,370,G
+St Clair,371,A
+St Clair,371,T
+St Clair,372,G
+St Clair,372,T
+St Clair,373,G
+St Clair,373,A
+St Clair,374,G
+St Clair,374,A
+St Clair,375,T
+St Clair,375,A
+St Clair,376,A
+St Clair,376,A
+St Clair,377,C
+St Clair,377,T
+St Clair,378,G
+St Clair,378,T
+St Clair,379,A
+St Clair,379,G
+St Clair,380,A
+St Clair,380,T
+St Clair,381,G
+St Clair,381,C
+St Clair,382,G
+St Clair,382,C
+St Clair,383,T
+St Clair,383,T
+St Clair,384,A
+St Clair,384,A
+St Clair,385,T
+St Clair,385,C
+St Clair,386,A
+St Clair,386,G
+St Clair,387,T
+St Clair,387,T
+St Clair,388,G
+St Clair,388,T
+St Clair,389,T
+St Clair,389,T
+St Clair,390,A
+St Clair,390,T
+St Clair,391,T
+St Clair,391,C
+St Clair,392,A
+St Clair,392,T
+St Clair,393,T
+St Clair,393,G
+St Clair,394,C
+St Clair,394,T
+St Clair,395,C
+St Clair,395,T
+St Clair,396,A
+St Clair,396,A
+St Clair,397,A
+St Clair,397,C
+St Clair,398,G
+St Clair,398,G
+St Clair,399,A
+St Clair,399,C
+St Clair,400,C
+St Clair,400,A
+St Clair,401,A
+St Clair,401,C
+St Clair,402,C
+St Clair,402,G
+St Clair,403,A
+St Clair,403,A
+St Clair,404,C
+St Clair,404,G
+St Clair,405,A
+St Clair,405,A
+St Clair,406,A
+St Clair,406,C
+St Clair,407,A
+St Clair,407,T
+St Clair,408,T
+St Clair,408,C
+St Clair,409,C
+St Clair,409,T
+St Clair,410,A
+St Clair,410,A
+St Clair,411,T
+St Clair,411,A
+St Clair,412,G
+St Clair,412,A
+St Clair,413,C
+St Clair,413,T
+St Clair,414,C
+St Clair,414,C
+St Clair,415,A
+St Clair,415,T
+St Clair,416,T
+St Clair,416,A
+St Clair,417,G
+St Clair,417,G
+St Clair,418,G
+St Clair,418,G
+St Clair,419,G
+St Clair,419,T
+St Clair,420,G
+St Clair,420,G
+St Clair,421,C
+St Clair,421,A
+St Clair,422,C
+St Clair,422,G
+St Clair,423,A
+St Clair,423,G
+St Clair,424,A
+St Clair,424,T
+St Clair,425,A
+St Clair,425,C
+St Clair,426,G
+St Clair,426,C
+St Clair,427,C
+St Clair,427,T
+St Clair,428,G
+St Clair,428,A
+St Clair,429,T
+St Clair,429,G
+St Clair,430,G
+St Clair,430,G
+St Clair,431,A
+St Clair,431,C
+St Clair,432,C
+St Clair,432,G
+St Clair,433,C
+St Clair,433,A
+St Clair,434,T
+St Clair,434,T
+St Clair,435,C
+St Clair,435,A
+St Clair,436,A
+St Clair,436,G
+St Clair,437,G
+St Clair,437,C
+St Clair,438,A
+St Clair,438,C
+St Clair,439,A
+St Clair,439,A
+St Clair,440,G
+St Clair,440,T
+St Clair,441,C
+St Clair,441,A
+St Clair,442,T
+St Clair,442,G
+St Clair,443,A
+St Clair,443,A
+St Clair,444,C
+St Clair,444,G
+St Clair,445,T
+St Clair,445,A
+St Clair,446,G
+St Clair,446,T
+St Clair,447,A
+St Clair,447,T
+St Clair,448,T
+St Clair,448,A
+St Clair,449,T
+St Clair,449,T
+St Clair,450,T
+St Clair,450,A
+St Clair,451,G
+St Clair,451,G
+St Clair,452,C
+St Clair,452,A
+St Clair,453,G
+St Clair,453,A
+St Clair,454,A
+St Clair,454,G
+St Clair,455,A
+St Clair,455,G
+St Clair,456,C
+St Clair,456,A
+St Clair,457,T
+St Clair,457,A
+St Clair,458,G
+St Clair,458,A
+St Clair,459,C
+St Clair,459,C
+St Clair,460,C
+St Clair,460,G
+St Clair,461,G
+St Clair,461,G
+St Clair,462,A
+St Clair,462,C
+St Clair,463,C
+St Clair,463,T
+St Clair,464,T
+St Clair,464,T
+St Clair,465,T
+St Clair,465,A
+St Clair,466,T
+St Clair,466,T
+St Clair,467,C
+St Clair,467,T
+St Clair,468,G
+St Clair,468,A
+St Clair,469,G
+St Clair,469,T
+St Clair,470,G
+St Clair,470,C
+St Clair,471,C
+St Clair,471,A
+St Clair,472,T
+St Clair,472,T
+St Clair,473,T
+St Clair,473,A
+St Clair,474,A
+St Clair,474,C
+St Clair,475,A
+St Clair,475,T
+St Clair,476,T
+St Clair,476,C
+St Clair,477,G
+St Clair,477,C
+St Clair,478,G
+St Clair,478,A
+St Clair,479,C
+St Clair,479,A
+St Clair,480,A
+St Clair,480,C
+St Clair,481,T
+St Clair,481,A
+St Clair,482,A
+St Clair,482,T
+St Clair,483,C
+St Clair,483,A
+St Clair,484,A
+St Clair,484,C
+St Clair,485,T
+St Clair,485,A
+St Clair,486,T
+St Clair,486,G
+St Clair,487,T
+St Clair,487,C
+St Clair,488,G
+St Clair,488,T
+St Clair,489,T
+St Clair,489,G
+St Clair,490,T
+St Clair,490,C
+St Clair,491,A
+St Clair,491,A
+St Clair,492,C
+St Clair,492,C
+St Clair,493,C
+St Clair,493,A
+St Clair,494,C
+St Clair,494,C
+St Clair,495,T
+St Clair,495,G
+St Clair,496,C
+St Clair,496,G
+St Clair,497,T
+St Clair,497,G
+St Clair,498,C
+St Clair,498,A
+St Clair,499,C
+St Clair,499,T
+St Clair,500,C
+St Clair,500,T
+Muskegon,1,T
 Muskegon,1,A
-Muskegon,2,A
-Muskegon,3,A
+Muskegon,2,C
+Muskegon,2,C
+Muskegon,3,T
+Muskegon,3,C
+Muskegon,4,G
 Muskegon,4,T
-Muskegon,5,T
-Muskegon,6,G
+Muskegon,5,C
+Muskegon,5,G
+Muskegon,6,A
+Muskegon,6,A
 Muskegon,7,A
-Muskegon,8,T
-Muskegon,9,T
+Muskegon,7,T
+Muskegon,8,G
+Muskegon,8,A
+Muskegon,9,A
+Muskegon,9,C
 Muskegon,10,T
+Muskegon,10,C
+Muskegon,11,C
 Muskegon,11,T
 Muskegon,12,T
-Muskegon,13,C
-Muskegon,14,C
-Muskegon,15,T
-Muskegon,16,G
-Muskegon,17,A
+Muskegon,12,G
+Muskegon,13,G
+Muskegon,13,G
+Muskegon,14,T
+Muskegon,14,T
+Muskegon,15,C
+Muskegon,15,C
+Muskegon,16,A
+Muskegon,16,T
+Muskegon,17,G
+Muskegon,17,T
 Muskegon,18,C
+Muskegon,18,A
+Muskegon,19,T
 Muskegon,19,C
-Muskegon,20,T
-Muskegon,21,C
-Muskegon,22,A
-Muskegon,23,G
+Muskegon,20,G
+Muskegon,20,A
+Muskegon,21,A
+Muskegon,21,T
+Muskegon,22,C
+Muskegon,22,C
+Muskegon,23,C
+Muskegon,23,T
+Muskegon,24,C
 Muskegon,24,G
-Muskegon,25,A
-Muskegon,26,G
+Muskegon,25,T
+Muskegon,25,G
+Muskegon,26,T
+Muskegon,26,A
+Muskegon,27,G
 Muskegon,27,A
-Muskegon,28,C
+Muskegon,28,G
+Muskegon,28,G
 Muskegon,29,C
+Muskegon,29,T
 Muskegon,30,G
-Muskegon,31,C
-Muskegon,32,C
-Muskegon,33,A
+Muskegon,30,C
+Muskegon,31,T
+Muskegon,31,A
+Muskegon,32,T
+Muskegon,32,A
+Muskegon,33,T
+Muskegon,33,G
 Muskegon,34,G
-Muskegon,35,A
-Muskegon,36,G
+Muskegon,34,T
+Muskegon,35,T
+Muskegon,35,G
+Muskegon,36,A
+Muskegon,36,T
 Muskegon,37,C
+Muskegon,37,C
+Muskegon,38,A
 Muskegon,38,T
-Muskegon,39,A
+Muskegon,39,G
+Muskegon,39,G
 Muskegon,40,G
+Muskegon,40,C
 Muskegon,41,C
+Muskegon,41,A
+Muskegon,42,C
 Muskegon,42,G
-Muskegon,43,T
+Muskegon,43,A
+Muskegon,43,G
+Muskegon,44,A
 Muskegon,44,T
 Muskegon,45,C
-Muskegon,46,T
+Muskegon,45,A
+Muskegon,46,G
+Muskegon,46,A
 Muskegon,47,A
-Muskegon,48,T
+Muskegon,47,T
+Muskegon,48,A
+Muskegon,48,A
 Muskegon,49,A
-Muskegon,50,C
-Muskegon,51,C
-Muskegon,52,T
-Muskegon,53,A
+Muskegon,49,C
+Muskegon,50,T
+Muskegon,50,T
+Muskegon,51,A
+Muskegon,51,T
+Muskegon,52,A
+Muskegon,52,A
+Muskegon,53,T
+Muskegon,53,G
 Muskegon,54,C
+Muskegon,54,G
+Muskegon,55,G
 Muskegon,55,A
-Muskegon,56,T
-Muskegon,57,G
+Muskegon,56,C
+Muskegon,56,A
+Muskegon,57,T
+Muskegon,57,C
 Muskegon,58,G
-Muskegon,59,A
-Muskegon,60,C
+Muskegon,58,T
+Muskegon,59,C
+Muskegon,59,C
+Muskegon,60,A
+Muskegon,60,T
+Muskegon,61,C
 Muskegon,61,A
-Muskegon,62,A
+Muskegon,62,T
+Muskegon,62,G
 Muskegon,63,G
-Muskegon,64,G
+Muskegon,63,C
+Muskegon,64,C
+Muskegon,64,A
 Muskegon,65,G
-Muskegon,66,C
+Muskegon,65,T
+Muskegon,66,T
+Muskegon,66,T
+Muskegon,67,G
 Muskegon,67,T
-Muskegon,68,A
-Muskegon,69,T
+Muskegon,68,T
+Muskegon,68,G
+Muskegon,69,A
+Muskegon,69,G
 Muskegon,70,A
-Muskegon,71,A
-Muskegon,72,A
+Muskegon,70,G
+Muskegon,71,T
+Muskegon,71,T
+Muskegon,72,G
+Muskegon,72,T
+Muskegon,73,C
 Muskegon,73,T
 Muskegon,74,T
+Muskegon,74,G
+Muskegon,75,C
 Muskegon,75,G
-Muskegon,76,G
-Muskegon,77,T
+Muskegon,76,A
+Muskegon,76,A
+Muskegon,77,A
+Muskegon,77,A
 Muskegon,78,A
-Muskegon,79,A
+Muskegon,78,A
+Muskegon,79,G
+Muskegon,79,G
+Muskegon,80,T
 Muskegon,80,G
-Muskegon,81,G
-Muskegon,82,G
+Muskegon,81,C
+Muskegon,81,T
+Muskegon,82,A
+Muskegon,82,A
 Muskegon,83,T
+Muskegon,83,G
+Muskegon,84,A
 Muskegon,84,G
-Muskegon,85,C
-Muskegon,86,C
-Muskegon,87,A
-Muskegon,88,C
-Muskegon,89,G
-Muskegon,90,G
-Muskegon,91,G
-Muskegon,92,G
-Muskegon,93,C
-Muskegon,94,T
-Muskegon,95,A
-Muskegon,96,A
+Muskegon,85,A
+Muskegon,85,G
+Muskegon,86,G
+Muskegon,86,A
+Muskegon,87,T
+Muskegon,87,C
+Muskegon,88,G
+Muskegon,88,T
+Muskegon,89,C
+Muskegon,89,C
+Muskegon,90,C
+Muskegon,90,A
+Muskegon,91,T
+Muskegon,91,A
+Muskegon,92,A
+Muskegon,92,C
+Muskegon,93,G
+Muskegon,93,T
+Muskegon,94,G
+Muskegon,94,G
+Muskegon,95,C
+Muskegon,95,C
+Muskegon,96,G
+Muskegon,96,C
+Muskegon,97,A
 Muskegon,97,C
+Muskegon,98,A
 Muskegon,98,G
+Muskegon,99,T
 Muskegon,99,G
 Muskegon,100,A
-Muskegon,101,T
-Muskegon,102,A
+Muskegon,100,A
+Muskegon,101,A
+Muskegon,101,C
+Muskegon,102,T
+Muskegon,102,T
 Muskegon,103,C
-Muskegon,104,A
-Muskegon,105,T
-Muskegon,106,T
-Muskegon,107,A
-Muskegon,108,G
-Muskegon,109,T
-Muskegon,110,G
+Muskegon,103,A
+Muskegon,104,G
+Muskegon,104,G
+Muskegon,105,C
+Muskegon,105,G
+Muskegon,106,G
+Muskegon,106,C
+Muskegon,107,G
+Muskegon,107,T
+Muskegon,108,A
+Muskegon,108,T
+Muskegon,109,A
+Muskegon,109,C
+Muskegon,110,T
+Muskegon,110,T
+Muskegon,111,C
 Muskegon,111,G
-Muskegon,112,G
+Muskegon,112,A
+Muskegon,112,A
+Muskegon,113,T
 Muskegon,113,C
-Muskegon,114,A
+Muskegon,114,C
+Muskegon,114,C
 Muskegon,115,T
+Muskegon,115,A
 Muskegon,116,T
-Muskegon,117,G
+Muskegon,116,T
+Muskegon,117,T
+Muskegon,117,T
 Muskegon,118,C
-Muskegon,119,G
+Muskegon,118,T
+Muskegon,119,C
+Muskegon,119,A
+Muskegon,120,T
 Muskegon,120,C
 Muskegon,121,T
+Muskegon,121,G
+Muskegon,122,A
 Muskegon,122,G
-Muskegon,123,G
-Muskegon,124,T
+Muskegon,123,A
+Muskegon,123,C
+Muskegon,124,A
+Muskegon,124,G
 Muskegon,125,T
+Muskegon,125,C
+Muskegon,126,C
 Muskegon,126,G
-Muskegon,127,A
-Muskegon,128,A
+Muskegon,127,C
+Muskegon,127,G
+Muskegon,128,G
+Muskegon,128,C
+Muskegon,129,A
 Muskegon,129,G
-Muskegon,130,G
-Muskegon,131,A
-Muskegon,132,G
+Muskegon,130,C
+Muskegon,130,C
+Muskegon,131,C
+Muskegon,131,G
+Muskegon,132,C
+Muskegon,132,C
 Muskegon,133,C
-Muskegon,134,T
+Muskegon,133,C
+Muskegon,134,A
+Muskegon,134,G
+Muskegon,135,C
 Muskegon,135,G
-Muskegon,136,T
-Muskegon,137,A
-Muskegon,138,T
+Muskegon,136,C
+Muskegon,136,A
+Muskegon,137,T
+Muskegon,137,T
+Muskegon,138,C
+Muskegon,138,A
+Muskegon,139,C
 Muskegon,139,T
-Muskegon,140,T
-Muskegon,141,A
-Muskegon,142,G
+Muskegon,140,G
+Muskegon,140,A
+Muskegon,141,C
+Muskegon,141,G
+Muskegon,142,A
+Muskegon,142,T
 Muskegon,143,A
-Muskegon,144,G
+Muskegon,143,C
+Muskegon,144,C
+Muskegon,144,C
 Muskegon,145,C
-Muskegon,146,T
-Muskegon,147,A
-Muskegon,148,T
-Muskegon,149,T
-Muskegon,150,T
-Muskegon,151,G
-Muskegon,152,G
+Muskegon,145,T
+Muskegon,146,A
+Muskegon,146,A
+Muskegon,147,T
+Muskegon,147,G
+Muskegon,148,G
+Muskegon,148,G
+Muskegon,149,G
+Muskegon,149,A
+Muskegon,150,G
+Muskegon,150,A
+Muskegon,151,C
+Muskegon,151,C
+Muskegon,152,T
+Muskegon,152,C
+Muskegon,153,G
 Muskegon,153,A
-Muskegon,154,A
-Muskegon,155,A
-Muskegon,156,G
+Muskegon,154,C
+Muskegon,154,C
+Muskegon,155,T
+Muskegon,155,C
+Muskegon,156,T
+Muskegon,156,T
 Muskegon,157,A
+Muskegon,157,C
 Muskegon,158,A
-Muskegon,159,A
-Muskegon,160,G
+Muskegon,158,G
+Muskegon,159,G
+Muskegon,159,C
+Muskegon,160,C
+Muskegon,160,C
+Muskegon,161,T
 Muskegon,161,C
+Muskegon,162,G
 Muskegon,162,T
+Muskegon,163,C
 Muskegon,163,A
-Muskegon,164,A
+Muskegon,164,G
+Muskegon,164,C
 Muskegon,165,T
-Muskegon,166,C
-Muskegon,167,G
-Muskegon,168,C
-Muskegon,169,T
+Muskegon,165,C
+Muskegon,166,T
+Muskegon,166,G
+Muskegon,167,C
+Muskegon,167,T
+Muskegon,168,A
+Muskegon,168,A
+Muskegon,169,C
+Muskegon,169,G
+Muskegon,170,C
 Muskegon,170,T
 Muskegon,171,C
-Muskegon,172,C
-Muskegon,173,A
-Muskegon,174,G
-Muskegon,175,G
+Muskegon,171,A
+Muskegon,172,T
+Muskegon,172,T
+Muskegon,173,G
+Muskegon,173,T
+Muskegon,174,T
+Muskegon,174,T
+Muskegon,175,C
+Muskegon,175,C
 Muskegon,176,C
-Muskegon,177,G
+Muskegon,176,A
+Muskegon,177,T
+Muskegon,177,A
 Muskegon,178,G
-Muskegon,179,T
+Muskegon,178,A
+Muskegon,179,C
+Muskegon,179,A
+Muskegon,180,C
 Muskegon,180,T
+Muskegon,181,A
 Muskegon,181,C
-Muskegon,182,G
-Muskegon,183,A
-Muskegon,184,A
-Muskegon,185,G
-Muskegon,186,A
-Muskegon,187,A
+Muskegon,182,A
+Muskegon,182,A
+Muskegon,183,G
+Muskegon,183,G
+Muskegon,184,C
+Muskegon,184,G
+Muskegon,185,T
+Muskegon,185,A
+Muskegon,186,C
+Muskegon,186,T
+Muskegon,187,T
+Muskegon,187,C
+Muskegon,188,G
 Muskegon,188,T
-Muskegon,189,C
+Muskegon,189,T
+Muskegon,189,A
+Muskegon,190,T
 Muskegon,190,A
-Muskegon,191,T
-Muskegon,192,G
+Muskegon,191,G
+Muskegon,191,A
+Muskegon,192,T
+Muskegon,192,C
 Muskegon,193,T
+Muskegon,193,A
 Muskegon,194,A
+Muskegon,194,C
+Muskegon,195,A
 Muskegon,195,C
 Muskegon,196,G
+Muskegon,196,A
+Muskegon,197,T
 Muskegon,197,C
-Muskegon,198,T
-Muskegon,199,C
-Muskegon,200,A
+Muskegon,198,A
+Muskegon,198,A
+Muskegon,199,A
+Muskegon,199,A
+Muskegon,200,T
+Muskegon,200,C
+Muskegon,201,G
 Muskegon,201,A
-Muskegon,202,C
+Muskegon,202,T
+Muskegon,202,A
+Muskegon,203,T
 Muskegon,203,A
-Muskegon,204,T
-Muskegon,205,G
-Muskegon,206,A
-Muskegon,207,A
-Muskegon,208,A
+Muskegon,204,A
+Muskegon,204,C
+Muskegon,205,T
+Muskegon,205,A
+Muskegon,206,G
+Muskegon,206,C
+Muskegon,207,C
+Muskegon,207,G
+Muskegon,208,T
+Muskegon,208,T
 Muskegon,209,A
+Muskegon,209,C
+Muskegon,210,A
 Muskegon,210,T
 Muskegon,211,C
-Muskegon,212,G
+Muskegon,211,G
+Muskegon,212,A
+Muskegon,212,A
+Muskegon,213,G
 Muskegon,213,A
-Muskegon,214,G
+Muskegon,214,C
+Muskegon,214,T
 Muskegon,215,C
+Muskegon,215,T
 Muskegon,216,A
+Muskegon,216,C
 Muskegon,217,T
-Muskegon,218,C
-Muskegon,219,T
+Muskegon,217,C
+Muskegon,218,T
+Muskegon,218,A
+Muskegon,219,A
+Muskegon,219,G
+Muskegon,220,C
 Muskegon,220,A
+Muskegon,221,C
 Muskegon,221,T
+Muskegon,222,C
 Muskegon,222,T
-Muskegon,223,G
+Muskegon,223,T
+Muskegon,223,A
+Muskegon,224,A
 Muskegon,224,T
-Muskegon,225,G
+Muskegon,225,T
+Muskegon,225,A
 Muskegon,226,A
-Muskegon,227,C
-Muskegon,228,T
-Muskegon,229,G
+Muskegon,226,C
+Muskegon,227,G
+Muskegon,227,G
+Muskegon,228,G
+Muskegon,228,C
+Muskegon,229,T
+Muskegon,229,C
 Muskegon,230,C
+Muskegon,230,T
 Muskegon,231,C
-Muskegon,232,C
+Muskegon,231,C
+Muskegon,232,A
+Muskegon,232,G
+Muskegon,233,A
 Muskegon,233,T
-Muskegon,234,C
+Muskegon,234,A
+Muskegon,234,G
+Muskegon,235,G
 Muskegon,235,T
-Muskegon,236,G
+Muskegon,236,A
+Muskegon,236,C
+Muskegon,237,G
 Muskegon,237,T
 Muskegon,238,A
-Muskegon,239,G
-Muskegon,240,T
-Muskegon,241,C
-Muskegon,242,G
-Muskegon,243,C
-Muskegon,244,T
-Muskegon,245,T
-Muskegon,246,T
-Muskegon,247,C
+Muskegon,238,A
+Muskegon,239,T
+Muskegon,239,C
+Muskegon,240,C
+Muskegon,240,A
+Muskegon,241,A
+Muskegon,241,G
+Muskegon,242,A
+Muskegon,242,T
+Muskegon,243,T
+Muskegon,243,T
+Muskegon,244,G
+Muskegon,244,A
+Muskegon,245,C
+Muskegon,245,A
+Muskegon,246,G
+Muskegon,246,A
+Muskegon,247,A
+Muskegon,247,T
+Muskegon,248,T
 Muskegon,248,C
-Muskegon,249,C
+Muskegon,249,T
+Muskegon,249,A
+Muskegon,250,A
 Muskegon,250,G
-Muskegon,251,A
-Muskegon,252,C
-Muskegon,253,T
-Muskegon,254,A
-Muskegon,255,C
-Muskegon,256,C
+Muskegon,251,G
+Muskegon,251,T
+Muskegon,252,T
+Muskegon,252,A
+Muskegon,253,G
+Muskegon,253,G
+Muskegon,254,C
+Muskegon,254,G
+Muskegon,255,T
+Muskegon,255,T
+Muskegon,256,G
+Muskegon,256,G
 Muskegon,257,A
-Muskegon,258,T
+Muskegon,257,G
+Muskegon,258,C
+Muskegon,258,G
+Muskegon,259,C
 Muskegon,259,G
-Muskegon,260,C
+Muskegon,260,G
+Muskegon,260,G
 Muskegon,261,A
+Muskegon,261,G
 Muskegon,262,C
+Muskegon,262,G
+Muskegon,263,T
 Muskegon,263,G
+Muskegon,264,G
 Muskegon,264,C
+Muskegon,265,C
 Muskegon,265,A
-Muskegon,266,C
+Muskegon,266,G
+Muskegon,266,T
 Muskegon,267,C
-Muskegon,268,G
-Muskegon,269,C
-Muskegon,270,C
-Muskegon,271,C
-Muskegon,272,C
-Muskegon,273,C
-Muskegon,274,G
+Muskegon,267,G
+Muskegon,268,C
+Muskegon,268,A
+Muskegon,269,T
+Muskegon,269,T
+Muskegon,270,A
+Muskegon,270,A
+Muskegon,271,G
+Muskegon,271,G
+Muskegon,272,G
+Muskegon,272,T
+Muskegon,273,G
+Muskegon,273,A
+Muskegon,274,C
+Muskegon,274,A
 Muskegon,275,C
-Muskegon,276,T
+Muskegon,275,G
+Muskegon,276,C
+Muskegon,276,C
 Muskegon,277,G
+Muskegon,277,T
 Muskegon,278,C
-Muskegon,279,T
+Muskegon,278,T
+Muskegon,279,C
+Muskegon,279,C
+Muskegon,280,T
 Muskegon,280,C
 Muskegon,281,A
+Muskegon,281,G
+Muskegon,282,G
 Muskegon,282,A
+Muskegon,283,T
 Muskegon,283,A
-Muskegon,284,A
+Muskegon,284,G
+Muskegon,284,T
+Muskegon,285,C
 Muskegon,285,G
-Muskegon,286,T
-Muskegon,287,A
+Muskegon,286,A
+Muskegon,286,A
+Muskegon,287,C
+Muskegon,287,G
 Muskegon,288,A
+Muskegon,288,T
 Muskegon,289,G
-Muskegon,290,A
-Muskegon,291,T
-Muskegon,292,A
-Muskegon,293,T
+Muskegon,289,A
+Muskegon,290,G
+Muskegon,290,C
+Muskegon,291,A
+Muskegon,291,A
+Muskegon,292,T
+Muskegon,292,T
+Muskegon,293,A
+Muskegon,293,C
 Muskegon,294,A
-Muskegon,295,G
+Muskegon,294,T
+Muskegon,295,C
+Muskegon,295,A
 Muskegon,296,C
+Muskegon,296,A
+Muskegon,297,A
 Muskegon,297,C
-Muskegon,298,T
-Muskegon,299,C
+Muskegon,298,A
+Muskegon,298,C
+Muskegon,299,G
+Muskegon,299,A
+Muskegon,300,C
 Muskegon,300,G
-Muskegon,301,C
+Muskegon,301,T
+Muskegon,301,T
 Muskegon,302,T
+Muskegon,302,G
+Muskegon,303,C
 Muskegon,303,G
-Muskegon,304,G
+Muskegon,304,C
+Muskegon,304,A
 Muskegon,305,T
-Muskegon,306,G
+Muskegon,305,A
+Muskegon,306,A
+Muskegon,306,C
 Muskegon,307,A
+Muskegon,307,A
+Muskegon,308,T
 Muskegon,308,G
-Muskegon,309,T
+Muskegon,309,G
+Muskegon,309,C
 Muskegon,310,C
+Muskegon,310,G
 Muskegon,311,C
-Muskegon,312,C
-Muskegon,313,A
-Muskegon,314,A
-Muskegon,315,G
-Muskegon,316,C
-Muskegon,317,G
+Muskegon,311,T
+Muskegon,312,G
+Muskegon,312,A
+Muskegon,313,C
+Muskegon,313,G
+Muskegon,314,G
+Muskegon,314,G
+Muskegon,315,C
+Muskegon,315,A
+Muskegon,316,G
+Muskegon,316,G
+Muskegon,317,T
+Muskegon,317,T
+Muskegon,318,G
 Muskegon,318,T
-Muskegon,319,C
-Muskegon,320,T
-Muskegon,321,T
-Muskegon,322,G
-Muskegon,323,A
+Muskegon,319,T
+Muskegon,319,T
+Muskegon,320,G
+Muskegon,320,C
+Muskegon,321,C
+Muskegon,321,G
+Muskegon,322,T
+Muskegon,322,A
+Muskegon,323,T
+Muskegon,323,T
+Muskegon,324,T
 Muskegon,324,C
-Muskegon,325,C
-Muskegon,326,T
+Muskegon,325,T
+Muskegon,325,G
+Muskegon,326,G
+Muskegon,326,C
+Muskegon,327,G
 Muskegon,327,T
-Muskegon,328,T
-Muskegon,329,G
-Muskegon,330,A
+Muskegon,328,A
+Muskegon,328,G
+Muskegon,329,T
+Muskegon,329,A
+Muskegon,330,C
+Muskegon,330,C
+Muskegon,331,T
 Muskegon,331,A
-Muskegon,332,A
-Muskegon,333,G
-Muskegon,334,G
+Muskegon,332,C
+Muskegon,332,C
+Muskegon,333,T
+Muskegon,333,T
+Muskegon,334,C
+Muskegon,334,A
+Muskegon,335,T
 Muskegon,335,C
-Muskegon,336,A
+Muskegon,336,C
+Muskegon,336,T
 Muskegon,337,C
-Muskegon,338,C
-Muskegon,339,A
+Muskegon,337,C
+Muskegon,338,T
+Muskegon,338,A
+Muskegon,339,T
+Muskegon,339,T
+Muskegon,340,A
 Muskegon,340,C
 Muskegon,341,G
-Muskegon,342,G
-Muskegon,343,A
+Muskegon,341,G
+Muskegon,342,A
+Muskegon,342,C
+Muskegon,343,T
+Muskegon,343,C
 Muskegon,344,C
-Muskegon,345,G
-Muskegon,346,G
-Muskegon,347,G
-Muskegon,348,A
-Muskegon,349,A
-Muskegon,350,G
+Muskegon,344,G
+Muskegon,345,C
+Muskegon,345,T
+Muskegon,346,C
+Muskegon,346,C
+Muskegon,347,T
+Muskegon,347,T
+Muskegon,348,G
+Muskegon,348,G
+Muskegon,349,T
+Muskegon,349,C
+Muskegon,350,C
+Muskegon,350,T
 Muskegon,351,T
-Muskegon,352,T
+Muskegon,351,G
+Muskegon,352,G
+Muskegon,352,G
+Muskegon,353,T
 Muskegon,353,G
 Muskegon,354,G
-Muskegon,355,C
-Muskegon,356,G
+Muskegon,354,C
+Muskegon,355,A
+Muskegon,355,T
+Muskegon,356,C
+Muskegon,356,C
+Muskegon,357,T
 Muskegon,357,G
-Muskegon,358,G
+Muskegon,358,T
+Muskegon,358,A
+Muskegon,359,G
 Muskegon,359,A
+Muskegon,360,C
 Muskegon,360,G
 Muskegon,361,C
+Muskegon,361,T
 Muskegon,362,G
-Muskegon,363,T
-Muskegon,364,C
-Muskegon,365,G
-Muskegon,366,A
-Muskegon,367,C
+Muskegon,362,A
+Muskegon,363,G
+Muskegon,363,C
+Muskegon,364,T
+Muskegon,364,A
+Muskegon,365,T
+Muskegon,365,C
+Muskegon,366,G
+Muskegon,366,G
+Muskegon,367,A
+Muskegon,367,G
 Muskegon,368,G
-Muskegon,369,G
-Muskegon,370,C
-Muskegon,371,T
+Muskegon,368,C
+Muskegon,369,C
+Muskegon,369,A
+Muskegon,370,G
+Muskegon,370,A
+Muskegon,371,C
+Muskegon,371,A
+Muskegon,372,G
 Muskegon,372,T
-Muskegon,373,A
+Muskegon,373,C
+Muskegon,373,G
 Muskegon,374,G
+Muskegon,374,A
 Muskegon,375,A
-Muskegon,376,C
-Muskegon,377,T
+Muskegon,375,T
+Muskegon,376,A
+Muskegon,376,A
+Muskegon,377,A
+Muskegon,377,C
+Muskegon,378,A
 Muskegon,378,C
-Muskegon,379,C
+Muskegon,379,A
+Muskegon,379,A
 Muskegon,380,T
+Muskegon,380,T
+Muskegon,381,A
 Muskegon,381,C
 Muskegon,382,A
-Muskegon,383,C
-Muskegon,384,A
-Muskegon,385,G
-Muskegon,386,G
-Muskegon,387,A
-Muskegon,388,A
+Muskegon,382,G
+Muskegon,383,A
+Muskegon,383,G
+Muskegon,384,C
+Muskegon,384,T
+Muskegon,385,T
+Muskegon,385,C
+Muskegon,386,C
+Muskegon,386,C
+Muskegon,387,T
+Muskegon,387,C
+Muskegon,388,T
+Muskegon,388,T
 Muskegon,389,C
+Muskegon,389,T
 Muskegon,390,C
-Muskegon,391,A
-Muskegon,392,G
+Muskegon,390,C
+Muskegon,391,G
+Muskegon,391,G
+Muskegon,392,A
+Muskegon,392,T
+Muskegon,393,T
 Muskegon,393,A
-Muskegon,394,C
+Muskegon,394,A
+Muskegon,394,A
 Muskegon,395,G
+Muskegon,395,C
 Muskegon,396,G
+Muskegon,396,A
 Muskegon,397,T
-Muskegon,398,A
-Muskegon,399,T
-Muskegon,400,C
+Muskegon,397,A
+Muskegon,398,G
+Muskegon,398,G
+Muskegon,399,G
+Muskegon,399,G
+Muskegon,400,G
+Muskegon,400,G
 Muskegon,401,G
-Muskegon,402,G
-Muskegon,403,C
-Muskegon,404,A
-Muskegon,405,G
-Muskegon,406,C
-Muskegon,407,G
-Muskegon,408,G
+Muskegon,401,G
+Muskegon,402,C
+Muskegon,402,T
+Muskegon,403,T
+Muskegon,403,G
+Muskegon,404,T
+Muskegon,404,T
+Muskegon,405,A
+Muskegon,405,C
+Muskegon,406,G
+Muskegon,406,A
+Muskegon,407,T
+Muskegon,407,C
+Muskegon,408,C
+Muskegon,408,T
 Muskegon,409,C
-Muskegon,410,C
-Muskegon,411,T
-Muskegon,412,T
-Muskegon,413,G
+Muskegon,409,C
+Muskegon,410,A
+Muskegon,410,A
+Muskegon,411,A
+Muskegon,411,A
+Muskegon,412,G
+Muskegon,412,A
+Muskegon,413,C
+Muskegon,413,C
+Muskegon,414,A
 Muskegon,414,G
-Muskegon,415,A
-Muskegon,416,T
-Muskegon,417,G
-Muskegon,418,G
+Muskegon,415,T
+Muskegon,415,T
+Muskegon,416,G
+Muskegon,416,A
+Muskegon,417,T
+Muskegon,417,A
+Muskegon,418,A
+Muskegon,418,T
 Muskegon,419,A
-Muskegon,420,A
-Muskegon,421,A
-Muskegon,422,T
+Muskegon,419,T
+Muskegon,420,T
+Muskegon,420,T
+Muskegon,421,T
+Muskegon,421,C
+Muskegon,422,C
+Muskegon,422,A
+Muskegon,423,A
 Muskegon,423,C
 Muskegon,424,G
-Muskegon,425,T
-Muskegon,426,T
-Muskegon,427,C
-Muskegon,428,T
+Muskegon,424,C
+Muskegon,425,C
+Muskegon,425,G
+Muskegon,426,G
+Muskegon,426,A
+Muskegon,427,G
+Muskegon,427,A
+Muskegon,428,C
+Muskegon,428,G
 Muskegon,429,G
+Muskegon,429,C
 Muskegon,430,T
+Muskegon,430,G
+Muskegon,431,T
 Muskegon,431,G
 Muskegon,432,A
-Muskegon,433,T
-Muskegon,434,A
-Muskegon,435,T
-Muskegon,436,A
+Muskegon,432,A
+Muskegon,433,C
+Muskegon,433,A
+Muskegon,434,G
+Muskegon,434,G
+Muskegon,435,C
+Muskegon,435,A
+Muskegon,436,T
+Muskegon,436,C
 Muskegon,437,G
+Muskegon,437,C
 Muskegon,438,T
-Muskegon,439,G
-Muskegon,440,T
-Muskegon,441,C
+Muskegon,438,G
+Muskegon,439,A
+Muskegon,439,C
+Muskegon,440,C
+Muskegon,440,A
+Muskegon,441,G
+Muskegon,441,A
+Muskegon,442,C
 Muskegon,442,A
-Muskegon,443,G
+Muskegon,443,A
+Muskegon,443,T
+Muskegon,444,A
 Muskegon,444,G
 Muskegon,445,T
-Muskegon,446,A
-Muskegon,447,T
-Muskegon,448,A
+Muskegon,445,T
+Muskegon,446,C
+Muskegon,446,T
+Muskegon,447,A
+Muskegon,447,G
+Muskegon,448,T
+Muskegon,448,G
 Muskegon,449,G
+Muskegon,449,A
+Muskegon,450,C
 Muskegon,450,G
-Muskegon,451,C
+Muskegon,451,A
+Muskegon,451,G
 Muskegon,452,C
+Muskegon,452,T
 Muskegon,453,G
-Muskegon,454,A
-Muskegon,455,C
+Muskegon,453,G
+Muskegon,454,G
+Muskegon,454,C
+Muskegon,455,A
+Muskegon,455,T
+Muskegon,456,G
 Muskegon,456,G
 Muskegon,457,A
+Muskegon,457,A
 Muskegon,458,G
+Muskegon,458,A
 Muskegon,459,A
-Muskegon,460,G
+Muskegon,459,C
+Muskegon,460,A
+Muskegon,460,C
 Muskegon,461,G
+Muskegon,461,A
 Muskegon,462,A
-Muskegon,463,T
-Muskegon,464,G
-Muskegon,465,C
+Muskegon,462,C
+Muskegon,463,C
+Muskegon,463,G
+Muskegon,464,T
+Muskegon,464,A
+Muskegon,465,T
+Muskegon,465,T
 Muskegon,466,T
-Muskegon,467,T
-Muskegon,468,A
-Muskegon,469,C
-Muskegon,470,G
+Muskegon,466,T
+Muskegon,467,A
+Muskegon,467,A
+Muskegon,468,T
+Muskegon,468,C
+Muskegon,469,G
+Muskegon,469,T
+Muskegon,470,T
+Muskegon,470,A
+Muskegon,471,G
 Muskegon,471,A
+Muskegon,472,T
 Muskegon,472,C
-Muskegon,473,T
-Muskegon,474,G
+Muskegon,473,A
+Muskegon,473,C
+Muskegon,474,A
+Muskegon,474,C
+Muskegon,475,A
 Muskegon,475,T
+Muskegon,476,G
 Muskegon,476,C
+Muskegon,477,A
 Muskegon,477,G
+Muskegon,478,A
 Muskegon,478,C
-Muskegon,479,A
+Muskegon,479,T
+Muskegon,479,C
+Muskegon,480,G
 Muskegon,480,G
 Muskegon,481,C
-Muskegon,482,A
-Muskegon,483,G
-Muskegon,484,G
+Muskegon,481,T
+Muskegon,482,T
+Muskegon,482,G
+Muskegon,483,C
+Muskegon,483,C
+Muskegon,484,A
+Muskegon,484,A
+Muskegon,485,T
 Muskegon,485,A
-Muskegon,486,C
+Muskegon,486,G
+Muskegon,486,T
 Muskegon,487,C
-Muskegon,488,G
-Muskegon,489,A
+Muskegon,487,C
+Muskegon,488,A
+Muskegon,488,C
+Muskegon,489,G
+Muskegon,489,T
 Muskegon,490,G
-Muskegon,491,G
+Muskegon,490,A
+Muskegon,491,T
+Muskegon,491,T
 Muskegon,492,C
-Muskegon,493,C
-Muskegon,494,T
-Muskegon,495,T
+Muskegon,492,G
+Muskegon,493,T
+Muskegon,493,T
+Muskegon,494,A
+Muskegon,494,C
+Muskegon,495,G
+Muskegon,495,C
 Muskegon,496,T
-Muskegon,497,G
-Muskegon,498,C
+Muskegon,496,T
+Muskegon,497,C
+Muskegon,497,C
+Muskegon,498,G
+Muskegon,498,T
 Muskegon,499,C
+Muskegon,499,G
+Muskegon,500,A
 Muskegon,500,C
+Elk,1,T
+Elk,1,C
+Elk,2,A
+Elk,2,C
+Elk,3,T
+Elk,3,C
+Elk,4,T
+Elk,4,T
+Elk,5,C
+Elk,5,T
+Elk,6,G
+Elk,6,A
+Elk,7,C
+Elk,7,G
+Elk,8,A
+Elk,8,T
+Elk,9,A
+Elk,9,C
+Elk,10,T
+Elk,10,T
+Elk,11,G
+Elk,11,A
+Elk,12,T
+Elk,12,T
+Elk,13,A
+Elk,13,T
+Elk,14,A
+Elk,14,C
+Elk,15,A
+Elk,15,T
+Elk,16,T
+Elk,16,A
+Elk,17,C
+Elk,17,T
+Elk,18,T
+Elk,18,G
+Elk,19,C
+Elk,19,T
+Elk,20,G
+Elk,20,C
+Elk,21,T
+Elk,21,A
+Elk,22,T
+Elk,22,G
+Elk,23,C
+Elk,23,A
+Elk,24,T
+Elk,24,G
+Elk,25,G
+Elk,25,G
+Elk,26,T
+Elk,26,C
+Elk,27,A
+Elk,27,C
+Elk,28,G
+Elk,28,C
+Elk,29,A
+Elk,29,G
+Elk,30,C
+Elk,30,T
+Elk,31,T
+Elk,31,A
+Elk,32,A
+Elk,32,C
+Elk,33,T
+Elk,33,T
+Elk,34,T
+Elk,34,T
+Elk,35,G
+Elk,35,C
+Elk,36,A
+Elk,36,G
+Elk,37,T
+Elk,37,T
+Elk,38,G
+Elk,38,C
+Elk,39,C
+Elk,39,G
+Elk,40,C
+Elk,40,C
+Elk,41,T
+Elk,41,T
+Elk,42,A
+Elk,42,T
+Elk,43,C
+Elk,43,A
+Elk,44,G
+Elk,44,C
+Elk,45,T
+Elk,45,T
+Elk,46,C
+Elk,46,C
+Elk,47,A
+Elk,47,T
+Elk,48,A
+Elk,48,G
+Elk,49,G
+Elk,49,A
+Elk,50,C
+Elk,50,A
+Elk,51,C
+Elk,51,A
+Elk,52,T
+Elk,52,A
+Elk,53,A
+Elk,53,C
+Elk,54,T
+Elk,54,G
+Elk,55,A
+Elk,55,C
+Elk,56,A
+Elk,56,T
+Elk,57,A
+Elk,57,G
+Elk,58,T
+Elk,58,G
+Elk,59,G
+Elk,59,G
+Elk,60,T
+Elk,60,A
+Elk,61,C
+Elk,61,T
+Elk,62,T
+Elk,62,A
+Elk,63,T
+Elk,63,A
+Elk,64,T
+Elk,64,T
+Elk,65,A
+Elk,65,G
+Elk,66,T
+Elk,66,A
+Elk,67,A
+Elk,67,C
+Elk,68,T
+Elk,68,A
+Elk,69,T
+Elk,69,A
+Elk,70,C
+Elk,70,T
+Elk,71,T
+Elk,71,C
+Elk,72,T
+Elk,72,G
+Elk,73,T
+Elk,73,G
+Elk,74,C
+Elk,74,A
+Elk,75,A
+Elk,75,C
+Elk,76,G
+Elk,76,G
+Elk,77,G
+Elk,77,G
+Elk,78,A
+Elk,78,T
+Elk,79,G
+Elk,79,A
+Elk,80,C
+Elk,80,G
+Elk,81,A
+Elk,81,T
+Elk,82,A
+Elk,82,C
+Elk,83,C
+Elk,83,T
+Elk,84,C
+Elk,84,A
+Elk,85,T
+Elk,85,C
+Elk,86,C
+Elk,86,G
+Elk,87,C
+Elk,87,C
+Elk,88,G
+Elk,88,A
+Elk,89,G
+Elk,89,G
+Elk,90,G
+Elk,90,A
+Elk,91,C
+Elk,91,C
+Elk,92,A
+Elk,92,T
+Elk,93,T
+Elk,93,T
+Elk,94,T
+Elk,94,G
+Elk,95,G
+Elk,95,C
+Elk,96,G
+Elk,96,A
+Elk,97,C
+Elk,97,C
+Elk,98,T
+Elk,98,G
+Elk,99,C
+Elk,99,A
+Elk,100,T
+Elk,100,C
+Elk,101,C
+Elk,101,G
+Elk,102,G
+Elk,102,G
+Elk,103,C
+Elk,103,A
+Elk,104,A
+Elk,104,C
+Elk,105,A
+Elk,105,C
+Elk,106,A
+Elk,106,A
+Elk,107,T
+Elk,107,C
+Elk,108,G
+Elk,108,A
+Elk,109,G
+Elk,109,G
+Elk,110,G
+Elk,110,T
+Elk,111,C
+Elk,111,C
+Elk,112,C
+Elk,112,C
+Elk,113,A
+Elk,113,T
+Elk,114,G
+Elk,114,T
+Elk,115,C
+Elk,115,T
+Elk,116,A
+Elk,116,T
+Elk,117,C
+Elk,117,C
+Elk,118,T
+Elk,118,A
+Elk,119,C
+Elk,119,T
+Elk,120,G
+Elk,120,C
+Elk,121,G
+Elk,121,A
+Elk,122,A
+Elk,122,A
+Elk,123,T
+Elk,123,G
+Elk,124,C
+Elk,124,T
+Elk,125,A
+Elk,125,G
+Elk,126,A
+Elk,126,T
+Elk,127,G
+Elk,127,G
+Elk,128,C
+Elk,128,C
+Elk,129,G
+Elk,129,A
+Elk,130,C
+Elk,130,A
+Elk,131,A
+Elk,131,G
+Elk,132,C
+Elk,132,C
+Elk,133,A
+Elk,133,T
+Elk,134,A
+Elk,134,T
+Elk,135,G
+Elk,135,C
+Elk,136,A
+Elk,136,C
+Elk,137,G
+Elk,137,G
+Elk,138,A
+Elk,138,C
+Elk,139,A
+Elk,139,C
+Elk,140,T
+Elk,140,T
+Elk,141,T
+Elk,141,C
+Elk,142,C
+Elk,142,T
+Elk,143,A
+Elk,143,A
+Elk,144,T
+Elk,144,A
+Elk,145,T
+Elk,145,A
+Elk,146,G
+Elk,146,C
+Elk,147,A
+Elk,147,C
+Elk,148,A
+Elk,148,A
+Elk,149,C
+Elk,149,T
+Elk,150,A
+Elk,150,G
+Elk,151,A
+Elk,151,G
+Elk,152,G
+Elk,152,A
+Elk,153,G
+Elk,153,A
+Elk,154,A
+Elk,154,C
+Elk,155,G
+Elk,155,G
+Elk,156,C
+Elk,156,A
+Elk,157,A
+Elk,157,G
+Elk,158,T
+Elk,158,G
+Elk,159,A
+Elk,159,C
+Elk,160,G
+Elk,160,T
+Elk,161,T
+Elk,161,T
+Elk,162,C
+Elk,162,G
+Elk,163,G
+Elk,163,C
+Elk,164,A
+Elk,164,C
+Elk,165,G
+Elk,165,G
+Elk,166,C
+Elk,166,G
+Elk,167,G
+Elk,167,G
+Elk,168,C
+Elk,168,C
+Elk,169,A
+Elk,169,T
+Elk,170,T
+Elk,170,C
+Elk,171,A
+Elk,171,A
+Elk,172,G
+Elk,172,C
+Elk,173,T
+Elk,173,A
+Elk,174,T
+Elk,174,A
+Elk,175,G
+Elk,175,G
+Elk,176,T
+Elk,176,T
+Elk,177,G
+Elk,177,C
+Elk,178,A
+Elk,178,A
+Elk,179,C
+Elk,179,C
+Elk,180,G
+Elk,180,C
+Elk,181,T
+Elk,181,G
+Elk,182,A
+Elk,182,C
+Elk,183,G
+Elk,183,C
+Elk,184,C
+Elk,184,G
+Elk,185,G
+Elk,185,A
+Elk,186,G
+Elk,186,G
+Elk,187,C
+Elk,187,C
+Elk,188,C
+Elk,188,A
+Elk,189,T
+Elk,189,G
+Elk,190,T
+Elk,190,G
+Elk,191,C
+Elk,191,G
+Elk,192,C
+Elk,192,A
+Elk,193,C
+Elk,193,A
+Elk,194,A
+Elk,194,T
+Elk,195,A
+Elk,195,G
+Elk,196,G
+Elk,196,C
+Elk,197,T
+Elk,197,C
+Elk,198,T
+Elk,198,A
+Elk,199,T
+Elk,199,T
+Elk,200,T
+Elk,200,G
+Elk,201,C
+Elk,201,G
+Elk,202,T
+Elk,202,A
+Elk,203,T
+Elk,203,T
+Elk,204,A
+Elk,204,A
+Elk,205,G
+Elk,205,A
+Elk,206,A
+Elk,206,A
+Elk,207,T
+Elk,207,A
+Elk,208,C
+Elk,208,T
+Elk,209,A
+Elk,209,C
+Elk,210,T
+Elk,210,T
+Elk,211,T
+Elk,211,T
+Elk,212,G
+Elk,212,G
+Elk,213,C
+Elk,213,G
+Elk,214,C
+Elk,214,G
+Elk,215,C
+Elk,215,C
+Elk,216,A
+Elk,216,T
+Elk,217,A
+Elk,217,G
+Elk,218,G
+Elk,218,A
+Elk,219,C
+Elk,219,T
+Elk,220,T
+Elk,220,A
+Elk,221,C
+Elk,221,G
+Elk,222,T
+Elk,222,C
+Elk,223,A
+Elk,223,A
+Elk,224,C
+Elk,224,T
+Elk,225,G
+Elk,225,G
+Elk,226,G
+Elk,226,A
+Elk,227,C
+Elk,227,C
+Elk,228,C
+Elk,228,C
+Elk,229,A
+Elk,229,G
+Elk,230,T
+Elk,230,C
+Elk,231,G
+Elk,231,T
+Elk,232,T
+Elk,232,C
+Elk,233,T
+Elk,233,C
+Elk,234,A
+Elk,234,G
+Elk,235,T
+Elk,235,T
+Elk,236,G
+Elk,236,A
+Elk,237,A
+Elk,237,C
+Elk,238,C
+Elk,238,A
+Elk,239,T
+Elk,239,T
+Elk,240,C
+Elk,240,C
+Elk,241,T
+Elk,241,C
+Elk,242,A
+Elk,242,C
+Elk,243,C
+Elk,243,A
+Elk,244,A
+Elk,244,A
+Elk,245,A
+Elk,245,T
+Elk,246,A
+Elk,246,C
+Elk,247,A
+Elk,247,G
+Elk,248,C
+Elk,248,G
+Elk,249,G
+Elk,249,A
+Elk,250,A
+Elk,250,G
+Elk,251,C
+Elk,251,C
+Elk,252,C
+Elk,252,C
+Elk,253,T
+Elk,253,T
+Elk,254,C
+Elk,254,T
+Elk,255,C
+Elk,255,C
+Elk,256,G
+Elk,256,C
+Elk,257,T
+Elk,257,G
+Elk,258,A
+Elk,258,T
+Elk,259,A
+Elk,259,A
+Elk,260,C
+Elk,260,A
+Elk,261,G
+Elk,261,A
+Elk,262,T
+Elk,262,G
+Elk,263,C
+Elk,263,G
+Elk,264,T
+Elk,264,G
+Elk,265,C
+Elk,265,A
+Elk,266,A
+Elk,266,T
+Elk,267,T
+Elk,267,A
+Elk,268,C
+Elk,268,T
+Elk,269,A
+Elk,269,G
+Elk,270,T
+Elk,270,C
+Elk,271,G
+Elk,271,T
+Elk,272,T
+Elk,272,T
+Elk,273,T
+Elk,273,C
+Elk,274,C
+Elk,274,T
+Elk,275,C
+Elk,275,G
+Elk,276,G
+Elk,276,A
+Elk,277,G
+Elk,277,T
+Elk,278,G
+Elk,278,G
+Elk,279,G
+Elk,279,A
+Elk,280,A
+Elk,280,G
+Elk,281,G
+Elk,281,T
+Elk,282,T
+Elk,282,T
+Elk,283,T
+Elk,283,T
+Elk,284,T
+Elk,284,T
+Elk,285,C
+Elk,285,T
+Elk,286,T
+Elk,286,G
+Elk,287,T
+Elk,287,T
+Elk,288,C
+Elk,288,G
+Elk,289,A
+Elk,289,G
+Elk,290,G
+Elk,290,T
+Elk,291,G
+Elk,291,G
+Elk,292,A
+Elk,292,C
+Elk,293,A
+Elk,293,G
+Elk,294,G
+Elk,294,G
+Elk,295,A
+Elk,295,G
+Elk,296,A
+Elk,296,C
+Elk,297,A
+Elk,297,G
+Elk,298,A
+Elk,298,T
+Elk,299,C
+Elk,299,G
+Elk,300,T
+Elk,300,G
+Elk,301,C
+Elk,301,C
+Elk,302,C
+Elk,302,T
+Elk,303,A
+Elk,303,G
+Elk,304,C
+Elk,304,G
+Elk,305,G
+Elk,305,T
+Elk,306,G
+Elk,306,T
+Elk,307,T
+Elk,307,G
+Elk,308,A
+Elk,308,T
+Elk,309,C
+Elk,309,C
+Elk,310,G
+Elk,310,T
+Elk,311,T
+Elk,311,G
+Elk,312,A
+Elk,312,A
+Elk,313,C
+Elk,313,A
+Elk,314,G
+Elk,314,C
+Elk,315,G
+Elk,315,T
+Elk,316,T
+Elk,316,T
+Elk,317,C
+Elk,317,A
+Elk,318,A
+Elk,318,C
+Elk,319,A
+Elk,319,A
+Elk,320,C
+Elk,320,C
+Elk,321,A
+Elk,321,A
+Elk,322,C
+Elk,322,G
+Elk,323,T
+Elk,323,G
+Elk,324,G
+Elk,324,T
+Elk,325,C
+Elk,325,T
+Elk,326,G
+Elk,326,A
+Elk,327,T
+Elk,327,C
+Elk,328,C
+Elk,328,T
+Elk,329,C
+Elk,329,G
+Elk,330,C
+Elk,330,T
+Elk,331,G
+Elk,331,C
+Elk,332,T
+Elk,332,C
+Elk,333,C
+Elk,333,C
+Elk,334,C
+Elk,334,G
+Elk,335,T
+Elk,335,C
+Elk,336,A
+Elk,336,T
+Elk,337,C
+Elk,337,T
+Elk,338,A
+Elk,338,C
+Elk,339,C
+Elk,339,T
+Elk,340,T
+Elk,340,C
+Elk,341,C
+Elk,341,A
+Elk,342,G
+Elk,342,T
+Elk,343,A
+Elk,343,A
+Elk,344,A
+Elk,344,T
+Elk,345,C
+Elk,345,C
+Elk,346,T
+Elk,346,C
+Elk,347,G
+Elk,347,T
+Elk,348,G
+Elk,348,A
+Elk,349,C
+Elk,349,T
+Elk,350,A
+Elk,350,T
+Elk,351,T
+Elk,351,C
+Elk,352,T
+Elk,352,C
+Elk,353,T
+Elk,353,T
+Elk,354,A
+Elk,354,C
+Elk,355,C
+Elk,355,A
+Elk,356,T
+Elk,356,G
+Elk,357,C
+Elk,357,T
+Elk,358,G
+Elk,358,C
+Elk,359,C
+Elk,359,C
+Elk,360,C
+Elk,360,T
+Elk,361,G
+Elk,361,C
+Elk,362,G
+Elk,362,G
+Elk,363,G
+Elk,363,C
+Elk,364,G
+Elk,364,A
+Elk,365,C
+Elk,365,G
+Elk,366,C
+Elk,366,T
+Elk,367,G
+Elk,367,A
+Elk,368,T
+Elk,368,A
+Elk,369,T
+Elk,369,T
+Elk,370,C
+Elk,370,T
+Elk,371,C
+Elk,371,A
+Elk,372,C
+Elk,372,C
+Elk,373,G
+Elk,373,T
+Elk,374,A
+Elk,374,G
+Elk,375,T
+Elk,375,C
+Elk,376,A
+Elk,376,C
+Elk,377,A
+Elk,377,C
+Elk,378,T
+Elk,378,C
+Elk,379,T
+Elk,379,T
+Elk,380,T
+Elk,380,G
+Elk,381,C
+Elk,381,T
+Elk,382,C
+Elk,382,G
+Elk,383,C
+Elk,383,T
+Elk,384,C
+Elk,384,G
+Elk,385,C
+Elk,385,T
+Elk,386,G
+Elk,386,T
+Elk,387,A
+Elk,387,T
+Elk,388,A
+Elk,388,A
+Elk,389,C
+Elk,389,A
+Elk,390,C
+Elk,390,T
+Elk,391,G
+Elk,391,C
+Elk,392,T
+Elk,392,C
+Elk,393,A
+Elk,393,G
+Elk,394,T
+Elk,394,G
+Elk,395,G
+Elk,395,G
+Elk,396,A
+Elk,396,A
+Elk,397,G
+Elk,397,T
+Elk,398,G
+Elk,398,C
+Elk,399,T
+Elk,399,T
+Elk,400,C
+Elk,400,T
+Elk,401,G
+Elk,401,G
+Elk,402,C
+Elk,402,T
+Elk,403,A
+Elk,403,C
+Elk,404,T
+Elk,404,C
+Elk,405,A
+Elk,405,A
+Elk,406,A
+Elk,406,C
+Elk,407,A
+Elk,407,G
+Elk,408,C
+Elk,408,C
+Elk,409,A
+Elk,409,A
+Elk,410,T
+Elk,410,G
+Elk,411,A
+Elk,411,A
+Elk,412,A
+Elk,412,T
+Elk,413,A
+Elk,413,G
+Elk,414,T
+Elk,414,T
+Elk,415,A
+Elk,415,G
+Elk,416,C
+Elk,416,T
+Elk,417,G
+Elk,417,T
+Elk,418,A
+Elk,418,A
+Elk,419,A
+Elk,419,T
+Elk,420,C
+Elk,420,T
+Elk,421,C
+Elk,421,C
+Elk,422,T
+Elk,422,T
+Elk,423,C
+Elk,423,T
+Elk,424,G
+Elk,424,A
+Elk,425,T
+Elk,425,G
+Elk,426,G
+Elk,426,A
+Elk,427,C
+Elk,427,G
+Elk,428,A
+Elk,428,G
+Elk,429,G
+Elk,429,G
+Elk,430,A
+Elk,430,T
+Elk,431,C
+Elk,431,C
+Elk,432,A
+Elk,432,A
+Elk,433,C
+Elk,433,T
+Elk,434,T
+Elk,434,C
+Elk,435,G
+Elk,435,A
+Elk,436,G
+Elk,436,G
+Elk,437,G
+Elk,437,C
+Elk,438,A
+Elk,438,G
+Elk,439,A
+Elk,439,T
+Elk,440,C
+Elk,440,T
+Elk,441,C
+Elk,441,G
+Elk,442,C
+Elk,442,G
+Elk,443,T
+Elk,443,G
+Elk,444,G
+Elk,444,G
+Elk,445,G
+Elk,445,G
+Elk,446,C
+Elk,446,C
+Elk,447,C
+Elk,447,T
+Elk,448,T
+Elk,448,G
+Elk,449,T
+Elk,449,T
+Elk,450,T
+Elk,450,A
+Elk,451,G
+Elk,451,G
+Elk,452,C
+Elk,452,T
+Elk,453,G
+Elk,453,T
+Elk,454,G
+Elk,454,T
+Elk,455,C
+Elk,455,G
+Elk,456,C
+Elk,456,C
+Elk,457,C
+Elk,457,T
+Elk,458,G
+Elk,458,G
+Elk,459,C
+Elk,459,G
+Elk,460,A
+Elk,460,G
+Elk,461,G
+Elk,461,C
+Elk,462,A
+Elk,462,G
+Elk,463,T
+Elk,463,C
+Elk,464,T
+Elk,464,T
+Elk,465,C
+Elk,465,C
+Elk,466,T
+Elk,466,G
+Elk,467,T
+Elk,467,C
+Elk,468,A
+Elk,468,T
+Elk,469,T
+Elk,469,T
+Elk,470,T
+Elk,470,G
+Elk,471,G
+Elk,471,C
+Elk,472,G
+Elk,472,G
+Elk,473,T
+Elk,473,T
+Elk,474,A
+Elk,474,C
+Elk,475,T
+Elk,475,C
+Elk,476,T
+Elk,476,G
+Elk,477,C
+Elk,477,A
+Elk,478,C
+Elk,478,T
+Elk,479,T
+Elk,479,T
+Elk,480,T
+Elk,480,T
+Elk,481,G
+Elk,481,C
+Elk,482,A
+Elk,482,G
+Elk,483,C
+Elk,483,A
+Elk,484,C
+Elk,484,C
+Elk,485,G
+Elk,485,A
+Elk,486,A
+Elk,486,G
+Elk,487,C
+Elk,487,T
+Elk,488,G
+Elk,488,G
+Elk,489,C
+Elk,489,G
+Elk,490,T
+Elk,490,T
+Elk,491,A
+Elk,491,T
+Elk,492,C
+Elk,492,G
+Elk,493,G
+Elk,493,G
+Elk,494,T
+Elk,494,T
+Elk,495,T
+Elk,495,C
+Elk,496,G
+Elk,496,A
+Elk,497,T
+Elk,497,A
+Elk,498,C
+Elk,498,C
+Elk,499,A
+Elk,499,T
+Elk,500,T
+Elk,500,A
+Black,1,A
+Black,1,C
+Black,2,G
+Black,2,C
+Black,3,G
+Black,3,A
+Black,4,C
+Black,4,G
+Black,5,A
+Black,5,C
+Black,6,A
+Black,6,C
+Black,7,T
+Black,7,T
+Black,8,C
+Black,8,G
+Black,9,T
+Black,9,T
+Black,10,A
+Black,10,C
+Black,11,T
+Black,11,A
+Black,12,G
+Black,12,T
+Black,13,A
+Black,13,C
+Black,14,C
+Black,14,T
+Black,15,A
+Black,15,A
+Black,16,C
+Black,16,C
+Black,17,C
+Black,17,T
+Black,18,G
+Black,18,G
+Black,19,T
+Black,19,C
+Black,20,T
+Black,20,C
+Black,21,G
+Black,21,T
+Black,22,A
+Black,22,C
+Black,23,A
+Black,23,T
+Black,24,C
+Black,24,C
+Black,25,T
+Black,25,T
+Black,26,T
+Black,26,G
+Black,27,A
+Black,27,G
+Black,28,C
+Black,28,A
+Black,29,G
+Black,29,A
+Black,30,C
+Black,30,G
+Black,31,T
+Black,31,C
+Black,32,C
+Black,32,C
+Black,33,A
+Black,33,T
+Black,34,C
+Black,34,T
+Black,35,A
+Black,35,C
+Black,36,C
+Black,36,T
+Black,37,A
+Black,37,T
+Black,38,A
+Black,38,C
+Black,39,A
+Black,39,T
+Black,40,C
+Black,40,T
+Black,41,T
+Black,41,G
+Black,42,T
+Black,42,C
+Black,43,C
+Black,43,T
+Black,44,T
+Black,44,A
+Black,45,T
+Black,45,T
+Black,46,A
+Black,46,G
+Black,47,A
+Black,47,A
+Black,48,C
+Black,48,C
+Black,49,A
+Black,49,G
+Black,50,C
+Black,50,T
+Black,51,C
+Black,51,G
+Black,52,C
+Black,52,C
+Black,53,A
+Black,53,G
+Black,54,A
+Black,54,T
+Black,55,C
+Black,55,C
+Black,56,C
+Black,56,A
+Black,57,C
+Black,57,A
+Black,58,A
+Black,58,T
+Black,59,A
+Black,59,C
+Black,60,A
+Black,60,A
+Black,61,A
+Black,61,C
+Black,62,A
+Black,62,T
+Black,63,T
+Black,63,G
+Black,64,G
+Black,64,T
+Black,65,A
+Black,65,C
+Black,66,T
+Black,66,G
+Black,67,G
+Black,67,C
+Black,68,T
+Black,68,A
+Black,69,C
+Black,69,G
+Black,70,A
+Black,70,A
+Black,71,A
+Black,71,T
+Black,72,G
+Black,72,C
+Black,73,T
+Black,73,A
+Black,74,T
+Black,74,G
+Black,75,C
+Black,75,A
+Black,76,A
+Black,76,C
+Black,77,T
+Black,77,A
+Black,78,G
+Black,78,A
+Black,79,C
+Black,79,A
+Black,80,G
+Black,80,G
+Black,81,A
+Black,81,A
+Black,82,T
+Black,82,C
+Black,83,T
+Black,83,T
+Black,84,G
+Black,84,G
+Black,85,C
+Black,85,G
+Black,86,C
+Black,86,A
+Black,87,A
+Black,87,T
+Black,88,T
+Black,88,A
+Black,89,T
+Black,89,G
+Black,90,C
+Black,90,A
+Black,91,T
+Black,91,C
+Black,92,C
+Black,92,T
+Black,93,G
+Black,93,T
+Black,94,T
+Black,94,C
+Black,95,A
+Black,95,A
+Black,96,A
+Black,96,T
+Black,97,G
+Black,97,T
+Black,98,A
+Black,98,G
+Black,99,A
+Black,99,A
+Black,100,T
+Black,100,A
+Black,101,C
+Black,101,C
+Black,102,C
+Black,102,G
+Black,103,T
+Black,103,C
+Black,104,G
+Black,104,G
+Black,105,A
+Black,105,G
+Black,106,G
+Black,106,A
+Black,107,G
+Black,107,T
+Black,108,C
+Black,108,A
+Black,109,A
+Black,109,A
+Black,110,T
+Black,110,T
+Black,111,A
+Black,111,G
+Black,112,A
+Black,112,G
+Black,113,T
+Black,113,A
+Black,114,T
+Black,114,A
+Black,115,G
+Black,115,A
+Black,116,A
+Black,116,G
+Black,117,T
+Black,117,A
+Black,118,T
+Black,118,T
+Black,119,G
+Black,119,A
+Black,120,A
+Black,120,C
+Black,121,A
+Black,121,C
+Black,122,G
+Black,122,C
+Black,123,G
+Black,123,G
+Black,124,C
+Black,124,T
+Black,125,C
+Black,125,C
+Black,126,A
+Black,126,A
+Black,127,G
+Black,127,A
+Black,128,C
+Black,128,C
+Black,129,G
+Black,129,A
+Black,130,C
+Black,130,C
+Black,131,T
+Black,131,T
+Black,132,T
+Black,132,A
+Black,133,G
+Black,133,A
+Black,134,T
+Black,134,T
+Black,135,G
+Black,135,A
+Black,136,A
+Black,136,C
+Black,137,G
+Black,137,T
+Black,138,A
+Black,138,T
+Black,139,G
+Black,139,T
+Black,140,T
+Black,140,G
+Black,141,G
+Black,141,T
+Black,142,A
+Black,142,A
+Black,143,C
+Black,143,A
+Black,144,G
+Black,144,T
+Black,145,C
+Black,145,A
+Black,146,T
+Black,146,A
+Black,147,A
+Black,147,G
+Black,148,A
+Black,148,A
+Black,149,G
+Black,149,T
+Black,150,G
+Black,150,G
+Black,151,C
+Black,151,A
+Black,152,T
+Black,152,G
+Black,153,T
+Black,153,C
+Black,154,C
+Black,154,A
+Black,155,A
+Black,155,G
+Black,156,A
+Black,156,T
+Black,157,A
+Black,157,G
+Black,158,T
+Black,158,C
+Black,159,T
+Black,159,C
+Black,160,C
+Black,160,C
+Black,161,G
+Black,161,C
+Black,162,G
+Black,162,G
+Black,163,A
+Black,163,A
+Black,164,A
+Black,164,T
+Black,165,C
+Black,165,A
+Black,166,C
+Black,166,C
+Black,167,G
+Black,167,A
+Black,168,T
+Black,168,T
+Black,169,G
+Black,169,T
+Black,170,G
+Black,170,T
+Black,171,G
+Black,171,G
+Black,172,G
+Black,172,C
+Black,173,G
+Black,173,T
+Black,174,T
+Black,174,T
+Black,175,C
+Black,175,C
+Black,176,C
+Black,176,G
+Black,177,T
+Black,177,A
+Black,178,A
+Black,178,T
+Black,179,C
+Black,179,G
+Black,180,T
+Black,180,A
+Black,181,G
+Black,181,T
+Black,182,T
+Black,182,T
+Black,183,C
+Black,183,A
+Black,184,T
+Black,184,T
+Black,185,T
+Black,185,G
+Black,186,C
+Black,186,A
+Black,187,G
+Black,187,A
+Black,188,G
+Black,188,A
+Black,189,A
+Black,189,C
+Black,190,A
+Black,190,A
+Black,191,G
+Black,191,A
+Black,192,C
+Black,192,C
+Black,193,G
+Black,193,T
+Black,194,C
+Black,194,A
+Black,195,C
+Black,195,G
+Black,196,G
+Black,196,A
+Black,197,G
+Black,197,T
+Black,198,G
+Black,198,T
+Black,199,A
+Black,199,A
+Black,200,C
+Black,200,T
+Black,201,A
+Black,201,A
+Black,202,T
+Black,202,C
+Black,203,C
+Black,203,T
+Black,204,T
+Black,204,G
+Black,205,T
+Black,205,T
+Black,206,T
+Black,206,A
+Black,207,T
+Black,207,T
+Black,208,C
+Black,208,A
+Black,209,T
+Black,209,G
+Black,210,G
+Black,210,C
+Black,211,A
+Black,211,C
+Black,212,A
+Black,212,T
+Black,213,C
+Black,213,C
+Black,214,C
+Black,214,A
+Black,215,A
+Black,215,C
+Black,216,A
+Black,216,A
+Black,217,T
+Black,217,T
+Black,218,T
+Black,218,C
+Black,219,C
+Black,219,A
+Black,220,A
+Black,220,C
+Black,221,G
+Black,221,T
+Black,222,T
+Black,222,G
+Black,223,C
+Black,223,A
+Black,224,C
+Black,224,C
+Black,225,G
+Black,225,T
+Black,226,G
+Black,226,G
+Black,227,T
+Black,227,C
+Black,228,T
+Black,228,A
+Black,229,T
+Black,229,C
+Black,230,C
+Black,230,A
+Black,231,C
+Black,231,C
+Black,232,A
+Black,232,A
+Black,233,C
+Black,233,T
+Black,234,A
+Black,234,C
+Black,235,G
+Black,235,T
+Black,236,C
+Black,236,T
+Black,237,C
+Black,237,T
+Black,238,G
+Black,238,G
+Black,239,C
+Black,239,A
+Black,240,G
+Black,240,C
+Black,241,C
+Black,241,C
+Black,242,A
+Black,242,C
+Black,243,T
+Black,243,C
+Black,244,T
+Black,244,G
+Black,245,T
+Black,245,A
+Black,246,A
+Black,246,A
+Black,247,C
+Black,247,T
+Black,248,A
+Black,248,C
+Black,249,G
+Black,249,C
+Black,250,C
+Black,250,T
+Black,251,C
+Black,251,A
+Black,252,G
+Black,252,T
+Black,253,A
+Black,253,G
+Black,254,T
+Black,254,C
+Black,255,T
+Black,255,A
+Black,256,C
+Black,256,C
+Black,257,G
+Black,257,G
+Black,258,T
+Black,258,G
+Black,259,C
+Black,259,T
+Black,260,A
+Black,260,G
+Black,261,T
+Black,261,T
+Black,262,C
+Black,262,C
+Black,263,T
+Black,263,T
+Black,264,G
+Black,264,A
+Black,265,T
+Black,265,T
+Black,266,C
+Black,266,T
+Black,267,T
+Black,267,A
+Black,268,G
+Black,268,A
+Black,269,C
+Black,269,C
+Black,270,G
+Black,270,A
+Black,271,G
+Black,271,A
+Black,272,C
+Black,272,C
+Black,273,T
+Black,273,A
+Black,274,T
+Black,274,A
+Black,275,C
+Black,275,T
+Black,276,A
+Black,276,C
+Black,277,A
+Black,277,A
+Black,278,G
+Black,278,A
+Black,279,G
+Black,279,C
+Black,280,G
+Black,280,C
+Black,281,G
+Black,281,A
+Black,282,C
+Black,282,T
+Black,283,T
+Black,283,T
+Black,284,A
+Black,284,A
+Black,285,T
+Black,285,A
+Black,286,G
+Black,286,T
+Black,287,A
+Black,287,A
+Black,288,A
+Black,288,C
+Black,289,A
+Black,289,A
+Black,290,C
+Black,290,T
+Black,291,G
+Black,291,A
+Black,292,T
+Black,292,A
+Black,293,C
+Black,293,C
+Black,294,A
+Black,294,A
+Black,295,C
+Black,295,C
+Black,296,T
+Black,296,T
+Black,297,G
+Black,297,T
+Black,298,A
+Black,298,T
+Black,299,A
+Black,299,T
+Black,300,C
+Black,300,C
+Black,301,A
+Black,301,C
+Black,302,T
+Black,302,C
+Black,303,C
+Black,303,C
+Black,304,C
+Black,304,C
+Black,305,T
+Black,305,G
+Black,306,T
+Black,306,T
+Black,307,G
+Black,307,A
+Black,308,G
+Black,308,T
+Black,309,G
+Black,309,C
+Black,310,T
+Black,310,G
+Black,311,G
+Black,311,C
+Black,312,C
+Black,312,A
+Black,313,G
+Black,313,A
+Black,314,T
+Black,314,G
+Black,315,G
+Black,315,G
+Black,316,G
+Black,316,G
+Black,317,A
+Black,317,C
+Black,318,T
+Black,318,C
+Black,319,C
+Black,319,A
+Black,320,A
+Black,320,C
+Black,321,A
+Black,321,C
+Black,322,C
+Black,322,T
+Black,323,G
+Black,323,C
+Black,324,C
+Black,324,A
+Black,325,A
+Black,325,A
+Black,326,T
+Black,326,C
+Black,327,C
+Black,327,G
+Black,328,A
+Black,328,T
+Black,329,T
+Black,329,C
+Black,330,G
+Black,330,T
+Black,331,T
+Black,331,G
+Black,332,C
+Black,332,A
+Black,333,C
+Black,333,G
+Black,334,T
+Black,334,G
+Black,335,C
+Black,335,G
+Black,336,G
+Black,336,A
+Black,337,T
+Black,337,C
+Black,338,T
+Black,338,G
+Black,339,G
+Black,339,A
+Black,340,T
+Black,340,C
+Black,341,C
+Black,341,G
+Black,342,T
+Black,342,T
+Black,343,A
+Black,343,T
+Black,344,C
+Black,344,A
+Black,345,G
+Black,345,T
+Black,346,A
+Black,346,C
+Black,347,C
+Black,347,T
+Black,348,C
+Black,348,C
+Black,349,G
+Black,349,A
+Black,350,A
+Black,350,T
+Black,351,G
+Black,351,G
+Black,352,G
+Black,352,T
+Black,353,C
+Black,353,C
+Black,354,T
+Black,354,G
+Black,355,C
+Black,355,A
+Black,356,C
+Black,356,C
+Black,357,C
+Black,357,G
+Black,358,A
+Black,358,T
+Black,359,G
+Black,359,G
+Black,360,A
+Black,360,C
+Black,361,C
+Black,361,T
+Black,362,C
+Black,362,G
+Black,363,G
+Black,363,A
+Black,364,G
+Black,364,A
+Black,365,C
+Black,365,C
+Black,366,C
+Black,366,T
+Black,367,A
+Black,367,A
+Black,368,G
+Black,368,G
+Black,369,C
+Black,369,T
+Black,370,G
+Black,370,A
+Black,371,G
+Black,371,A
+Black,372,C
+Black,372,A
+Black,373,G
+Black,373,G
+Black,374,G
+Black,374,C
+Black,375,A
+Black,375,C
+Black,376,T
+Black,376,G
+Black,377,C
+Black,377,T
+Black,378,A
+Black,378,T
+Black,379,T
+Black,379,A
+Black,380,A
+Black,380,A
+Black,381,G
+Black,381,C
+Black,382,C
+Black,382,T
+Black,383,C
+Black,383,A
+Black,384,A
+Black,384,T
+Black,385,T
+Black,385,G
+Black,386,C
+Black,386,T
+Black,387,T
+Black,387,A
+Black,388,T
+Black,388,T
+Black,389,C
+Black,389,C
+Black,390,G
+Black,390,A
+Black,391,C
+Black,391,G
+Black,392,T
+Black,392,T
+Black,393,A
+Black,393,G
+Black,394,A
+Black,394,T
+Black,395,G
+Black,395,T
+Black,396,T
+Black,396,T
+Black,397,A
+Black,397,G
+Black,398,T
+Black,398,A
+Black,399,T
+Black,399,A
+Black,400,A
+Black,400,G
+Black,401,A
+Black,401,T
+Black,402,A
+Black,402,G
+Black,403,G
+Black,403,T
+Black,404,T
+Black,404,A
+Black,405,G
+Black,405,G
+Black,406,G
+Black,406,C
+Black,407,A
+Black,407,T
+Black,408,G
+Black,408,T
+Black,409,T
+Black,409,A
+Black,410,C
+Black,410,G
+Black,411,G
+Black,411,T
+Black,412,C
+Black,412,G
+Black,413,C
+Black,413,T
+Black,414,G
+Black,414,C
+Black,415,T
+Black,415,A
+Black,416,G
+Black,416,G
+Black,417,T
+Black,417,T
+Black,418,G
+Black,418,G
+Black,419,G
+Black,419,G
+Black,420,T
+Black,420,T
+Black,421,T
+Black,421,G
+Black,422,A
+Black,422,G
+Black,423,T
+Black,423,A
+Black,424,A
+Black,424,T
+Black,425,T
+Black,425,A
+Black,426,G
+Black,426,A
+Black,427,C
+Black,427,C
+Black,428,A
+Black,428,A
+Black,429,T
+Black,429,G
+Black,430,A
+Black,430,T
+Black,431,A
+Black,431,G
+Black,432,C
+Black,432,A
+Black,433,A
+Black,433,G
+Black,434,G
+Black,434,C
+Black,435,G
+Black,435,C
+Black,436,T
+Black,436,A
+Black,437,C
+Black,437,T
+Black,438,G
+Black,438,C
+Black,439,G
+Black,439,C
+Black,440,T
+Black,440,G
+Black,441,A
+Black,441,T
+Black,442,G
+Black,442,C
+Black,443,A
+Black,443,T
+Black,444,C
+Black,444,G
+Black,445,T
+Black,445,G
+Black,446,C
+Black,446,T
+Black,447,G
+Black,447,T
+Black,448,T
+Black,448,A
+Black,449,G
+Black,449,G
+Black,450,T
+Black,450,A
+Black,451,A
+Black,451,T
+Black,452,T
+Black,452,C
+Black,453,T
+Black,453,T
+Black,454,T
+Black,454,C
+Black,455,A
+Black,455,A
+Black,456,G
+Black,456,T
+Black,457,G
+Black,457,T
+Black,458,T
+Black,458,T
+Black,459,A
+Black,459,G
+Black,460,T
+Black,460,A
+Black,461,T
+Black,461,T
+Black,462,C
+Black,462,C
+Black,463,C
+Black,463,C
+Black,464,C
+Black,464,T
+Black,465,C
+Black,465,C
+Black,466,C
+Black,466,C
+Black,467,T
+Black,467,A
+Black,468,T
+Black,468,T
+Black,469,T
+Black,469,G
+Black,470,C
+Black,470,T
+Black,471,G
+Black,471,A
+Black,472,C
+Black,472,G
+Black,473,G
+Black,473,T
+Black,474,C
+Black,474,T
+Black,475,T
+Black,475,A
+Black,476,A
+Black,476,G
+Black,477,G
+Black,477,A
+Black,478,G
+Black,478,A
+Black,479,C
+Black,479,A
+Black,480,G
+Black,480,T
+Black,481,G
+Black,481,A
+Black,482,C
+Black,482,C
+Black,483,C
+Black,483,C
+Black,484,C
+Black,484,T
+Black,485,G
+Black,485,G
+Black,486,C
+Black,486,A
+Black,487,C
+Black,487,G
+Black,488,C
+Black,488,T
+Black,489,T
+Black,489,C
+Black,490,C
+Black,490,A
+Black,491,G
+Black,491,G
+Black,492,A
+Black,492,C
+Black,493,G
+Black,493,C
+Black,494,C
+Black,494,A
+Black,495,T
+Black,495,A
+Black,496,A
+Black,496,G
+Black,497,G
+Black,497,T
+Black,498,G
+Black,498,A
+Black,499,G
+Black,499,C
+Black,500,C
+Black,500,T
+Otsego,1,C
+Otsego,1,G
+Otsego,2,T
+Otsego,2,C
+Otsego,3,T
+Otsego,3,C
+Otsego,4,G
+Otsego,4,C
+Otsego,5,A
+Otsego,5,C
+Otsego,6,C
+Otsego,6,A
+Otsego,7,C
+Otsego,7,A
+Otsego,8,G
+Otsego,8,T
+Otsego,9,C
+Otsego,9,A
+Otsego,10,G
+Otsego,10,G
+Otsego,11,T
+Otsego,11,T
+Otsego,12,T
+Otsego,12,G
+Otsego,13,C
+Otsego,13,G
+Otsego,14,T
+Otsego,14,A
+Otsego,15,A
+Otsego,15,A
+Otsego,16,G
+Otsego,16,G
+Otsego,17,G
+Otsego,17,G
+Otsego,18,A
+Otsego,18,A
+Otsego,19,A
+Otsego,19,A
+Otsego,20,C
+Otsego,20,G
+Otsego,21,C
+Otsego,21,C
+Otsego,22,G
+Otsego,22,C
+Otsego,23,T
+Otsego,23,C
+Otsego,24,G
+Otsego,24,C
+Otsego,25,T
+Otsego,25,A
+Otsego,26,G
+Otsego,26,G
+Otsego,27,G
+Otsego,27,T
+Otsego,28,A
+Otsego,28,T
+Otsego,29,A
+Otsego,29,G
+Otsego,30,A
+Otsego,30,G
+Otsego,31,T
+Otsego,31,A
+Otsego,32,C
+Otsego,32,G
+Otsego,33,C
+Otsego,33,G
+Otsego,34,T
+Otsego,34,G
+Otsego,35,C
+Otsego,35,A
+Otsego,36,A
+Otsego,36,G
+Otsego,37,T
+Otsego,37,A
+Otsego,38,C
+Otsego,38,A
+Otsego,39,A
+Otsego,39,G
+Otsego,40,T
+Otsego,40,A
+Otsego,41,A
+Otsego,41,C
+Otsego,42,C
+Otsego,42,T
+Otsego,43,T
+Otsego,43,G
+Otsego,44,T
+Otsego,44,T
+Otsego,45,T
+Otsego,45,C
+Otsego,46,C
+Otsego,46,G
+Otsego,47,A
+Otsego,47,T
+Otsego,48,A
+Otsego,48,T
+Otsego,49,T
+Otsego,49,C
+Otsego,50,G
+Otsego,50,T
+Otsego,51,A
+Otsego,51,A
+Otsego,52,T
+Otsego,52,T
+Otsego,53,C
+Otsego,53,C
+Otsego,54,T
+Otsego,54,A
+Otsego,55,C
+Otsego,55,G
+Otsego,56,T
+Otsego,56,G
+Otsego,57,A
+Otsego,57,T
+Otsego,58,G
+Otsego,58,C
+Otsego,59,A
+Otsego,59,A
+Otsego,60,T
+Otsego,60,T
+Otsego,61,A
+Otsego,61,C
+Otsego,62,T
+Otsego,62,T
+Otsego,63,A
+Otsego,63,C
+Otsego,64,G
+Otsego,64,A
+Otsego,65,A
+Otsego,65,T
+Otsego,66,G
+Otsego,66,A
+Otsego,67,A
+Otsego,67,A
+Otsego,68,T
+Otsego,68,A
+Otsego,69,A
+Otsego,69,C
+Otsego,70,T
+Otsego,70,A
+Otsego,71,G
+Otsego,71,A
+Otsego,72,T
+Otsego,72,A
+Otsego,73,G
+Otsego,73,T
+Otsego,74,C
+Otsego,74,A
+Otsego,75,A
+Otsego,75,A
+Otsego,76,C
+Otsego,76,C
+Otsego,77,G
+Otsego,77,T
+Otsego,78,G
+Otsego,78,G
+Otsego,79,C
+Otsego,79,T
+Otsego,80,T
+Otsego,80,C
+Otsego,81,G
+Otsego,81,C
+Otsego,82,C
+Otsego,82,A
+Otsego,83,A
+Otsego,83,A
+Otsego,84,G
+Otsego,84,G
+Otsego,85,G
+Otsego,85,A
+Otsego,86,A
+Otsego,86,T
+Otsego,87,T
+Otsego,87,T
+Otsego,88,C
+Otsego,88,C
+Otsego,89,T
+Otsego,89,C
+Otsego,90,G
+Otsego,90,G
+Otsego,91,G
+Otsego,91,A
+Otsego,92,G
+Otsego,92,G
+Otsego,93,A
+Otsego,93,A
+Otsego,94,G
+Otsego,94,G
+Otsego,95,A
+Otsego,95,T
+Otsego,96,G
+Otsego,96,T
+Otsego,97,A
+Otsego,97,C
+Otsego,98,G
+Otsego,98,T
+Otsego,99,G
+Otsego,99,C
+Otsego,100,C
+Otsego,100,T
+Otsego,101,C
+Otsego,101,C
+Otsego,102,G
+Otsego,102,T
+Otsego,103,T
+Otsego,103,T
+Otsego,104,A
+Otsego,104,C
+Otsego,105,C
+Otsego,105,C
+Otsego,106,G
+Otsego,106,A
+Otsego,107,G
+Otsego,107,G
+Otsego,108,G
+Otsego,108,C
+Otsego,109,C
+Otsego,109,A
+Otsego,110,T
+Otsego,110,C
+Otsego,111,A
+Otsego,111,A
+Otsego,112,G
+Otsego,112,G
+Otsego,113,G
+Otsego,113,T
+Otsego,114,G
+Otsego,114,A
+Otsego,115,A
+Otsego,115,A
+Otsego,116,G
+Otsego,116,G
+Otsego,117,T
+Otsego,117,C
+Otsego,118,T
+Otsego,118,G
+Otsego,119,A
+Otsego,119,T
+Otsego,120,C
+Otsego,120,C
+Otsego,121,A
+Otsego,121,T
+Otsego,122,C
+Otsego,122,C
+Otsego,123,C
+Otsego,123,T
+Otsego,124,A
+Otsego,124,C
+Otsego,125,G
+Otsego,125,A
+Otsego,126,T
+Otsego,126,A
+Otsego,127,C
+Otsego,127,T
+Otsego,128,C
+Otsego,128,T
+Otsego,129,A
+Otsego,129,C
+Otsego,130,T
+Otsego,130,G
+Otsego,131,T
+Otsego,131,T
+Otsego,132,T
+Otsego,132,T
+Otsego,133,C
+Otsego,133,T
+Otsego,134,A
+Otsego,134,C
+Otsego,135,C
+Otsego,135,C
+Otsego,136,G
+Otsego,136,A
+Otsego,137,G
+Otsego,137,G
+Otsego,138,T
+Otsego,138,C
+Otsego,139,G
+Otsego,139,C
+Otsego,140,G
+Otsego,140,G
+Otsego,141,T
+Otsego,141,C
+Otsego,142,C
+Otsego,142,A
+Otsego,143,G
+Otsego,143,C
+Otsego,144,A
+Otsego,144,C
+Otsego,145,A
+Otsego,145,A
+Otsego,146,T
+Otsego,146,C
+Otsego,147,G
+Otsego,147,G
+Otsego,148,G
+Otsego,148,A
+Otsego,149,A
+Otsego,149,C
+Otsego,150,G
+Otsego,150,G
+Otsego,151,T
+Otsego,151,A
+Otsego,152,A
+Otsego,152,G
+Otsego,153,C
+Otsego,153,A
+Otsego,154,G
+Otsego,154,C
+Otsego,155,A
+Otsego,155,G
+Otsego,156,T
+Otsego,156,C
+Otsego,157,T
+Otsego,157,A
+Otsego,158,T
+Otsego,158,C
+Otsego,159,C
+Otsego,159,A
+Otsego,160,C
+Otsego,160,A
+Otsego,161,T
+Otsego,161,C
+Otsego,162,T
+Otsego,162,C
+Otsego,163,G
+Otsego,163,A
+Otsego,164,T
+Otsego,164,T
+Otsego,165,G
+Otsego,165,A
+Otsego,166,A
+Otsego,166,C
+Otsego,167,G
+Otsego,167,C
+Otsego,168,C
+Otsego,168,C
+Otsego,169,G
+Otsego,169,G
+Otsego,170,G
+Otsego,170,C
+Otsego,171,G
+Otsego,171,C
+Otsego,172,A
+Otsego,172,T
+Otsego,173,T
+Otsego,173,G
+Otsego,174,T
+Otsego,174,C
+Otsego,175,A
+Otsego,175,T
+Otsego,176,T
+Otsego,176,G
+Otsego,177,A
+Otsego,177,G
+Otsego,178,C
+Otsego,178,A
+Otsego,179,C
+Otsego,179,T
+Otsego,180,T
+Otsego,180,A
+Otsego,181,T
+Otsego,181,G
+Otsego,182,C
+Otsego,182,T
+Otsego,183,A
+Otsego,183,G
+Otsego,184,C
+Otsego,184,G
+Otsego,185,C
+Otsego,185,A
+Otsego,186,G
+Otsego,186,T
+Otsego,187,T
+Otsego,187,C
+Otsego,188,T
+Otsego,188,T
+Otsego,189,A
+Otsego,189,T
+Otsego,190,T
+Otsego,190,C
+Otsego,191,A
+Otsego,191,G
+Otsego,192,G
+Otsego,192,A
+Otsego,193,C
+Otsego,193,T
+Otsego,194,A
+Otsego,194,A
+Otsego,195,C
+Otsego,195,A
+Otsego,196,C
+Otsego,196,T
+Otsego,197,T
+Otsego,197,C
+Otsego,198,A
+Otsego,198,G
+Otsego,199,G
+Otsego,199,A
+Otsego,200,G
+Otsego,200,T
+Otsego,201,T
+Otsego,201,T
+Otsego,202,T
+Otsego,202,A
+Otsego,203,C
+Otsego,203,G
+Otsego,204,G
+Otsego,204,A
+Otsego,205,A
+Otsego,205,T
+Otsego,206,A
+Otsego,206,T
+Otsego,207,A
+Otsego,207,C
+Otsego,208,A
+Otsego,208,C
+Otsego,209,T
+Otsego,209,C
+Otsego,210,G
+Otsego,210,A
+Otsego,211,C
+Otsego,211,A
+Otsego,212,G
+Otsego,212,A
+Otsego,213,C
+Otsego,213,G
+Otsego,214,G
+Otsego,214,C
+Otsego,215,A
+Otsego,215,A
+Otsego,216,A
+Otsego,216,A
+Otsego,217,G
+Otsego,217,T
+Otsego,218,T
+Otsego,218,C
+Otsego,219,C
+Otsego,219,T
+Otsego,220,T
+Otsego,220,G
+Otsego,221,A
+Otsego,221,G
+Otsego,222,G
+Otsego,222,A
+Otsego,223,C
+Otsego,223,G
+Otsego,224,C
+Otsego,224,C
+Otsego,225,A
+Otsego,225,C
+Otsego,226,C
+Otsego,226,G
+Otsego,227,T
+Otsego,227,C
+Otsego,228,T
+Otsego,228,T
+Otsego,229,T
+Otsego,229,A
+Otsego,230,G
+Otsego,230,G
+Otsego,231,T
+Otsego,231,C
+Otsego,232,C
+Otsego,232,C
+Otsego,233,G
+Otsego,233,C
+Otsego,234,T
+Otsego,234,C
+Otsego,235,T
+Otsego,235,A
+Otsego,236,C
+Otsego,236,G
+Otsego,237,T
+Otsego,237,C
+Otsego,238,T
+Otsego,238,A
+Otsego,239,G
+Otsego,239,G
+Otsego,240,A
+Otsego,240,T
+Otsego,241,T
+Otsego,241,G
+Otsego,242,T
+Otsego,242,G
+Otsego,243,A
+Otsego,243,G
+Otsego,244,T
+Otsego,244,A
+Otsego,245,G
+Otsego,245,A
+Otsego,246,C
+Otsego,246,A
+Otsego,247,A
+Otsego,247,G
+Otsego,248,T
+Otsego,248,A
+Otsego,249,T
+Otsego,249,G
+Otsego,250,C
+Otsego,250,C
+Otsego,251,A
+Otsego,251,A
+Otsego,252,G
+Otsego,252,A
+Otsego,253,T
+Otsego,253,C
+Otsego,254,C
+Otsego,254,A
+Otsego,255,T
+Otsego,255,C
+Otsego,256,T
+Otsego,256,T
+Otsego,257,G
+Otsego,257,C
+Otsego,258,A
+Otsego,258,C
+Otsego,259,A
+Otsego,259,C
+Otsego,260,T
+Otsego,260,T
+Otsego,261,G
+Otsego,261,C
+Otsego,262,G
+Otsego,262,C
+Otsego,263,A
+Otsego,263,A
+Otsego,264,G
+Otsego,264,A
+Otsego,265,G
+Otsego,265,C
+Otsego,266,A
+Otsego,266,G
+Otsego,267,T
+Otsego,267,A
+Otsego,268,T
+Otsego,268,C
+Otsego,269,A
+Otsego,269,G
+Otsego,270,A
+Otsego,270,C
+Otsego,271,G
+Otsego,271,A
+Otsego,272,C
+Otsego,272,A
+Otsego,273,A
+Otsego,273,A
+Otsego,274,G
+Otsego,274,A
+Otsego,275,T
+Otsego,275,C
+Otsego,276,A
+Otsego,276,G
+Otsego,277,A
+Otsego,277,T
+Otsego,278,C
+Otsego,278,A
+Otsego,279,T
+Otsego,279,A
+Otsego,280,A
+Otsego,280,G
+Otsego,281,A
+Otsego,281,C
+Otsego,282,T
+Otsego,282,C
+Otsego,283,T
+Otsego,283,C
+Otsego,284,A
+Otsego,284,C
+Otsego,285,G
+Otsego,285,T
+Otsego,286,G
+Otsego,286,T
+Otsego,287,A
+Otsego,287,T
+Otsego,288,C
+Otsego,288,A
+Otsego,289,C
+Otsego,289,C
+Otsego,290,T
+Otsego,290,G
+Otsego,291,G
+Otsego,291,C
+Otsego,292,A
+Otsego,292,G
+Otsego,293,C
+Otsego,293,T
+Otsego,294,A
+Otsego,294,T
+Otsego,295,T
+Otsego,295,A
+Otsego,296,T
+Otsego,296,G
+Otsego,297,A
+Otsego,297,T
+Otsego,298,C
+Otsego,298,C
+Otsego,299,T
+Otsego,299,T
+Otsego,300,G
+Otsego,300,C
+Otsego,301,C
+Otsego,301,C
+Otsego,302,T
+Otsego,302,A
+Otsego,303,C
+Otsego,303,T
+Otsego,304,A
+Otsego,304,T
+Otsego,305,A
+Otsego,305,A
+Otsego,306,A
+Otsego,306,C
+Otsego,307,A
+Otsego,307,T
+Otsego,308,T
+Otsego,308,G
+Otsego,309,C
+Otsego,309,C
+Otsego,310,T
+Otsego,310,G
+Otsego,311,C
+Otsego,311,T
+Otsego,312,A
+Otsego,312,T
+Otsego,313,A
+Otsego,313,G
+Otsego,314,A
+Otsego,314,T
+Otsego,315,G
+Otsego,315,A
+Otsego,316,A
+Otsego,316,C
+Otsego,317,A
+Otsego,317,C
+Otsego,318,A
+Otsego,318,C
+Otsego,319,G
+Otsego,319,A
+Otsego,320,G
+Otsego,320,C
+Otsego,321,T
+Otsego,321,A
+Otsego,322,C
+Otsego,322,A
+Otsego,323,T
+Otsego,323,G
+Otsego,324,A
+Otsego,324,C
+Otsego,325,A
+Otsego,325,T
+Otsego,326,C
+Otsego,326,C
+Otsego,327,T
+Otsego,327,G
+Otsego,328,T
+Otsego,328,A
+Otsego,329,T
+Otsego,329,C
+Otsego,330,A
+Otsego,330,G
+Otsego,331,T
+Otsego,331,C
+Otsego,332,C
+Otsego,332,A
+Otsego,333,G
+Otsego,333,A
+Otsego,334,C
+Otsego,334,A
+Otsego,335,G
+Otsego,335,C
+Otsego,336,C
+Otsego,336,A
+Otsego,337,A
+Otsego,337,T
+Otsego,338,G
+Otsego,338,G
+Otsego,339,C
+Otsego,339,G
+Otsego,340,A
+Otsego,340,A
+Otsego,341,G
+Otsego,341,G
+Otsego,342,C
+Otsego,342,T
+Otsego,343,C
+Otsego,343,C
+Otsego,344,G
+Otsego,344,G
+Otsego,345,G
+Otsego,345,G
+Otsego,346,G
+Otsego,346,T
+Otsego,347,C
+Otsego,347,G
+Otsego,348,T
+Otsego,348,T
+Otsego,349,A
+Otsego,349,C
+Otsego,350,T
+Otsego,350,C
+Otsego,351,T
+Otsego,351,T
+Otsego,352,A
+Otsego,352,C
+Otsego,353,T
+Otsego,353,G
+Otsego,354,A
+Otsego,354,A
+Otsego,355,C
+Otsego,355,G
+Otsego,356,G
+Otsego,356,G
+Otsego,357,G
+Otsego,357,C
+Otsego,358,A
+Otsego,358,A
+Otsego,359,C
+Otsego,359,G
+Otsego,360,A
+Otsego,360,A
+Otsego,361,C
+Otsego,361,A
+Otsego,362,T
+Otsego,362,A
+Otsego,363,G
+Otsego,363,T
+Otsego,364,T
+Otsego,364,G
+Otsego,365,T
+Otsego,365,C
+Otsego,366,C
+Otsego,366,G
+Otsego,367,G
+Otsego,367,A
+Otsego,368,T
+Otsego,368,G
+Otsego,369,C
+Otsego,369,A
+Otsego,370,C
+Otsego,370,C
+Otsego,371,T
+Otsego,371,T
+Otsego,372,G
+Otsego,372,C
+Otsego,373,A
+Otsego,373,G
+Otsego,374,T
+Otsego,374,T
+Otsego,375,T
+Otsego,375,A
+Otsego,376,A
+Otsego,376,A
+Otsego,377,T
+Otsego,377,A
+Otsego,378,A
+Otsego,378,C
+Otsego,379,C
+Otsego,379,T
+Otsego,380,T
+Otsego,380,G
+Otsego,381,A
+Otsego,381,T
+Otsego,382,T
+Otsego,382,C
+Otsego,383,A
+Otsego,383,C
+Otsego,384,C
+Otsego,384,T
+Otsego,385,C
+Otsego,385,G
+Otsego,386,A
+Otsego,386,T
+Otsego,387,T
+Otsego,387,G
+Otsego,388,G
+Otsego,388,C
+Otsego,389,T
+Otsego,389,G
+Otsego,390,T
+Otsego,390,G
+Otsego,391,C
+Otsego,391,A
+Otsego,392,T
+Otsego,392,T
+Otsego,393,C
+Otsego,393,C
+Otsego,394,A
+Otsego,394,A
+Otsego,395,G
+Otsego,395,T
+Otsego,396,A
+Otsego,396,A
+Otsego,397,C
+Otsego,397,C
+Otsego,398,A
+Otsego,398,T
+Otsego,399,T
+Otsego,399,C
+Otsego,400,A
+Otsego,400,C
+Otsego,401,A
+Otsego,401,G
+Otsego,402,C
+Otsego,402,T
+Otsego,403,C
+Otsego,403,A
+Otsego,404,G
+Otsego,404,T
+Otsego,405,T
+Otsego,405,G
+Otsego,406,C
+Otsego,406,T
+Otsego,407,G
+Otsego,407,T
+Otsego,408,G
+Otsego,408,G
+Otsego,409,A
+Otsego,409,C
+Otsego,410,G
+Otsego,410,T
+Otsego,411,A
+Otsego,411,G
+Otsego,412,A
+Otsego,412,T
+Otsego,413,A
+Otsego,413,C
+Otsego,414,G
+Otsego,414,A
+Otsego,415,C
+Otsego,415,G
+Otsego,416,T
+Otsego,416,A
+Otsego,417,T
+Otsego,417,G
+Otsego,418,T
+Otsego,418,A
+Otsego,419,G
+Otsego,419,A
+Otsego,420,G
+Otsego,420,A
+Otsego,421,G
+Otsego,421,C
+Otsego,422,A
+Otsego,422,G
+Otsego,423,C
+Otsego,423,G
+Otsego,424,A
+Otsego,424,A
+Otsego,425,G
+Otsego,425,C
+Otsego,426,A
+Otsego,426,C
+Otsego,427,C
+Otsego,427,G
+Otsego,428,C
+Otsego,428,C
+Otsego,429,C
+Otsego,429,A
+Otsego,430,C
+Otsego,430,T
+Otsego,431,G
+Otsego,431,T
+Otsego,432,G
+Otsego,432,T
+Otsego,433,C
+Otsego,433,C
+Otsego,434,C
+Otsego,434,A
+Otsego,435,C
+Otsego,435,C
+Otsego,436,T
+Otsego,436,C
+Otsego,437,C
+Otsego,437,A
+Otsego,438,A
+Otsego,438,T
+Otsego,439,G
+Otsego,439,T
+Otsego,440,T
+Otsego,440,C
+Otsego,441,A
+Otsego,441,T
+Otsego,442,T
+Otsego,442,A
+Otsego,443,A
+Otsego,443,A
+Otsego,444,C
+Otsego,444,A
+Otsego,445,G
+Otsego,445,C
+Otsego,446,T
+Otsego,446,G
+Otsego,447,C
+Otsego,447,A
+Otsego,448,T
+Otsego,448,C
+Otsego,449,C
+Otsego,449,G
+Otsego,450,T
+Otsego,450,C
+Otsego,451,A
+Otsego,451,A
+Otsego,452,T
+Otsego,452,T
+Otsego,453,T
+Otsego,453,A
+Otsego,454,A
+Otsego,454,C
+Otsego,455,G
+Otsego,455,A
+Otsego,456,G
+Otsego,456,A
+Otsego,457,A
+Otsego,457,T
+Otsego,458,A
+Otsego,458,T
+Otsego,459,G
+Otsego,459,G
+Otsego,460,G
+Otsego,460,C
+Otsego,461,C
+Otsego,461,G
+Otsego,462,G
+Otsego,462,A
+Otsego,463,T
+Otsego,463,G
+Otsego,464,G
+Otsego,464,T
+Otsego,465,G
+Otsego,465,C
+Otsego,466,T
+Otsego,466,A
+Otsego,467,C
+Otsego,467,T
+Otsego,468,G
+Otsego,468,T
+Otsego,469,A
+Otsego,469,A
+Otsego,470,C
+Otsego,470,C
+Otsego,471,A
+Otsego,471,C
+Otsego,472,G
+Otsego,472,G
+Otsego,473,T
+Otsego,473,C
+Otsego,474,G
+Otsego,474,G
+Otsego,475,A
+Otsego,475,G
+Otsego,476,C
+Otsego,476,C
+Otsego,477,A
+Otsego,477,A
+Otsego,478,G
+Otsego,478,C
+Otsego,479,G
+Otsego,479,C
+Otsego,480,C
+Otsego,480,C
+Otsego,481,A
+Otsego,481,T
+Otsego,482,G
+Otsego,482,C
+Otsego,483,G
+Otsego,483,C
+Otsego,484,T
+Otsego,484,G
+Otsego,485,G
+Otsego,485,T
+Otsego,486,G
+Otsego,486,G
+Otsego,487,G
+Otsego,487,T
+Otsego,488,G
+Otsego,488,C
+Otsego,489,G
+Otsego,489,A
+Otsego,490,C
+Otsego,490,C
+Otsego,491,A
+Otsego,491,T
+Otsego,492,G
+Otsego,492,G
+Otsego,493,G
+Otsego,493,C
+Otsego,494,C
+Otsego,494,G
+Otsego,495,C
+Otsego,495,G
+Otsego,496,A
+Otsego,496,T
+Otsego,497,T
+Otsego,497,T
+Otsego,498,G
+Otsego,498,A
+Otsego,499,G
+Otsego,499,G
+Otsego,500,G
+Otsego,500,A
