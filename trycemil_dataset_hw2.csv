@@ -1,0 +1,2501 @@
+population,individual,allele
+Erie,1,G
+Erie,2,G
+Erie,3,G
+Erie,4,C
+Erie,5,G
+Erie,6,G
+Erie,7,G
+Erie,8,T
+Erie,9,G
+Erie,10,T
+Erie,11,G
+Erie,12,T
+Erie,13,G
+Erie,14,A
+Erie,15,A
+Erie,16,A
+Erie,17,G
+Erie,18,G
+Erie,19,T
+Erie,20,T
+Erie,21,G
+Erie,22,G
+Erie,23,C
+Erie,24,T
+Erie,25,G
+Erie,26,G
+Erie,27,G
+Erie,28,G
+Erie,29,G
+Erie,30,C
+Erie,31,A
+Erie,32,G
+Erie,33,G
+Erie,34,G
+Erie,35,A
+Erie,36,A
+Erie,37,G
+Erie,38,G
+Erie,39,G
+Erie,40,T
+Erie,41,G
+Erie,42,C
+Erie,43,G
+Erie,44,G
+Erie,45,C
+Erie,46,G
+Erie,47,A
+Erie,48,G
+Erie,49,A
+Erie,50,G
+Erie,51,T
+Erie,52,A
+Erie,53,A
+Erie,54,A
+Erie,55,A
+Erie,56,T
+Erie,57,C
+Erie,58,G
+Erie,59,T
+Erie,60,A
+Erie,61,G
+Erie,62,G
+Erie,63,C
+Erie,64,C
+Erie,65,A
+Erie,66,C
+Erie,67,G
+Erie,68,T
+Erie,69,G
+Erie,70,G
+Erie,71,G
+Erie,72,G
+Erie,73,G
+Erie,74,G
+Erie,75,A
+Erie,76,G
+Erie,77,G
+Erie,78,C
+Erie,79,T
+Erie,80,T
+Erie,81,C
+Erie,82,G
+Erie,83,T
+Erie,84,G
+Erie,85,G
+Erie,86,C
+Erie,87,T
+Erie,88,G
+Erie,89,T
+Erie,90,G
+Erie,91,C
+Erie,92,C
+Erie,93,G
+Erie,94,C
+Erie,95,C
+Erie,96,G
+Erie,97,G
+Erie,98,G
+Erie,99,G
+Erie,100,G
+Erie,101,A
+Erie,102,G
+Erie,103,A
+Erie,104,G
+Erie,105,T
+Erie,106,G
+Erie,107,T
+Erie,108,T
+Erie,109,G
+Erie,110,G
+Erie,111,G
+Erie,112,A
+Erie,113,G
+Erie,114,G
+Erie,115,G
+Erie,116,G
+Erie,117,G
+Erie,118,G
+Erie,119,A
+Erie,120,G
+Erie,121,T
+Erie,122,G
+Erie,123,C
+Erie,124,G
+Erie,125,G
+Erie,126,G
+Erie,127,G
+Erie,128,A
+Erie,129,A
+Erie,130,G
+Erie,131,G
+Erie,132,G
+Erie,133,G
+Erie,134,G
+Erie,135,G
+Erie,136,T
+Erie,137,A
+Erie,138,G
+Erie,139,G
+Erie,140,G
+Erie,141,C
+Erie,142,G
+Erie,143,T
+Erie,144,C
+Erie,145,G
+Erie,146,G
+Erie,147,G
+Erie,148,C
+Erie,149,G
+Erie,150,A
+Erie,151,G
+Erie,152,G
+Erie,153,C
+Erie,154,G
+Erie,155,C
+Erie,156,G
+Erie,157,G
+Erie,158,G
+Erie,159,G
+Erie,160,G
+Erie,161,G
+Erie,162,G
+Erie,163,A
+Erie,164,G
+Erie,165,G
+Erie,166,C
+Erie,167,T
+Erie,168,T
+Erie,169,G
+Erie,170,G
+Erie,171,T
+Erie,172,T
+Erie,173,C
+Erie,174,C
+Erie,175,T
+Erie,176,G
+Erie,177,T
+Erie,178,G
+Erie,179,G
+Erie,180,G
+Erie,181,G
+Erie,182,G
+Erie,183,T
+Erie,184,T
+Erie,185,A
+Erie,186,G
+Erie,187,C
+Erie,188,T
+Erie,189,G
+Erie,190,G
+Erie,191,C
+Erie,192,G
+Erie,193,G
+Erie,194,C
+Erie,195,G
+Erie,196,G
+Erie,197,C
+Erie,198,G
+Erie,199,A
+Erie,200,T
+Erie,201,G
+Erie,202,G
+Erie,203,A
+Erie,204,G
+Erie,205,G
+Erie,206,G
+Erie,207,G
+Erie,208,T
+Erie,209,G
+Erie,210,T
+Erie,211,T
+Erie,212,G
+Erie,213,G
+Erie,214,A
+Erie,215,G
+Erie,216,G
+Erie,217,G
+Erie,218,G
+Erie,219,G
+Erie,220,G
+Erie,221,G
+Erie,222,G
+Erie,223,G
+Erie,224,G
+Erie,225,G
+Erie,226,G
+Erie,227,T
+Erie,228,G
+Erie,229,G
+Erie,230,G
+Erie,231,T
+Erie,232,G
+Erie,233,G
+Erie,234,G
+Erie,235,G
+Erie,236,G
+Erie,237,G
+Erie,238,T
+Erie,239,T
+Erie,240,A
+Erie,241,T
+Erie,242,A
+Erie,243,G
+Erie,244,C
+Erie,245,G
+Erie,246,C
+Erie,247,T
+Erie,248,G
+Erie,249,G
+Erie,250,T
+Erie,251,G
+Erie,252,C
+Erie,253,G
+Erie,254,G
+Erie,255,G
+Erie,256,A
+Erie,257,G
+Erie,258,C
+Erie,259,G
+Erie,260,T
+Erie,261,G
+Erie,262,G
+Erie,263,G
+Erie,264,C
+Erie,265,G
+Erie,266,C
+Erie,267,T
+Erie,268,G
+Erie,269,G
+Erie,270,C
+Erie,271,G
+Erie,272,T
+Erie,273,G
+Erie,274,G
+Erie,275,G
+Erie,276,G
+Erie,277,G
+Erie,278,T
+Erie,279,G
+Erie,280,G
+Erie,281,G
+Erie,282,G
+Erie,283,A
+Erie,284,G
+Erie,285,G
+Erie,286,G
+Erie,287,G
+Erie,288,G
+Erie,289,G
+Erie,290,T
+Erie,291,A
+Erie,292,T
+Erie,293,G
+Erie,294,A
+Erie,295,G
+Erie,296,T
+Erie,297,G
+Erie,298,G
+Erie,299,G
+Erie,300,T
+Erie,301,T
+Erie,302,G
+Erie,303,C
+Erie,304,C
+Erie,305,G
+Erie,306,C
+Erie,307,A
+Erie,308,C
+Erie,309,C
+Erie,310,G
+Erie,311,T
+Erie,312,C
+Erie,313,T
+Erie,314,G
+Erie,315,C
+Erie,316,G
+Erie,317,G
+Erie,318,A
+Erie,319,C
+Erie,320,A
+Erie,321,G
+Erie,322,G
+Erie,323,G
+Erie,324,G
+Erie,325,T
+Erie,326,A
+Erie,327,A
+Erie,328,G
+Erie,329,G
+Erie,330,G
+Erie,331,A
+Erie,332,A
+Erie,333,C
+Erie,334,T
+Erie,335,G
+Erie,336,G
+Erie,337,A
+Erie,338,C
+Erie,339,T
+Erie,340,G
+Erie,341,T
+Erie,342,G
+Erie,343,A
+Erie,344,C
+Erie,345,G
+Erie,346,G
+Erie,347,T
+Erie,348,G
+Erie,349,G
+Erie,350,G
+Erie,351,G
+Erie,352,C
+Erie,353,G
+Erie,354,T
+Erie,355,G
+Erie,356,G
+Erie,357,G
+Erie,358,G
+Erie,359,T
+Erie,360,T
+Erie,361,G
+Erie,362,G
+Erie,363,G
+Erie,364,G
+Erie,365,G
+Erie,366,G
+Erie,367,A
+Erie,368,G
+Erie,369,G
+Erie,370,G
+Erie,371,G
+Erie,372,T
+Erie,373,G
+Erie,374,G
+Erie,375,T
+Erie,376,T
+Erie,377,T
+Erie,378,G
+Erie,379,G
+Erie,380,G
+Erie,381,T
+Erie,382,G
+Erie,383,G
+Erie,384,G
+Erie,385,G
+Erie,386,G
+Erie,387,C
+Erie,388,G
+Erie,389,G
+Erie,390,G
+Erie,391,T
+Erie,392,G
+Erie,393,T
+Erie,394,C
+Erie,395,G
+Erie,396,G
+Erie,397,G
+Erie,398,G
+Erie,399,G
+Erie,400,A
+Erie,401,G
+Erie,402,G
+Erie,403,T
+Erie,404,G
+Erie,405,G
+Erie,406,G
+Erie,407,G
+Erie,408,G
+Erie,409,A
+Erie,410,C
+Erie,411,C
+Erie,412,G
+Erie,413,G
+Erie,414,T
+Erie,415,G
+Erie,416,A
+Erie,417,G
+Erie,418,G
+Erie,419,G
+Erie,420,G
+Erie,421,C
+Erie,422,T
+Erie,423,G
+Erie,424,G
+Erie,425,T
+Erie,426,T
+Erie,427,G
+Erie,428,T
+Erie,429,G
+Erie,430,G
+Erie,431,G
+Erie,432,G
+Erie,433,G
+Erie,434,G
+Erie,435,A
+Erie,436,G
+Erie,437,G
+Erie,438,G
+Erie,439,A
+Erie,440,G
+Erie,441,G
+Erie,442,C
+Erie,443,A
+Erie,444,A
+Erie,445,G
+Erie,446,G
+Erie,447,G
+Erie,448,G
+Erie,449,G
+Erie,450,C
+Erie,451,G
+Erie,452,A
+Erie,453,T
+Erie,454,G
+Erie,455,C
+Erie,456,G
+Erie,457,C
+Erie,458,T
+Erie,459,G
+Erie,460,T
+Erie,461,T
+Erie,462,A
+Erie,463,G
+Erie,464,G
+Erie,465,G
+Erie,466,G
+Erie,467,G
+Erie,468,G
+Erie,469,G
+Erie,470,G
+Erie,471,G
+Erie,472,C
+Erie,473,G
+Erie,474,G
+Erie,475,T
+Erie,476,T
+Erie,477,C
+Erie,478,G
+Erie,479,C
+Erie,480,A
+Erie,481,G
+Erie,482,G
+Erie,483,A
+Erie,484,C
+Erie,485,C
+Erie,486,T
+Erie,487,G
+Erie,488,G
+Erie,489,T
+Erie,490,A
+Erie,491,G
+Erie,492,G
+Erie,493,T
+Erie,494,G
+Erie,495,C
+Erie,496,G
+Erie,497,G
+Erie,498,C
+Erie,499,G
+Erie,500,G
+Huron,1,A
+Huron,2,C
+Huron,3,C
+Huron,4,C
+Huron,5,A
+Huron,6,C
+Huron,7,C
+Huron,8,C
+Huron,9,T
+Huron,10,C
+Huron,11,C
+Huron,12,C
+Huron,13,C
+Huron,14,C
+Huron,15,A
+Huron,16,C
+Huron,17,A
+Huron,18,C
+Huron,19,C
+Huron,20,C
+Huron,21,C
+Huron,22,T
+Huron,23,A
+Huron,24,C
+Huron,25,A
+Huron,26,G
+Huron,27,C
+Huron,28,C
+Huron,29,A
+Huron,30,T
+Huron,31,C
+Huron,32,C
+Huron,33,G
+Huron,34,C
+Huron,35,A
+Huron,36,A
+Huron,37,G
+Huron,38,C
+Huron,39,C
+Huron,40,C
+Huron,41,G
+Huron,42,G
+Huron,43,C
+Huron,44,C
+Huron,45,A
+Huron,46,G
+Huron,47,A
+Huron,48,C
+Huron,49,C
+Huron,50,C
+Huron,51,C
+Huron,52,C
+Huron,53,T
+Huron,54,C
+Huron,55,C
+Huron,56,G
+Huron,57,C
+Huron,58,C
+Huron,59,G
+Huron,60,C
+Huron,61,C
+Huron,62,C
+Huron,63,A
+Huron,64,C
+Huron,65,G
+Huron,66,C
+Huron,67,C
+Huron,68,C
+Huron,69,A
+Huron,70,C
+Huron,71,C
+Huron,72,T
+Huron,73,T
+Huron,74,A
+Huron,75,C
+Huron,76,G
+Huron,77,C
+Huron,78,C
+Huron,79,C
+Huron,80,C
+Huron,81,C
+Huron,82,A
+Huron,83,C
+Huron,84,A
+Huron,85,A
+Huron,86,A
+Huron,87,G
+Huron,88,T
+Huron,89,T
+Huron,90,G
+Huron,91,A
+Huron,92,G
+Huron,93,T
+Huron,94,A
+Huron,95,C
+Huron,96,C
+Huron,97,G
+Huron,98,C
+Huron,99,G
+Huron,100,C
+Huron,101,C
+Huron,102,C
+Huron,103,A
+Huron,104,A
+Huron,105,C
+Huron,106,C
+Huron,107,C
+Huron,108,C
+Huron,109,C
+Huron,110,C
+Huron,111,G
+Huron,112,G
+Huron,113,C
+Huron,114,T
+Huron,115,A
+Huron,116,A
+Huron,117,T
+Huron,118,A
+Huron,119,C
+Huron,120,C
+Huron,121,C
+Huron,122,C
+Huron,123,C
+Huron,124,C
+Huron,125,C
+Huron,126,A
+Huron,127,C
+Huron,128,C
+Huron,129,C
+Huron,130,G
+Huron,131,A
+Huron,132,G
+Huron,133,C
+Huron,134,C
+Huron,135,G
+Huron,136,C
+Huron,137,C
+Huron,138,A
+Huron,139,A
+Huron,140,C
+Huron,141,A
+Huron,142,C
+Huron,143,C
+Huron,144,C
+Huron,145,C
+Huron,146,A
+Huron,147,A
+Huron,148,C
+Huron,149,A
+Huron,150,G
+Huron,151,A
+Huron,152,C
+Huron,153,A
+Huron,154,C
+Huron,155,C
+Huron,156,G
+Huron,157,T
+Huron,158,A
+Huron,159,C
+Huron,160,C
+Huron,161,A
+Huron,162,C
+Huron,163,C
+Huron,164,C
+Huron,165,C
+Huron,166,A
+Huron,167,C
+Huron,168,C
+Huron,169,A
+Huron,170,A
+Huron,171,T
+Huron,172,G
+Huron,173,C
+Huron,174,G
+Huron,175,G
+Huron,176,A
+Huron,177,C
+Huron,178,C
+Huron,179,A
+Huron,180,A
+Huron,181,C
+Huron,182,A
+Huron,183,A
+Huron,184,G
+Huron,185,G
+Huron,186,C
+Huron,187,C
+Huron,188,C
+Huron,189,G
+Huron,190,C
+Huron,191,T
+Huron,192,C
+Huron,193,A
+Huron,194,C
+Huron,195,A
+Huron,196,C
+Huron,197,C
+Huron,198,C
+Huron,199,C
+Huron,200,C
+Huron,201,A
+Huron,202,C
+Huron,203,C
+Huron,204,A
+Huron,205,C
+Huron,206,C
+Huron,207,C
+Huron,208,C
+Huron,209,A
+Huron,210,G
+Huron,211,A
+Huron,212,C
+Huron,213,A
+Huron,214,C
+Huron,215,C
+Huron,216,C
+Huron,217,A
+Huron,218,C
+Huron,219,C
+Huron,220,C
+Huron,221,A
+Huron,222,C
+Huron,223,C
+Huron,224,C
+Huron,225,T
+Huron,226,C
+Huron,227,A
+Huron,228,C
+Huron,229,T
+Huron,230,C
+Huron,231,C
+Huron,232,A
+Huron,233,G
+Huron,234,A
+Huron,235,T
+Huron,236,A
+Huron,237,C
+Huron,238,T
+Huron,239,C
+Huron,240,C
+Huron,241,T
+Huron,242,T
+Huron,243,A
+Huron,244,C
+Huron,245,C
+Huron,246,C
+Huron,247,C
+Huron,248,A
+Huron,249,C
+Huron,250,C
+Huron,251,C
+Huron,252,C
+Huron,253,A
+Huron,254,A
+Huron,255,G
+Huron,256,G
+Huron,257,C
+Huron,258,T
+Huron,259,T
+Huron,260,C
+Huron,261,C
+Huron,262,C
+Huron,263,T
+Huron,264,C
+Huron,265,A
+Huron,266,C
+Huron,267,G
+Huron,268,G
+Huron,269,T
+Huron,270,G
+Huron,271,A
+Huron,272,C
+Huron,273,T
+Huron,274,C
+Huron,275,C
+Huron,276,G
+Huron,277,A
+Huron,278,C
+Huron,279,C
+Huron,280,T
+Huron,281,C
+Huron,282,T
+Huron,283,C
+Huron,284,C
+Huron,285,T
+Huron,286,C
+Huron,287,A
+Huron,288,C
+Huron,289,C
+Huron,290,T
+Huron,291,C
+Huron,292,C
+Huron,293,A
+Huron,294,A
+Huron,295,G
+Huron,296,C
+Huron,297,C
+Huron,298,C
+Huron,299,C
+Huron,300,A
+Huron,301,G
+Huron,302,A
+Huron,303,A
+Huron,304,C
+Huron,305,C
+Huron,306,C
+Huron,307,C
+Huron,308,A
+Huron,309,T
+Huron,310,C
+Huron,311,A
+Huron,312,A
+Huron,313,A
+Huron,314,C
+Huron,315,A
+Huron,316,C
+Huron,317,C
+Huron,318,C
+Huron,319,C
+Huron,320,C
+Huron,321,T
+Huron,322,C
+Huron,323,C
+Huron,324,C
+Huron,325,C
+Huron,326,C
+Huron,327,C
+Huron,328,C
+Huron,329,C
+Huron,330,C
+Huron,331,C
+Huron,332,C
+Huron,333,A
+Huron,334,C
+Huron,335,C
+Huron,336,C
+Huron,337,C
+Huron,338,T
+Huron,339,A
+Huron,340,C
+Huron,341,T
+Huron,342,A
+Huron,343,A
+Huron,344,C
+Huron,345,A
+Huron,346,G
+Huron,347,C
+Huron,348,C
+Huron,349,C
+Huron,350,C
+Huron,351,C
+Huron,352,A
+Huron,353,T
+Huron,354,C
+Huron,355,A
+Huron,356,C
+Huron,357,T
+Huron,358,C
+Huron,359,C
+Huron,360,C
+Huron,361,C
+Huron,362,A
+Huron,363,C
+Huron,364,G
+Huron,365,T
+Huron,366,C
+Huron,367,G
+Huron,368,A
+Huron,369,C
+Huron,370,C
+Huron,371,C
+Huron,372,A
+Huron,373,G
+Huron,374,A
+Huron,375,C
+Huron,376,C
+Huron,377,C
+Huron,378,A
+Huron,379,C
+Huron,380,T
+Huron,381,A
+Huron,382,A
+Huron,383,C
+Huron,384,C
+Huron,385,C
+Huron,386,C
+Huron,387,C
+Huron,388,C
+Huron,389,T
+Huron,390,G
+Huron,391,G
+Huron,392,C
+Huron,393,C
+Huron,394,C
+Huron,395,C
+Huron,396,C
+Huron,397,C
+Huron,398,C
+Huron,399,T
+Huron,400,C
+Huron,401,C
+Huron,402,G
+Huron,403,C
+Huron,404,C
+Huron,405,C
+Huron,406,C
+Huron,407,T
+Huron,408,A
+Huron,409,C
+Huron,410,C
+Huron,411,A
+Huron,412,C
+Huron,413,G
+Huron,414,A
+Huron,415,T
+Huron,416,C
+Huron,417,C
+Huron,418,C
+Huron,419,C
+Huron,420,C
+Huron,421,A
+Huron,422,C
+Huron,423,C
+Huron,424,T
+Huron,425,C
+Huron,426,A
+Huron,427,A
+Huron,428,C
+Huron,429,C
+Huron,430,A
+Huron,431,A
+Huron,432,A
+Huron,433,G
+Huron,434,G
+Huron,435,C
+Huron,436,C
+Huron,437,C
+Huron,438,C
+Huron,439,C
+Huron,440,C
+Huron,441,C
+Huron,442,C
+Huron,443,T
+Huron,444,A
+Huron,445,T
+Huron,446,T
+Huron,447,G
+Huron,448,A
+Huron,449,T
+Huron,450,C
+Huron,451,C
+Huron,452,T
+Huron,453,G
+Huron,454,C
+Huron,455,A
+Huron,456,G
+Huron,457,A
+Huron,458,T
+Huron,459,C
+Huron,460,T
+Huron,461,A
+Huron,462,A
+Huron,463,A
+Huron,464,A
+Huron,465,C
+Huron,466,C
+Huron,467,C
+Huron,468,C
+Huron,469,G
+Huron,470,G
+Huron,471,C
+Huron,472,A
+Huron,473,A
+Huron,474,C
+Huron,475,C
+Huron,476,G
+Huron,477,C
+Huron,478,C
+Huron,479,T
+Huron,480,T
+Huron,481,A
+Huron,482,C
+Huron,483,C
+Huron,484,T
+Huron,485,A
+Huron,486,A
+Huron,487,C
+Huron,488,A
+Huron,489,A
+Huron,490,G
+Huron,491,C
+Huron,492,A
+Huron,493,C
+Huron,494,C
+Huron,495,C
+Huron,496,C
+Huron,497,A
+Huron,498,C
+Huron,499,C
+Huron,500,C
+Gull,1,C
+Gull,2,G
+Gull,3,C
+Gull,4,C
+Gull,5,G
+Gull,6,G
+Gull,7,G
+Gull,8,G
+Gull,9,C
+Gull,10,G
+Gull,11,G
+Gull,12,C
+Gull,13,G
+Gull,14,G
+Gull,15,G
+Gull,16,G
+Gull,17,G
+Gull,18,T
+Gull,19,T
+Gull,20,G
+Gull,21,G
+Gull,22,G
+Gull,23,G
+Gull,24,G
+Gull,25,G
+Gull,26,C
+Gull,27,G
+Gull,28,C
+Gull,29,G
+Gull,30,T
+Gull,31,T
+Gull,32,A
+Gull,33,G
+Gull,34,T
+Gull,35,C
+Gull,36,G
+Gull,37,G
+Gull,38,G
+Gull,39,C
+Gull,40,G
+Gull,41,G
+Gull,42,G
+Gull,43,C
+Gull,44,T
+Gull,45,G
+Gull,46,G
+Gull,47,A
+Gull,48,G
+Gull,49,G
+Gull,50,T
+Gull,51,G
+Gull,52,G
+Gull,53,G
+Gull,54,T
+Gull,55,C
+Gull,56,G
+Gull,57,C
+Gull,58,G
+Gull,59,G
+Gull,60,T
+Gull,61,G
+Gull,62,T
+Gull,63,A
+Gull,64,G
+Gull,65,T
+Gull,66,G
+Gull,67,C
+Gull,68,G
+Gull,69,G
+Gull,70,G
+Gull,71,G
+Gull,72,T
+Gull,73,T
+Gull,74,G
+Gull,75,G
+Gull,76,T
+Gull,77,T
+Gull,78,G
+Gull,79,A
+Gull,80,G
+Gull,81,G
+Gull,82,G
+Gull,83,T
+Gull,84,G
+Gull,85,T
+Gull,86,G
+Gull,87,G
+Gull,88,G
+Gull,89,C
+Gull,90,C
+Gull,91,G
+Gull,92,T
+Gull,93,A
+Gull,94,A
+Gull,95,A
+Gull,96,G
+Gull,97,G
+Gull,98,T
+Gull,99,G
+Gull,100,G
+Gull,101,A
+Gull,102,T
+Gull,103,C
+Gull,104,G
+Gull,105,G
+Gull,106,G
+Gull,107,C
+Gull,108,G
+Gull,109,G
+Gull,110,G
+Gull,111,T
+Gull,112,A
+Gull,113,T
+Gull,114,G
+Gull,115,G
+Gull,116,C
+Gull,117,G
+Gull,118,G
+Gull,119,G
+Gull,120,G
+Gull,121,T
+Gull,122,G
+Gull,123,A
+Gull,124,G
+Gull,125,G
+Gull,126,G
+Gull,127,G
+Gull,128,T
+Gull,129,G
+Gull,130,G
+Gull,131,G
+Gull,132,G
+Gull,133,A
+Gull,134,G
+Gull,135,G
+Gull,136,G
+Gull,137,T
+Gull,138,C
+Gull,139,A
+Gull,140,T
+Gull,141,C
+Gull,142,G
+Gull,143,T
+Gull,144,T
+Gull,145,T
+Gull,146,G
+Gull,147,G
+Gull,148,G
+Gull,149,A
+Gull,150,G
+Gull,151,G
+Gull,152,G
+Gull,153,A
+Gull,154,G
+Gull,155,C
+Gull,156,G
+Gull,157,A
+Gull,158,C
+Gull,159,C
+Gull,160,A
+Gull,161,C
+Gull,162,A
+Gull,163,G
+Gull,164,G
+Gull,165,G
+Gull,166,G
+Gull,167,T
+Gull,168,C
+Gull,169,T
+Gull,170,G
+Gull,171,A
+Gull,172,G
+Gull,173,T
+Gull,174,C
+Gull,175,G
+Gull,176,G
+Gull,177,G
+Gull,178,A
+Gull,179,C
+Gull,180,G
+Gull,181,T
+Gull,182,T
+Gull,183,G
+Gull,184,T
+Gull,185,T
+Gull,186,G
+Gull,187,G
+Gull,188,T
+Gull,189,T
+Gull,190,T
+Gull,191,G
+Gull,192,G
+Gull,193,A
+Gull,194,G
+Gull,195,G
+Gull,196,C
+Gull,197,A
+Gull,198,G
+Gull,199,G
+Gull,200,C
+Gull,201,G
+Gull,202,C
+Gull,203,G
+Gull,204,G
+Gull,205,C
+Gull,206,C
+Gull,207,G
+Gull,208,A
+Gull,209,G
+Gull,210,G
+Gull,211,G
+Gull,212,G
+Gull,213,A
+Gull,214,G
+Gull,215,G
+Gull,216,T
+Gull,217,C
+Gull,218,G
+Gull,219,C
+Gull,220,G
+Gull,221,C
+Gull,222,C
+Gull,223,T
+Gull,224,A
+Gull,225,G
+Gull,226,G
+Gull,227,G
+Gull,228,C
+Gull,229,A
+Gull,230,G
+Gull,231,G
+Gull,232,G
+Gull,233,G
+Gull,234,G
+Gull,235,T
+Gull,236,G
+Gull,237,A
+Gull,238,G
+Gull,239,G
+Gull,240,G
+Gull,241,T
+Gull,242,G
+Gull,243,T
+Gull,244,G
+Gull,245,G
+Gull,246,G
+Gull,247,G
+Gull,248,C
+Gull,249,G
+Gull,250,T
+Gull,251,G
+Gull,252,G
+Gull,253,C
+Gull,254,C
+Gull,255,T
+Gull,256,G
+Gull,257,G
+Gull,258,T
+Gull,259,G
+Gull,260,T
+Gull,261,T
+Gull,262,G
+Gull,263,G
+Gull,264,G
+Gull,265,G
+Gull,266,G
+Gull,267,G
+Gull,268,T
+Gull,269,G
+Gull,270,T
+Gull,271,C
+Gull,272,G
+Gull,273,A
+Gull,274,G
+Gull,275,G
+Gull,276,G
+Gull,277,A
+Gull,278,G
+Gull,279,G
+Gull,280,T
+Gull,281,G
+Gull,282,G
+Gull,283,G
+Gull,284,A
+Gull,285,G
+Gull,286,G
+Gull,287,G
+Gull,288,T
+Gull,289,T
+Gull,290,T
+Gull,291,T
+Gull,292,T
+Gull,293,T
+Gull,294,G
+Gull,295,A
+Gull,296,G
+Gull,297,G
+Gull,298,G
+Gull,299,T
+Gull,300,G
+Gull,301,A
+Gull,302,C
+Gull,303,G
+Gull,304,C
+Gull,305,G
+Gull,306,G
+Gull,307,T
+Gull,308,G
+Gull,309,C
+Gull,310,G
+Gull,311,G
+Gull,312,A
+Gull,313,T
+Gull,314,G
+Gull,315,A
+Gull,316,T
+Gull,317,G
+Gull,318,A
+Gull,319,C
+Gull,320,G
+Gull,321,G
+Gull,322,A
+Gull,323,A
+Gull,324,G
+Gull,325,G
+Gull,326,G
+Gull,327,C
+Gull,328,G
+Gull,329,T
+Gull,330,G
+Gull,331,C
+Gull,332,G
+Gull,333,G
+Gull,334,G
+Gull,335,G
+Gull,336,G
+Gull,337,G
+Gull,338,G
+Gull,339,T
+Gull,340,G
+Gull,341,G
+Gull,342,T
+Gull,343,G
+Gull,344,G
+Gull,345,G
+Gull,346,A
+Gull,347,A
+Gull,348,A
+Gull,349,G
+Gull,350,C
+Gull,351,G
+Gull,352,G
+Gull,353,A
+Gull,354,G
+Gull,355,G
+Gull,356,G
+Gull,357,G
+Gull,358,G
+Gull,359,A
+Gull,360,G
+Gull,361,A
+Gull,362,G
+Gull,363,G
+Gull,364,G
+Gull,365,T
+Gull,366,A
+Gull,367,A
+Gull,368,G
+Gull,369,A
+Gull,370,G
+Gull,371,G
+Gull,372,G
+Gull,373,G
+Gull,374,A
+Gull,375,T
+Gull,376,G
+Gull,377,G
+Gull,378,T
+Gull,379,T
+Gull,380,T
+Gull,381,G
+Gull,382,T
+Gull,383,G
+Gull,384,G
+Gull,385,G
+Gull,386,C
+Gull,387,G
+Gull,388,G
+Gull,389,T
+Gull,390,A
+Gull,391,G
+Gull,392,T
+Gull,393,G
+Gull,394,G
+Gull,395,T
+Gull,396,A
+Gull,397,G
+Gull,398,G
+Gull,399,G
+Gull,400,T
+Gull,401,G
+Gull,402,G
+Gull,403,G
+Gull,404,T
+Gull,405,G
+Gull,406,G
+Gull,407,G
+Gull,408,G
+Gull,409,T
+Gull,410,G
+Gull,411,G
+Gull,412,G
+Gull,413,G
+Gull,414,G
+Gull,415,G
+Gull,416,G
+Gull,417,G
+Gull,418,G
+Gull,419,G
+Gull,420,G
+Gull,421,G
+Gull,422,G
+Gull,423,T
+Gull,424,G
+Gull,425,T
+Gull,426,C
+Gull,427,T
+Gull,428,T
+Gull,429,T
+Gull,430,A
+Gull,431,G
+Gull,432,G
+Gull,433,T
+Gull,434,G
+Gull,435,G
+Gull,436,T
+Gull,437,G
+Gull,438,G
+Gull,439,G
+Gull,440,G
+Gull,441,T
+Gull,442,G
+Gull,443,G
+Gull,444,G
+Gull,445,A
+Gull,446,G
+Gull,447,G
+Gull,448,G
+Gull,449,C
+Gull,450,G
+Gull,451,G
+Gull,452,T
+Gull,453,G
+Gull,454,G
+Gull,455,G
+Gull,456,G
+Gull,457,G
+Gull,458,G
+Gull,459,G
+Gull,460,T
+Gull,461,G
+Gull,462,C
+Gull,463,G
+Gull,464,G
+Gull,465,G
+Gull,466,T
+Gull,467,G
+Gull,468,A
+Gull,469,G
+Gull,470,A
+Gull,471,T
+Gull,472,G
+Gull,473,T
+Gull,474,G
+Gull,475,C
+Gull,476,A
+Gull,477,A
+Gull,478,T
+Gull,479,G
+Gull,480,G
+Gull,481,G
+Gull,482,G
+Gull,483,G
+Gull,484,G
+Gull,485,T
+Gull,486,G
+Gull,487,G
+Gull,488,C
+Gull,489,A
+Gull,490,A
+Gull,491,G
+Gull,492,T
+Gull,493,C
+Gull,494,G
+Gull,495,G
+Gull,496,G
+Gull,497,G
+Gull,498,G
+Gull,499,G
+Gull,500,G
+St Clair,1,C
+St Clair,2,C
+St Clair,3,G
+St Clair,4,G
+St Clair,5,A
+St Clair,6,A
+St Clair,7,C
+St Clair,8,C
+St Clair,9,T
+St Clair,10,G
+St Clair,11,G
+St Clair,12,G
+St Clair,13,T
+St Clair,14,T
+St Clair,15,A
+St Clair,16,T
+St Clair,17,G
+St Clair,18,G
+St Clair,19,T
+St Clair,20,G
+St Clair,21,A
+St Clair,22,C
+St Clair,23,C
+St Clair,24,G
+St Clair,25,C
+St Clair,26,A
+St Clair,27,G
+St Clair,28,G
+St Clair,29,A
+St Clair,30,T
+St Clair,31,A
+St Clair,32,G
+St Clair,33,T
+St Clair,34,C
+St Clair,35,T
+St Clair,36,G
+St Clair,37,A
+St Clair,38,C
+St Clair,39,G
+St Clair,40,G
+St Clair,41,T
+St Clair,42,G
+St Clair,43,C
+St Clair,44,T
+St Clair,45,G
+St Clair,46,A
+St Clair,47,A
+St Clair,48,G
+St Clair,49,C
+St Clair,50,G
+St Clair,51,T
+St Clair,52,A
+St Clair,53,A
+St Clair,54,G
+St Clair,55,C
+St Clair,56,C
+St Clair,57,A
+St Clair,58,C
+St Clair,59,T
+St Clair,60,C
+St Clair,61,G
+St Clair,62,C
+St Clair,63,A
+St Clair,64,G
+St Clair,65,T
+St Clair,66,C
+St Clair,67,G
+St Clair,68,A
+St Clair,69,T
+St Clair,70,G
+St Clair,71,G
+St Clair,72,T
+St Clair,73,A
+St Clair,74,G
+St Clair,75,C
+St Clair,76,G
+St Clair,77,C
+St Clair,78,T
+St Clair,79,C
+St Clair,80,A
+St Clair,81,C
+St Clair,82,T
+St Clair,83,A
+St Clair,84,G
+St Clair,85,A
+St Clair,86,T
+St Clair,87,A
+St Clair,88,C
+St Clair,89,C
+St Clair,90,C
+St Clair,91,G
+St Clair,92,G
+St Clair,93,C
+St Clair,94,T
+St Clair,95,G
+St Clair,96,G
+St Clair,97,A
+St Clair,98,C
+St Clair,99,G
+St Clair,100,A
+St Clair,101,C
+St Clair,102,G
+St Clair,103,C
+St Clair,104,T
+St Clair,105,A
+St Clair,106,G
+St Clair,107,G
+St Clair,108,T
+St Clair,109,C
+St Clair,110,G
+St Clair,111,G
+St Clair,112,C
+St Clair,113,A
+St Clair,114,A
+St Clair,115,A
+St Clair,116,T
+St Clair,117,A
+St Clair,118,A
+St Clair,119,G
+St Clair,120,T
+St Clair,121,A
+St Clair,122,C
+St Clair,123,G
+St Clair,124,A
+St Clair,125,T
+St Clair,126,G
+St Clair,127,T
+St Clair,128,T
+St Clair,129,A
+St Clair,130,A
+St Clair,131,G
+St Clair,132,T
+St Clair,133,C
+St Clair,134,T
+St Clair,135,G
+St Clair,136,G
+St Clair,137,G
+St Clair,138,T
+St Clair,139,T
+St Clair,140,C
+St Clair,141,A
+St Clair,142,A
+St Clair,143,T
+St Clair,144,T
+St Clair,145,T
+St Clair,146,T
+St Clair,147,A
+St Clair,148,G
+St Clair,149,G
+St Clair,150,G
+St Clair,151,T
+St Clair,152,C
+St Clair,153,T
+St Clair,154,T
+St Clair,155,C
+St Clair,156,T
+St Clair,157,G
+St Clair,158,C
+St Clair,159,A
+St Clair,160,G
+St Clair,161,T
+St Clair,162,T
+St Clair,163,G
+St Clair,164,G
+St Clair,165,C
+St Clair,166,G
+St Clair,167,G
+St Clair,168,G
+St Clair,169,C
+St Clair,170,T
+St Clair,171,A
+St Clair,172,G
+St Clair,173,T
+St Clair,174,A
+St Clair,175,A
+St Clair,176,T
+St Clair,177,C
+St Clair,178,G
+St Clair,179,G
+St Clair,180,T
+St Clair,181,T
+St Clair,182,C
+St Clair,183,T
+St Clair,184,C
+St Clair,185,A
+St Clair,186,T
+St Clair,187,T
+St Clair,188,A
+St Clair,189,G
+St Clair,190,A
+St Clair,191,A
+St Clair,192,G
+St Clair,193,C
+St Clair,194,T
+St Clair,195,G
+St Clair,196,C
+St Clair,197,G
+St Clair,198,C
+St Clair,199,A
+St Clair,200,C
+St Clair,201,C
+St Clair,202,G
+St Clair,203,T
+St Clair,204,G
+St Clair,205,A
+St Clair,206,A
+St Clair,207,T
+St Clair,208,C
+St Clair,209,G
+St Clair,210,G
+St Clair,211,C
+St Clair,212,T
+St Clair,213,C
+St Clair,214,T
+St Clair,215,A
+St Clair,216,C
+St Clair,217,A
+St Clair,218,T
+St Clair,219,T
+St Clair,220,A
+St Clair,221,A
+St Clair,222,G
+St Clair,223,G
+St Clair,224,G
+St Clair,225,C
+St Clair,226,C
+St Clair,227,C
+St Clair,228,C
+St Clair,229,C
+St Clair,230,A
+St Clair,231,A
+St Clair,232,T
+St Clair,233,A
+St Clair,234,G
+St Clair,235,A
+St Clair,236,C
+St Clair,237,T
+St Clair,238,G
+St Clair,239,C
+St Clair,240,A
+St Clair,241,G
+St Clair,242,T
+St Clair,243,G
+St Clair,244,T
+St Clair,245,T
+St Clair,246,G
+St Clair,247,T
+St Clair,248,C
+St Clair,249,A
+St Clair,250,G
+St Clair,251,G
+St Clair,252,G
+St Clair,253,C
+St Clair,254,C
+St Clair,255,T
+St Clair,256,C
+St Clair,257,G
+St Clair,258,T
+St Clair,259,G
+St Clair,260,G
+St Clair,261,G
+St Clair,262,C
+St Clair,263,A
+St Clair,264,A
+St Clair,265,C
+St Clair,266,T
+St Clair,267,G
+St Clair,268,A
+St Clair,269,A
+St Clair,270,C
+St Clair,271,G
+St Clair,272,A
+St Clair,273,C
+St Clair,274,G
+St Clair,275,C
+St Clair,276,C
+St Clair,277,C
+St Clair,278,G
+St Clair,279,A
+St Clair,280,T
+St Clair,281,A
+St Clair,282,T
+St Clair,283,C
+St Clair,284,T
+St Clair,285,T
+St Clair,286,T
+St Clair,287,C
+St Clair,288,C
+St Clair,289,T
+St Clair,290,T
+St Clair,291,A
+St Clair,292,C
+St Clair,293,A
+St Clair,294,T
+St Clair,295,A
+St Clair,296,C
+St Clair,297,G
+St Clair,298,A
+St Clair,299,G
+St Clair,300,G
+St Clair,301,G
+St Clair,302,C
+St Clair,303,G
+St Clair,304,C
+St Clair,305,G
+St Clair,306,A
+St Clair,307,T
+St Clair,308,A
+St Clair,309,G
+St Clair,310,A
+St Clair,311,C
+St Clair,312,C
+St Clair,313,G
+St Clair,314,T
+St Clair,315,G
+St Clair,316,A
+St Clair,317,T
+St Clair,318,G
+St Clair,319,A
+St Clair,320,A
+St Clair,321,A
+St Clair,322,G
+St Clair,323,G
+St Clair,324,G
+St Clair,325,G
+St Clair,326,A
+St Clair,327,A
+St Clair,328,T
+St Clair,329,G
+St Clair,330,G
+St Clair,331,A
+St Clair,332,A
+St Clair,333,T
+St Clair,334,T
+St Clair,335,A
+St Clair,336,A
+St Clair,337,T
+St Clair,338,A
+St Clair,339,C
+St Clair,340,G
+St Clair,341,A
+St Clair,342,A
+St Clair,343,A
+St Clair,344,T
+St Clair,345,G
+St Clair,346,A
+St Clair,347,A
+St Clair,348,A
+St Clair,349,G
+St Clair,350,G
+St Clair,351,G
+St Clair,352,T
+St Clair,353,G
+St Clair,354,G
+St Clair,355,T
+St Clair,356,G
+St Clair,357,A
+St Clair,358,G
+St Clair,359,T
+St Clair,360,A
+St Clair,361,G
+St Clair,362,G
+St Clair,363,C
+St Clair,364,T
+St Clair,365,C
+St Clair,366,T
+St Clair,367,C
+St Clair,368,G
+St Clair,369,C
+St Clair,370,T
+St Clair,371,C
+St Clair,372,A
+St Clair,373,A
+St Clair,374,T
+St Clair,375,T
+St Clair,376,T
+St Clair,377,A
+St Clair,378,G
+St Clair,379,C
+St Clair,380,A
+St Clair,381,C
+St Clair,382,A
+St Clair,383,A
+St Clair,384,T
+St Clair,385,C
+St Clair,386,A
+St Clair,387,A
+St Clair,388,T
+St Clair,389,A
+St Clair,390,T
+St Clair,391,C
+St Clair,392,G
+St Clair,393,T
+St Clair,394,A
+St Clair,395,G
+St Clair,396,C
+St Clair,397,T
+St Clair,398,A
+St Clair,399,T
+St Clair,400,C
+St Clair,401,C
+St Clair,402,A
+St Clair,403,G
+St Clair,404,A
+St Clair,405,C
+St Clair,406,C
+St Clair,407,C
+St Clair,408,T
+St Clair,409,G
+St Clair,410,C
+St Clair,411,A
+St Clair,412,C
+St Clair,413,A
+St Clair,414,C
+St Clair,415,A
+St Clair,416,G
+St Clair,417,T
+St Clair,418,C
+St Clair,419,T
+St Clair,420,T
+St Clair,421,G
+St Clair,422,G
+St Clair,423,G
+St Clair,424,C
+St Clair,425,C
+St Clair,426,A
+St Clair,427,C
+St Clair,428,T
+St Clair,429,G
+St Clair,430,C
+St Clair,431,C
+St Clair,432,G
+St Clair,433,C
+St Clair,434,C
+St Clair,435,G
+St Clair,436,T
+St Clair,437,T
+St Clair,438,A
+St Clair,439,C
+St Clair,440,G
+St Clair,441,T
+St Clair,442,T
+St Clair,443,C
+St Clair,444,A
+St Clair,445,C
+St Clair,446,C
+St Clair,447,C
+St Clair,448,G
+St Clair,449,G
+St Clair,450,C
+St Clair,451,C
+St Clair,452,T
+St Clair,453,A
+St Clair,454,G
+St Clair,455,C
+St Clair,456,A
+St Clair,457,T
+St Clair,458,G
+St Clair,459,C
+St Clair,460,G
+St Clair,461,T
+St Clair,462,A
+St Clair,463,G
+St Clair,464,C
+St Clair,465,C
+St Clair,466,T
+St Clair,467,A
+St Clair,468,A
+St Clair,469,A
+St Clair,470,T
+St Clair,471,G
+St Clair,472,G
+St Clair,473,A
+St Clair,474,T
+St Clair,475,G
+St Clair,476,A
+St Clair,477,T
+St Clair,478,G
+St Clair,479,G
+St Clair,480,C
+St Clair,481,T
+St Clair,482,T
+St Clair,483,A
+St Clair,484,A
+St Clair,485,T
+St Clair,486,T
+St Clair,487,A
+St Clair,488,C
+St Clair,489,T
+St Clair,490,A
+St Clair,491,G
+St Clair,492,C
+St Clair,493,A
+St Clair,494,A
+St Clair,495,G
+St Clair,496,C
+St Clair,497,G
+St Clair,498,T
+St Clair,499,G
+St Clair,500,A
+Leelanau,1,T
+Leelanau,2,A
+Leelanau,3,A
+Leelanau,4,A
+Leelanau,5,T
+Leelanau,6,G
+Leelanau,7,G
+Leelanau,8,C
+Leelanau,9,A
+Leelanau,10,C
+Leelanau,11,G
+Leelanau,12,C
+Leelanau,13,A
+Leelanau,14,A
+Leelanau,15,C
+Leelanau,16,C
+Leelanau,17,A
+Leelanau,18,C
+Leelanau,19,A
+Leelanau,20,T
+Leelanau,21,T
+Leelanau,22,G
+Leelanau,23,A
+Leelanau,24,C
+Leelanau,25,T
+Leelanau,26,G
+Leelanau,27,A
+Leelanau,28,A
+Leelanau,29,C
+Leelanau,30,A
+Leelanau,31,A
+Leelanau,32,G
+Leelanau,33,T
+Leelanau,34,C
+Leelanau,35,G
+Leelanau,36,G
+Leelanau,37,G
+Leelanau,38,G
+Leelanau,39,T
+Leelanau,40,C
+Leelanau,41,C
+Leelanau,42,A
+Leelanau,43,G
+Leelanau,44,T
+Leelanau,45,A
+Leelanau,46,A
+Leelanau,47,G
+Leelanau,48,A
+Leelanau,49,A
+Leelanau,50,G
+Leelanau,51,C
+Leelanau,52,G
+Leelanau,53,T
+Leelanau,54,A
+Leelanau,55,C
+Leelanau,56,G
+Leelanau,57,G
+Leelanau,58,T
+Leelanau,59,C
+Leelanau,60,C
+Leelanau,61,T
+Leelanau,62,C
+Leelanau,63,T
+Leelanau,64,T
+Leelanau,65,C
+Leelanau,66,G
+Leelanau,67,A
+Leelanau,68,T
+Leelanau,69,T
+Leelanau,70,G
+Leelanau,71,A
+Leelanau,72,C
+Leelanau,73,C
+Leelanau,74,A
+Leelanau,75,A
+Leelanau,76,A
+Leelanau,77,G
+Leelanau,78,C
+Leelanau,79,T
+Leelanau,80,C
+Leelanau,81,C
+Leelanau,82,G
+Leelanau,83,T
+Leelanau,84,C
+Leelanau,85,T
+Leelanau,86,G
+Leelanau,87,G
+Leelanau,88,T
+Leelanau,89,A
+Leelanau,90,A
+Leelanau,91,A
+Leelanau,92,C
+Leelanau,93,A
+Leelanau,94,A
+Leelanau,95,C
+Leelanau,96,G
+Leelanau,97,T
+Leelanau,98,T
+Leelanau,99,C
+Leelanau,100,T
+Leelanau,101,T
+Leelanau,102,C
+Leelanau,103,G
+Leelanau,104,A
+Leelanau,105,T
+Leelanau,106,G
+Leelanau,107,G
+Leelanau,108,G
+Leelanau,109,T
+Leelanau,110,T
+Leelanau,111,T
+Leelanau,112,A
+Leelanau,113,T
+Leelanau,114,C
+Leelanau,115,C
+Leelanau,116,T
+Leelanau,117,G
+Leelanau,118,G
+Leelanau,119,G
+Leelanau,120,T
+Leelanau,121,C
+Leelanau,122,T
+Leelanau,123,T
+Leelanau,124,G
+Leelanau,125,C
+Leelanau,126,A
+Leelanau,127,G
+Leelanau,128,C
+Leelanau,129,C
+Leelanau,130,C
+Leelanau,131,G
+Leelanau,132,C
+Leelanau,133,C
+Leelanau,134,T
+Leelanau,135,T
+Leelanau,136,G
+Leelanau,137,G
+Leelanau,138,A
+Leelanau,139,T
+Leelanau,140,A
+Leelanau,141,T
+Leelanau,142,G
+Leelanau,143,G
+Leelanau,144,C
+Leelanau,145,T
+Leelanau,146,C
+Leelanau,147,G
+Leelanau,148,C
+Leelanau,149,G
+Leelanau,150,G
+Leelanau,151,A
+Leelanau,152,C
+Leelanau,153,A
+Leelanau,154,T
+Leelanau,155,G
+Leelanau,156,G
+Leelanau,157,T
+Leelanau,158,C
+Leelanau,159,A
+Leelanau,160,T
+Leelanau,161,A
+Leelanau,162,T
+Leelanau,163,G
+Leelanau,164,C
+Leelanau,165,C
+Leelanau,166,G
+Leelanau,167,G
+Leelanau,168,A
+Leelanau,169,C
+Leelanau,170,C
+Leelanau,171,G
+Leelanau,172,T
+Leelanau,173,A
+Leelanau,174,C
+Leelanau,175,C
+Leelanau,176,G
+Leelanau,177,T
+Leelanau,178,A
+Leelanau,179,A
+Leelanau,180,G
+Leelanau,181,T
+Leelanau,182,T
+Leelanau,183,T
+Leelanau,184,T
+Leelanau,185,G
+Leelanau,186,C
+Leelanau,187,C
+Leelanau,188,T
+Leelanau,189,A
+Leelanau,190,A
+Leelanau,191,T
+Leelanau,192,A
+Leelanau,193,A
+Leelanau,194,T
+Leelanau,195,C
+Leelanau,196,G
+Leelanau,197,T
+Leelanau,198,C
+Leelanau,199,A
+Leelanau,200,T
+Leelanau,201,T
+Leelanau,202,G
+Leelanau,203,A
+Leelanau,204,A
+Leelanau,205,A
+Leelanau,206,C
+Leelanau,207,G
+Leelanau,208,T
+Leelanau,209,T
+Leelanau,210,T
+Leelanau,211,T
+Leelanau,212,G
+Leelanau,213,A
+Leelanau,214,T
+Leelanau,215,A
+Leelanau,216,C
+Leelanau,217,T
+Leelanau,218,A
+Leelanau,219,A
+Leelanau,220,C
+Leelanau,221,A
+Leelanau,222,A
+Leelanau,223,A
+Leelanau,224,G
+Leelanau,225,A
+Leelanau,226,G
+Leelanau,227,A
+Leelanau,228,C
+Leelanau,229,T
+Leelanau,230,C
+Leelanau,231,T
+Leelanau,232,A
+Leelanau,233,A
+Leelanau,234,G
+Leelanau,235,T
+Leelanau,236,T
+Leelanau,237,G
+Leelanau,238,G
+Leelanau,239,C
+Leelanau,240,T
+Leelanau,241,A
+Leelanau,242,C
+Leelanau,243,C
+Leelanau,244,T
+Leelanau,245,G
+Leelanau,246,A
+Leelanau,247,C
+Leelanau,248,C
+Leelanau,249,A
+Leelanau,250,A
+Leelanau,251,G
+Leelanau,252,G
+Leelanau,253,G
+Leelanau,254,T
+Leelanau,255,G
+Leelanau,256,T
+Leelanau,257,C
+Leelanau,258,A
+Leelanau,259,C
+Leelanau,260,G
+Leelanau,261,T
+Leelanau,262,G
+Leelanau,263,G
+Leelanau,264,C
+Leelanau,265,A
+Leelanau,266,C
+Leelanau,267,C
+Leelanau,268,G
+Leelanau,269,C
+Leelanau,270,C
+Leelanau,271,G
+Leelanau,272,T
+Leelanau,273,A
+Leelanau,274,T
+Leelanau,275,A
+Leelanau,276,A
+Leelanau,277,G
+Leelanau,278,C
+Leelanau,279,G
+Leelanau,280,G
+Leelanau,281,G
+Leelanau,282,G
+Leelanau,283,G
+Leelanau,284,G
+Leelanau,285,G
+Leelanau,286,C
+Leelanau,287,G
+Leelanau,288,T
+Leelanau,289,G
+Leelanau,290,G
+Leelanau,291,A
+Leelanau,292,T
+Leelanau,293,G
+Leelanau,294,A
+Leelanau,295,A
+Leelanau,296,A
+Leelanau,297,T
+Leelanau,298,C
+Leelanau,299,T
+Leelanau,300,C
+Leelanau,301,A
+Leelanau,302,T
+Leelanau,303,G
+Leelanau,304,A
+Leelanau,305,T
+Leelanau,306,T
+Leelanau,307,G
+Leelanau,308,T
+Leelanau,309,G
+Leelanau,310,A
+Leelanau,311,C
+Leelanau,312,G
+Leelanau,313,A
+Leelanau,314,A
+Leelanau,315,G
+Leelanau,316,C
+Leelanau,317,C
+Leelanau,318,C
+Leelanau,319,G
+Leelanau,320,T
+Leelanau,321,A
+Leelanau,322,G
+Leelanau,323,C
+Leelanau,324,C
+Leelanau,325,C
+Leelanau,326,C
+Leelanau,327,G
+Leelanau,328,C
+Leelanau,329,A
+Leelanau,330,A
+Leelanau,331,T
+Leelanau,332,G
+Leelanau,333,C
+Leelanau,334,C
+Leelanau,335,C
+Leelanau,336,C
+Leelanau,337,T
+Leelanau,338,T
+Leelanau,339,G
+Leelanau,340,C
+Leelanau,341,G
+Leelanau,342,A
+Leelanau,343,C
+Leelanau,344,C
+Leelanau,345,C
+Leelanau,346,G
+Leelanau,347,C
+Leelanau,348,C
+Leelanau,349,T
+Leelanau,350,A
+Leelanau,351,G
+Leelanau,352,G
+Leelanau,353,C
+Leelanau,354,C
+Leelanau,355,A
+Leelanau,356,C
+Leelanau,357,A
+Leelanau,358,G
+Leelanau,359,C
+Leelanau,360,G
+Leelanau,361,C
+Leelanau,362,T
+Leelanau,363,A
+Leelanau,364,T
+Leelanau,365,T
+Leelanau,366,G
+Leelanau,367,C
+Leelanau,368,A
+Leelanau,369,G
+Leelanau,370,C
+Leelanau,371,G
+Leelanau,372,G
+Leelanau,373,C
+Leelanau,374,G
+Leelanau,375,T
+Leelanau,376,G
+Leelanau,377,G
+Leelanau,378,G
+Leelanau,379,C
+Leelanau,380,G
+Leelanau,381,G
+Leelanau,382,A
+Leelanau,383,T
+Leelanau,384,C
+Leelanau,385,A
+Leelanau,386,A
+Leelanau,387,C
+Leelanau,388,C
+Leelanau,389,C
+Leelanau,390,T
+Leelanau,391,A
+Leelanau,392,A
+Leelanau,393,G
+Leelanau,394,T
+Leelanau,395,C
+Leelanau,396,C
+Leelanau,397,G
+Leelanau,398,T
+Leelanau,399,C
+Leelanau,400,A
+Leelanau,401,G
+Leelanau,402,C
+Leelanau,403,G
+Leelanau,404,A
+Leelanau,405,T
+Leelanau,406,C
+Leelanau,407,C
+Leelanau,408,T
+Leelanau,409,C
+Leelanau,410,C
+Leelanau,411,C
+Leelanau,412,C
+Leelanau,413,G
+Leelanau,414,A
+Leelanau,415,G
+Leelanau,416,T
+Leelanau,417,A
+Leelanau,418,G
+Leelanau,419,A
+Leelanau,420,A
+Leelanau,421,A
+Leelanau,422,G
+Leelanau,423,G
+Leelanau,424,G
+Leelanau,425,A
+Leelanau,426,C
+Leelanau,427,G
+Leelanau,428,C
+Leelanau,429,T
+Leelanau,430,A
+Leelanau,431,G
+Leelanau,432,A
+Leelanau,433,C
+Leelanau,434,T
+Leelanau,435,A
+Leelanau,436,A
+Leelanau,437,A
+Leelanau,438,C
+Leelanau,439,T
+Leelanau,440,T
+Leelanau,441,T
+Leelanau,442,A
+Leelanau,443,T
+Leelanau,444,T
+Leelanau,445,C
+Leelanau,446,C
+Leelanau,447,A
+Leelanau,448,T
+Leelanau,449,T
+Leelanau,450,T
+Leelanau,451,C
+Leelanau,452,G
+Leelanau,453,C
+Leelanau,454,T
+Leelanau,455,T
+Leelanau,456,A
+Leelanau,457,C
+Leelanau,458,A
+Leelanau,459,T
+Leelanau,460,A
+Leelanau,461,A
+Leelanau,462,A
+Leelanau,463,G
+Leelanau,464,A
+Leelanau,465,A
+Leelanau,466,C
+Leelanau,467,A
+Leelanau,468,G
+Leelanau,469,G
+Leelanau,470,T
+Leelanau,471,C
+Leelanau,472,G
+Leelanau,473,G
+Leelanau,474,G
+Leelanau,475,T
+Leelanau,476,G
+Leelanau,477,C
+Leelanau,478,T
+Leelanau,479,C
+Leelanau,480,C
+Leelanau,481,T
+Leelanau,482,G
+Leelanau,483,A
+Leelanau,484,T
+Leelanau,485,G
+Leelanau,486,A
+Leelanau,487,T
+Leelanau,488,T
+Leelanau,489,G
+Leelanau,490,A
+Leelanau,491,T
+Leelanau,492,G
+Leelanau,493,G
+Leelanau,494,T
+Leelanau,495,A
+Leelanau,496,T
+Leelanau,497,G
+Leelanau,498,C
+Leelanau,499,C
+Leelanau,500,G
